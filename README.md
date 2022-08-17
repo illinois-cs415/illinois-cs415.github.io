@@ -1,2 +1,2 @@
-# illinois-cs415.github.io
-Course website for CS 415 Game Development at the University of Illinois at Urbana Champaign
+# illinois-cs498gd.github.io
+Website for CS 498 Game Development
