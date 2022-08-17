@@ -10,7 +10,7 @@ permalink: /
 
 ## Overview ##
 
-This is a team and project-based course on video game design and development using Unreal Engine and C++. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central  focus of the course will be the design and development of a game by teams of 3 to 5 students. The course strongly emphasizes code development and there are no exams.
+This is a team and project-based course on video game design and development using Unreal Engine. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central  focus of the course will be the design and development of a game by teams of 3 to 5 students. The course strongly emphasizes code development and there are no exams.
 
 ## Communication ##
 
@@ -26,14 +26,7 @@ Use the passcode 2549.
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
 * TA Jason Situ
-* TA Pranav Asthana
-* TA Billy Li 
-* TA Yi-Hsiang Kao
-* CA Nathaniel Cohen
-* CA Ian Rudnick
-* CA Charlie Agriogianis
 * CA Jeffrey Liu
-* CA Heather McNaughton
 
 ## Instructional Content ##
 
@@ -42,8 +35,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Lectures ####
 
 + Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs498gd.github.io/schedule).
-+ **You can attend live lectures/discussions at 12:30pm Central Time on Tuesdays at this [Zoom link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09).**
-+ **For the first week of class, we will NOT be live on Tuesday...<br/>...instead we will meet Thursday Jan. 20 at 12:30pm CT at the above link.**
++ **You can attend live lectures/discussions at 11:00am Central Time on Fridays at this [Zoom link]().**
 + These lectures will be recorded and available on the course schedule.
 
 #### Development Resources ####
