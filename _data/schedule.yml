@@ -34,40 +34,40 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Sep 21"
-  title: "Graphics: Ray Tracing "
+  title: "Graphics: Rasterization "
 -
   date: "Week 5: Sep 23"
-  title: "Graphics: Rasterization"
+  title: "Graphics: Shading"
 - 
   date: "Week 6: Sep 28"
-  title: "Graphics: Shading"
+  title: "Game Design"
 -
   date: "Week 6: Sep 30"
-  title: "Graphics: GPU Ray Tracing"
+  title: "Game Design"
 - 
   date: "Week 7: Oct 5"
-  title: "Game AI" 
+  title: "Virtual Reality" 
 -  
   date: "Week 7: Oct 7"
-  title: "Game AI"
+  title: "Virtual Reality"
 -  
   date: "Week 8: Oct 12"
-  title: "Game Design"
+  title: "Game AI"
 - 
   date: "Week 8: Oct 14"
-  title: "Game Design"
+  title: "Game AI"
 -  
   date: "Week 9: Oct 19"
-  title: ""
+  title: "Game AI"
 -
   date: "Week 9: Oct 21"
-  title: ""
+  title: "Game AI"
 -
   date: "Week 10: Oct 26"
-  title: "Animation: Theory"
+  title: "Animation"
 -
   date: "Week 10: Oct 28"
-  title: "Game Physics"
+  title: "Animation"
 -
   date: "Week 11: Nov 2"
   title: "Game Physics"
@@ -76,18 +76,16 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Game Physics"
 - 
   date: "Week 12: Nov 9"
-  title: "Real-time Path Tracing"
+  title: "Game Physics"
 -  
   date: "Week 12: Nov 11"
-  materials: ""
-  title: "Game Physics: Semi-Implicit Euler"
+  title: "Game Industry: Guest Speaker"
 -
   date: "Week 13: Nov 16"
-  title: "Game AI: Tactical AI"
+  title: "Graphics: Ray Tracing"
 -
   date: "Week 13: Nov 18"
-  materials: ""
-  title: "Game AI: Team AI"
+  title: "Game Industry: Guest Speaker"
 -  
   date: "Week 14: Nov 23"
   title: "**Fall Break**"
@@ -96,7 +94,7 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "**Fall Break**"
 -
   date: "Week 15: Nov 30"
-  title: "Virtual Reality"
+  title: "GDC Talk: Real-Time Path Tracing"
 -
   date: "Week 15: Dec 2"
-  title: "Virtual Reality"
+  title: "Game Industry: Guest Speaker"
