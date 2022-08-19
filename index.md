@@ -55,7 +55,7 @@ If your computer is not capable of running Unreal, you can use the Siebel Center
 Assigned work will include 8 quizzes, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Quizzes ####
-There will be 10 short quizzes on PrairieLearn. These quizzes will be based on the lecture material. 
+There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material. 
 + The quizzes can be taken asynchronously...outside class time.
 + You should budget 45 minutes to take a quiz.
 + Each quiz can be retaken as many times as you wish for full credit.
