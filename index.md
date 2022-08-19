@@ -26,6 +26,8 @@ Use the passcode 2558.
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
 * TA Jason Situ
+* TA Shresta Bangaru
+* TA Ray Lin
 * CA Jeffrey Liu
 
 ## Instructional Content ##
@@ -34,8 +36,8 @@ The course will be taught using online lectures along with additional reading ma
 
 #### Lectures ####
 
-+ Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs498gd.github.io/schedule).
-+ **You can attend live lectures/discussions at 11:00am Central Time on Fridays at this [Zoom link]().**
++ Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs415.github.io/schedule).
++ **You should attend live lectures/discussions at 11:00am Central Time on Fridays at this [Zoom link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09).**
 + These lectures will be recorded and available on the course schedule.
 
 #### Development Resources ####
@@ -69,7 +71,7 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 #### 4 Credit Project ####
 
-Students taking the course for 4 credits should select one of the projects to complete from the [assignment page describing the 4 credit assignment](https://illinois-cs498gd.github.io/assignments/FourCreditMP.html). The level of effort will be about the same as one of the programming assignments.
+Students taking the course for 4 credits will complete an additional project involving Virtual Reality development. The level of effort will be about the same as one of the programming assignments.
 
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
