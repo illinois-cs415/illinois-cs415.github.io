@@ -43,7 +43,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-You can test your computer by downloading and installing Unreal vesion 4.27 from [here](https://www.unrealengine.com/en-US/download) <br/>
+You can test your computer by downloading and installing Unreal vesion 4.27.2 from [here](https://www.unrealengine.com/en-US/download) <br/>
 You should choose the publishing license. 
 
 Test your installation by working through the [Your First Hour with Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
