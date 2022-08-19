@@ -46,9 +46,9 @@ You will need to have access to a computer capable of running Unreal Engine. <br
 You can test your computer by downloading and installing Unreal vesion 4.27.2 from [here](https://www.unrealengine.com/en-US/download) <br/>
 You should choose the publishing license. 
 
-Test your installation by working through the [Your First Hour with Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
+Test your installation by working through the [his tutorial](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4).
 
-If your computer is not capable of running Unreal, you can use the Siebel Center 4107 Lab either in person or remotely for development. The lab will be open after the second week of class and everyone taking the course will have keycard access to the lab. You can find instuctions for accessing the machines remotely on the [Resources page](https://illinois-cs498gd.github.io/resources).  
+If your computer is not capable of running Unreal, you can use the Siebel Center 4107 Lab either in person or remotely for development. The lab will be open after the second week of class and everyone taking the course will have keycard access to the lab. You can find instuctions for accessing the machines remotely on the [Resources page](https://illinois-cs415.github.io/resources).  
 
 ## Assessments ##
 
