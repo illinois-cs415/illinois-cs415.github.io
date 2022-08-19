@@ -1,42 +1,42 @@
 ---
 layout: assignment
 title: "Your First Game: An Infinite Matrix"
-index: 10
-due: "Sep 9, 2022 @ 5:00 PM"
+index: 1
+due: "Sep 14, 2022 @ 5:00 PM"
 material: ~
-points: 40
+points: 100
 rubric:
 -
     name: Complete the tutorial
-    points: 5
+    points: 10
     description: Have working code that matches the functionality described in the tutorial
 -
     name: Health system
-    points: 5
+    points: 15
     description: Display and track a player health metric
 -
     name: Score system
-    points: 5
+    points: 10
     description: Display and track a game score
 -
     name: Health packs
-    points: 5
+    points: 15
     description: Spawn health packs that can be picked up
 -
     name: Speed increase
-    points: 5
+    points: 10
     description: Gently increase player speed over time
 -
     name: Enemies
-    points: 5
+    points: 15
     description: Spawn enemies...the visual representation is up to you.
 -
     name: Player projectile attacks
-    points: 5
+    points: 15
     description: Add a player controllable projectile weapon
 -
     name: Creative addition
-    points: 5
+    points: 10
     description: Modify the game aesthetic in some way
 
 ---
@@ -106,7 +106,7 @@ Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.r
 
 ## Advice
 
-**Start working now...try to complete the tutorial in a couple of days and then work on adding a new mod every two days.** Do not be afraid to ask for help...on [CampusWire](https://campuswire.com/c/G18C1B62F/feed) or in [office hours](https://illinois-cs498gd.github.io/officehours.html). You can help out other students - answering questions on how to do things on CampusWire is very much encouraged. Learning how to implement a mechanic online or from someone on CampusWire is not plagiarism.
+**Start working now...try to complete the tutorial in a couple of days and then work on adding a new mod every two days.** Do not be afraid to ask for help...on [CampusWire](https://campuswire.com/c/GA821B381/feed) or in [office hours](https://illinois-cs415.github.io/officehours.html). You can help out other students - answering questions on how to do things on CampusWire is very much encouraged. Learning how to implement a mechanic online or from someone on CampusWire is not plagiarism.
 
 **Also, do not be afraid to change the initial game defaults in order to make the game more playable.** You can have the initial speed be slower, have the tunnels be longer or bigger...change things so that it is a game you think is a reasonably good experience. You will not be penalized for any intentional modifications that are meant to make the game more fun. If you would like to make a modification that explicitly and intentionally contradicts the spec, feel free to ask on CampusWire or explain in your submission.
 
