@@ -14,11 +14,11 @@ This is a team and project-based course on video game design and development usi
 
 ## Communication ##
 
-#### [CampusWire](https://campuswire.com/p/GC1EB3DC9) ####
+#### [CampusWire](https://campuswire.com/p/GA821B381) ####
 
 We will use CampusWire for answering questions and administering the course.
 Click the header to join/view the forum.<br/> 
-Use the passcode 2549. 
+Use the passcode 2558. 
 
 + For any question involving a grade you should select `Post to instructors and TAs`.
 
@@ -53,11 +53,10 @@ If your computer is not capable of running Unreal, you can use the Siebel Center
 Assigned work will include 8 quizzes, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Quizzes ####
-There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material. 
+There will be 10 short quizzes on PrairieLearn. These quizzes will be based on the lecture material. 
 + The quizzes can be taken asynchronously...outside class time.
-+ There is no time limit but each quiz has to be taken in one sitting
 + You should budget 45 minutes to take a quiz.
-+ Each question allows multiple attempts at reduced credit.
++ Each quiz can be retaken as many times as you wish for full credit.
 + The quizzes are open web. 
 + Each quiz will be available for 1 week at full credit. 
 + After that week, the quiz can be taken for half credit.  
