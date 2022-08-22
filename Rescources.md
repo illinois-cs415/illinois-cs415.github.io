@@ -4,14 +4,6 @@ title: Resources
 permalink: /resources
 ---
 
-## SC 4107 Lab Machines
-
-The EWS computers in Siebel Center for Computer Science room 4107 are available  for your use in the course. There are 21 computers with Unreal Engine 4 installed. All students have e-lock access to room. 
-
-We have set aside 3 machines for remote access only. You should be able to access the machine using Remote Desktop from Windows or Mac machines or even a ChromeBook. The instructions are here: [LabCheck instructions](https://answers.uillinois.edu/illinois.engineering/105329)
-
-**Make sure you backup your files someplace other than the EWS machines. The machine filesystems are cleaned periodically, so you will need to store your Unreal  projects in a repo or on Box or Drive, etc.**
-
 ## References
 
 Below are a list of online reference material for the topics covered in the course.
