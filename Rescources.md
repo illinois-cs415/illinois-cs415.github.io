@@ -18,9 +18,9 @@ The computers in the Idea Lab should be reserved ahead of time. Students can res
 1.	Click “Reserve a Space”: 
  
 2.	You can then reserve a “seat” in any of the following rooms:
-•	3D Design Lab
-•	3D Digital Scholarship Lab
-•	Immersive Learning Lab
++	3D Design Lab
++	3D Digital Scholarship Lab
++	Immersive Learning Lab
 
 3.	When completing a booking form for a seat in one of those rooms, you should make sure to do it at least 24 hours in advance and you should fill out each form field completely, including indicating what software they need. This is important as it help us make sure the software is already installed and is up to date.
 
