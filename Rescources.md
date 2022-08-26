@@ -7,11 +7,13 @@ permalink: /resources
 # Where Can I Find a Computer Running Unreal Engine?
 
 You have two options on the University of Illinois campus: the Grainger Library Idea Lab and the 4107 Siebel Center VR Lab.
-**In both cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain you work after you leave.**
+**In both cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain your work after you leave.**
 
 ### Grainger Library Idea Lab
 
 The computers in the Idea Lab should be reserved ahead of time. Students can reserve them 24 hours in advance from the website: [idealab.illinois.edu](idealab.illinois.edu). **Lab hours are 10am to 10pm Monday through Friday** 
+
+![Mandolorian](/img/idealab.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 
 1.	Click “Reserve a Space”: 
  
