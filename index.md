@@ -48,9 +48,7 @@ You should choose the publishing license.
 
 Test your installation by working through [this tutorial](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4).
 
-If your computer is not capable of running Unreal, you can use the machines in the Grainger Library Idea Lab(https://www.library.illinois.edu/enx/idea-lab/).
-
-We are working on getting you access to more gaming machines in either the Siebel or NCSA buildings and will post on CampusWire when those come online.
+If your computer is not capable of running Unreal, see the [Resources page](https://illinois-cs415.github.io/resources) for ways you can find a computer running Unreal Engine.
 
 ## Assessments ##
 
