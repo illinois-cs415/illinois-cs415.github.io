@@ -15,7 +15,10 @@
   title: "Unreal Engine Basics"
 -
   date: "Week 2: Sep 2"
-  materials: "Live Lecture [Zoom Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)"
+  materials: "Live Lecture [Zoom Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09) <br/>
+              Game Design Overview [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf) <br/>
+              UE5 Overview [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf) <br/>
+              Geometric Models: Theory and Practice [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf)"
   title: "Unreal Engine Basics"
 -
   date: "Week 3: Sep 7"
