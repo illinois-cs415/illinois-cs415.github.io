@@ -54,14 +54,13 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 Assigned work will include 8 quizzes, 2 programming assignments, and a final project.
 
-#### Bi-Weekly Quizzes ####
-There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material. 
-+ The quizzes can be taken asynchronously...outside class time.
-+ You should budget 45 minutes to take a quiz.
-+ Each quiz can be retaken as many times as you wish for full credit.
-+ The quizzes are open web. 
-+ Each quiz will be available for 1 week at full credit. 
-+ After that week, the quiz can be taken for half credit.  
+#### Bi-Weekly Homeworks ####
+There will be 8 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
++ You should budget an hour to complete a homework assignment.
++ Each homework can be retaken as many times as you wish for full credit.
++ The homworks are open web. 
++ Each homework will be available for 2 weeks at full credit. 
++ After that week, the homework can be submitted for half credit.  
 
 #### Programming Assignments ####
 There will be 2 programming assignments that will serve as an introduction to Unreal.
