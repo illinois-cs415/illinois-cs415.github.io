@@ -35,7 +35,8 @@
   title: "Basic Geometric Modeling"
 -  
   date: "Week 4: Sep 14"
-  title: "LOD Generation and Mesh Simplification [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-SimplificationAndLOD2.pdf)"
+  materials:  "Mesh Simplification [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-SimplificationAndLOD2.pdf)"
+  title: "LOD Generation"
 -  
   date: "Week 4: Sep 16"
   title: "UE5 Nanite Virtual Geometry"
