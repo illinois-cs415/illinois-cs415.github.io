@@ -81,7 +81,7 @@ We weight grades as follows:
 | ----- | ------ | ----- |  
 | MP 1 | 15% | 10% | 
 | MP 2 | 20% | 15% |   
-| Quizzes| 25%  | 25%  |
+| Homework| 25%  | 25%  |
 | Project | 40% | 40% |
 | 4 Credit Project | NA | 10% |
 
