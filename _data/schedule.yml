@@ -21,29 +21,35 @@
   title: "Unreal Engine Basics"
 -
   date: "Week 3: Sep 7"
+  materials: "Geometric Models: Bezier Curves [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezCurves.pdf) <br/>
+              Geometric Models: Bezier Surfaces [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezPatch.pdf)<br/>
+              Optional Reading: Bezier Techniques [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/Chapter-4-B-zier-Techniques_2002_Handbook-of-Computer-Aided-Geometric-Design.pdf) <br/>
+              Optional Reading: Bezier Curve Examples [Link](https://javascript.info/bezier-curve)"
   title: "Basic Geometric Modeling"
 -
   date: "Week 3: Sep 9"
-  materials:"Geometric Models: Theory and Practice [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf)"
+  materials: "Live Video [Zoom Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09) <br/><br/>
+  Geometric Modeling: Creating Assets and Art [PDF]() <br/>
+  Geometric Models: Meshes: Theory and Practice [PDF]()"
   title: "Basic Geometric Modeling"
 -  
   date: "Week 4: Sep 14"
-  title: "Graphics: Rasterization"
+  title: "LOD Generation and Mesh Simplification [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-SimplificationAndLOD2.pdf)"
 -  
   date: "Week 4: Sep 16"
-  title: "Graphics: Shading"
+  title: "UE5 Nanite Virtual Geometry"
 -
   date: "Week 5: Sep 21"
   title: "Game Design"
 -
   date: "Week 5: Sep 23"
-  title: "Game Design"
+  title: "Game Design and Project Overview"
 - 
   date: "Week 6: Sep 28"
-  title: "UE Material Models"
+  title: "Graphics: Rasterization and Shading"
 -
   date: "Week 6: Sep 30"
-  title: "UE5: Nanite"
+  title: "Graphics: UE5 Internals"
 - 
   date: "Week 7: Oct 5"
   title: "Virtual Reality" 
