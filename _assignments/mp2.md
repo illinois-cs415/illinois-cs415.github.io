@@ -84,7 +84,7 @@ The Pursuer should:
 -	Within reason, return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
 
 Here is a tutorial to help get you started on the Pursuer enemy type:
-[Tutorial Link](https://drive.google.com/file/d/1HS-XrwXw8WPtJnp3zHTCFZ-jC5swLpJn/view?usp=sharing)
+[Tutorial Link](https://drive.google.com/file/d/1zoJnzQR6WuSpxx6g3fdB4aDGg7fbOIke/view?usp=sharing)
 <br/>
 
 #### **The Mortar** 
