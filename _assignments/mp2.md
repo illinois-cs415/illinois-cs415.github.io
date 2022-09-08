@@ -2,7 +2,7 @@
 layout: assignment
 title: "Level Design"
 index: 10
-due: "TBD"
+due: "Oct 7, 2022 @ 5:00 PM"
 material: ~
 points: 100
 rubric:
