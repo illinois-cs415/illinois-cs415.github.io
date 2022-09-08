@@ -43,14 +43,14 @@ rubric:
 # MP 2: Level Design
 Your second MP is all about level design and all the important factors that go in to it. In this MP we will touch on player abilities, level layouts, and enemy AI.
 
-To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:<br/><br/>
+To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/)
 <br/>
 Once you have done that you can continue on to the main assignment.
 
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
 
-The basic player controller along with a large number of assets you may want to use are found here: <br/><br/>
+The basic player controller along with a large number of assets you may want to use are found here: 
 [Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games)<br/>
 It will say it only is updated for 4.26, just open it with 4.27 and it will work fine.
 
@@ -83,7 +83,7 @@ The Pursuer should:
 -	Run at the player when they get within a moderate distance of each other, and they have line of sight with each other
 -	Within reason, return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
 
-Here is a tutorial to help get you started on the Pursuer enemy type:<br/><br/>
+Here is a tutorial to help get you started on the Pursuer enemy type:
 [Tutorial Link](https://drive.google.com/file/d/1HS-XrwXw8WPtJnp3zHTCFZ-jC5swLpJn/view?usp=sharing)
 <br/>
 
