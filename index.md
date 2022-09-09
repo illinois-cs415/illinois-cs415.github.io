@@ -52,7 +52,7 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 ## Assessments ##
 
-Assigned work will include 8 quizzes, 2 programming assignments, and a final project.
+Assigned work will include 8 homework assignments, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Homeworks ####
 There will be 8 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
