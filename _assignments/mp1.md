@@ -2,7 +2,7 @@
 layout: assignment
 title: "Your First Game: An Infinite Matrix"
 index: 1
-due: "Sep 14, 2022 @ 5:00 PM"
+due: "Sep 16, 2022 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
