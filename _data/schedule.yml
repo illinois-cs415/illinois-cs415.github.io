@@ -29,13 +29,16 @@
 -
   date: "Week 3: Sep 9"
   materials: "Live Lecture [Video](https://classtranscribe.illinois.edu/video?id=c85bc7fb-650e-4b69-8d20-ccbb9acc67fb&from=sharedlink) <br/><br/>
-  Geometric Modeling: Game Art [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
+  Geometric Models: Game Art [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
   Geometric Models: Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf) <br/>
   PrairieLearn HW 1 **Due 9/23** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322273)"
   title: "Basic Geometric Modeling"
 -  
   date: "Week 4: Sep 14"
-  materials:  "Mesh Simplification [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-SimplificationAndLOD2.pdf)"
+  materials:  "Geometric Models: Level-of-Detail Rendering [Video](https://classtranscribe.illinois.edu/video?id=9b359257-a3cd-4d97-8634-edad289ee7ce&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshLOD.pdf) <br/>
+              Geometric Models: Mesh Simplification [Video](https://classtranscribe.illinois.edu/video?id=eb69792d-2f24-419e-b5d4-82fe36ed7039&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshLODQEM.pdf)<br/>
+              Optional Reading: Mesh Data Structures [PDF]() <br/>
+              Optional Reading:  Original Mesh Simplification Paper [PDF]()"
   title: "LOD Generation"
 -  
   date: "Week 4: Sep 16"
