@@ -37,7 +37,7 @@
   date: "Week 4: Sep 14"
   materials:  "Geometric Models: Level-of-Detail Rendering [Video](https://classtranscribe.illinois.edu/video?id=9b359257-a3cd-4d97-8634-edad289ee7ce&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshLOD.pdf) <br/>
               Geometric Models: Mesh Simplification [Video](https://classtranscribe.illinois.edu/video?id=eb69792d-2f24-419e-b5d4-82fe36ed7039&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshLODQEM.pdf)<br/>
-              Optional Reading: Mesh Data Structures [PDF]() <br/>
+              Optional Reading: Mesh Data Structures [PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf) <br/>
               Optional Reading:  Original Mesh Simplification Paper [PDF](http://www.cs.cmu.edu/~garland/Papers/quadrics.pdf)"
   title: "LOD Generation"
 -  
