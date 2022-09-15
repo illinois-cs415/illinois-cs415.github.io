@@ -42,7 +42,7 @@
   title: "LOD Generation"
 -  
   date: "Week 4: Sep 16"
-  materials:"[Live Zoom Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+  materials: "[Live Zoom Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
             Geometric Models: Nanite in UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf) <br/>
             Optional: Deep Dive into Nanite Siggraph 2021 Talk [YouTube](https://youtu.be/eviSykqSUUw)"
   title: "UE5 Nanite Virtual Geometry"
