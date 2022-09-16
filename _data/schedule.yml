@@ -48,16 +48,16 @@
   title: "UE5 Nanite Virtual Geometry"
 -
   date: "Week 5: Sep 21"
-  title: "Game Design"
+  title: "Graphics: Rendering Basics"
 -
   date: "Week 5: Sep 23"
-  title: "Game Design and Project Overview"
+  title: "Graphics: Shading"
 - 
   date: "Week 6: Sep 28"
-  title: "Graphics: Rasterization and Shading"
+  title: "Game Design"
 -
   date: "Week 6: Sep 30"
-  title: "Graphics: UE5 Internals"
+  title: "Game Design and Project Overview"
 - 
   date: "Week 7: Oct 5"
   title: "Virtual Reality" 
@@ -96,7 +96,7 @@
   title: "Game Industry: Guest Speaker"
 -
   date: "Week 13: Nov 16"
-  title: "Graphics: Ray Tracing"
+  title: "Game Audio"
 -
   date: "Week 13: Nov 18"
   title: "Game Industry: Guest Speaker"
