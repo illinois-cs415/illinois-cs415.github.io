@@ -44,7 +44,7 @@
   date: "Week 4: Sep 16"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=6ae230cb-1de5-4ab5-a220-88dbd37a0196&from=sharedlink)<br/><br/>
             Geometric Models: Nanite in UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf) <br/>
-            Optional: Nanite SIGGRAPH 2021 Talk [YouTube](https://youtu.be/eviSykqSUUw)"
+            Optional: Nanite SIGGRAPH Talk [YouTube](https://youtu.be/eviSykqSUUw)"
   title: "UE5 Nanite Virtual Geometry"
 -
   date: "Week 5: Sep 21"
