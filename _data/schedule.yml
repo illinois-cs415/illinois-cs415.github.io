@@ -50,9 +50,9 @@
 -
   date: "Week 5: Sep 21"
   materials: "Rendering Concepts [Video](https://classtranscribe.illinois.edu/video?id=1f00f586-fa67-4ab4-9a49-6255397f3838&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rendering.pdf) <br/>
-              Rasterization [Video](https://classtranscribe.illinois.edu/video?id=bbc3d76b-231a-4a9c-8bbe-f4da6c91c0de&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rasterization.pdf) <br/>
+              Rasterization [Video](https://classtranscribe.illinois.edu/video?id=bbc3d76b-231a-4a9c-8bbe-f4da6c91c0de&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rasterization.pdf) <br/><br/>
               Basics of Ray Tracing by Eric Haines [Video](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/>
-              Rasterization vs Ray Tracing by Eric Haines [Video](https://developer.nvidia.com/blog/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/)<br/>"
+              Rasterization by Eric Haines [Video](https://developer.nvidia.com/blog/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/)<br/>"
   title: "Graphics: Rendering Basics"
 -
   date: "Week 5: Sep 23"
