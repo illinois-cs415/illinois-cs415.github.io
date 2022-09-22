@@ -46,7 +46,7 @@ Your second MP is all about level design and all the important factors that go i
 To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/)
 <br/>
-Once you have done that you can continue on to the main assignment.
+Once you have done that you can continue on to the main assignment. Please read through the entire assignment spec before starting so that you can get a better understanding of the requirements. 
 
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
 
@@ -112,7 +112,7 @@ Your level should:
 - Have floating collectibles scattered around the level to guide the player and encourage them to explore
 - You can use any asset you want for these, and there are several included in the given assets
 - These objects should be destroyed on collection, and the number collected should be displayed some where on the UI
-- The design of the level should specifically take into account the flight mechanic, the mechanic you created, and your enemy design
+- The design of the level should specifically take into account the mechanic you created and your enemy design. 
 
 As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project.
 
