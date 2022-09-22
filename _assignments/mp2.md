@@ -57,7 +57,7 @@ It will say it only is updated for 4.26, just open it with 4.27 and it will work
 The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
 ## Part 1: Update Your Character
-The first thing you need to do is update your character. You need to do this in two ways.
+The first thing you need to do is update your character as follows. 
 
 ### **Add a Health System**
 This should be very similar to the system used in the first MP. It should have a bar displayed somewhere on the screen, and a game over screen should be displayed if it reaches 0. You should also make an item that can be placed in the world and picked up to restore health. This item should be destroyed on collection. There are several given assets that could work well for this but you can use whatever you want.
@@ -112,7 +112,7 @@ Your level should:
 - Have floating collectibles scattered around the level to guide the player and encourage them to explore
 - You can use any asset you want for these, and there are several included in the given assets
 - These objects should be destroyed on collection, and the number collected should be displayed some where on the UI
-- The design of the level should specifically take into account the mechanic you created and your enemy design. 
+- The design of the level should specifically take into account your enemy design. 
 
 As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project.
 
