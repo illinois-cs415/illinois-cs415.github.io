@@ -63,7 +63,7 @@ The first thing you need to do is update your character as follows.
 This should be very similar to the system used in the first MP. It should have a bar displayed somewhere on the screen, and a game over screen should be displayed if it reaches 0. You should also make an item that can be placed in the world and picked up to restore health. This item should be destroyed on collection. There are several given assets that could work well for this but you can use whatever you want.
 
 ## Part 2: Make Some Enemies
-We need obstacles to fill our level. So lets make some enemies. You will be making 4 distinctly different enemy types.
+We need obstacles to fill our level. So lets make some enemies. You will be making 3 distinctly different enemy types.
 <br/>
 ### **Enemy Behavior**
 
@@ -95,7 +95,7 @@ The Mortar should:
 -	The explosions should knock back and reduce the players health on collision
 
 #### **Your Own Enemy**
-Create an enemy of your own design. It should have similar complexity to the other three and also be distinct and take on a different role.
+Create an enemy of your own design. It should have similar complexity to the other two and also be distinct and take on a different role.
 
 You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
 
