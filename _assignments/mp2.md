@@ -46,18 +46,18 @@ Your second MP is all about level design and all the important factors that go i
 To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/)
 <br/>
-Once you have done that you can continue on to the main assignment. Please read through the entire assignment spec before starting so that you can get a better understanding of the requirements. 
+Once you have done that you can continue on to the main assignment. Please read through the entire assignment spec before starting so that you can get a better understanding of the requirements.
 
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
 
-The basic player controller along with a large number of assets you may want to use are found here: 
+The basic player controller along with a large number of assets you may want to use are found here:
 [Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games)<br/>
 It will say it only is updated for 4.26, just open it with 4.27 and it will work fine.
 
 The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
 ## Part 1: Update Your Character
-The first thing you need to do is update your character as follows. 
+The first thing you need to do is update your character as follows.
 
 ### **Add a Health System**
 This should be very similar to the system used in the first MP. It should have a bar displayed somewhere on the screen, and a game over screen should be displayed if it reaches 0. You should also make an item that can be placed in the world and picked up to restore health. This item should be destroyed on collection. There are several given assets that could work well for this but you can use whatever you want.
@@ -77,7 +77,7 @@ All enemies should do the following:
 
 You will create the following two types of enemies
 
-#### **The Pursuer** 
+#### **The Pursuer**
 The Pursuer should:
 -	Have a looping patrol path that it follows
 -	Run at the player when they get within a moderate distance of each other, and they have line of sight with each other
@@ -87,7 +87,7 @@ Here is a tutorial to help get you started on the Pursuer enemy type:
 [Tutorial Link](https://drive.google.com/file/d/1zoJnzQR6WuSpxx6g3fdB4aDGg7fbOIke/view?usp=sharing)
 <br/>
 
-#### **The Mortar** 
+#### **The Mortar**
 The Mortar should:
 -	Be an unmoving enemy placed on the ground
 -	Randomly launch projectiles above and around it in an arc
@@ -99,7 +99,7 @@ Create an enemy of your own design. It should have similar complexity to the oth
 
 You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
 
-## Part 3: Putting It All Together 
+## Part 3: Putting It All Together
 The last step of the MP is to put it all together and make a platforming level.
 
 Your level should:
@@ -112,9 +112,9 @@ Your level should:
 - Have floating collectibles scattered around the level to guide the player and encourage them to explore
 - You can use any asset you want for these, and there are several included in the given assets
 - These objects should be destroyed on collection, and the number collected should be displayed some where on the UI
-- The design of the level should specifically take into account your enemy design. 
+- The design of the level should specifically take into account your enemy design.
 
 As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project.
 
 # Additional Submission Instructions
-In addition to usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the design process and how your design had to accommodate the new mechanic and enemy you created.
+In addition to usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the design process and how your design had to accommodate the new mechanic and enemy you created. Please also record your video according to [this guideline](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).
