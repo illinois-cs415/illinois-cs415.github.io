@@ -56,23 +56,22 @@
   title: "Graphics: Rendering Basics"
 -
   date: "Week 5: Sep 23"
-  materials: "UE5 Nanite Rasterization [PDF]() <br/>
-             Basic Shading [PDF]() <br/>
-             Deferred Shading [PDF]() <br/><br/>
-             PrairieLearn HW 2 Available 9/23 **Due 10/7** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608) 
-  title: "Graphics: Shading"
+  materials: "Rendering: Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf) <br/>
+              Rendering: Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)"
+  title: "Graphics: Rasterization"
 - 
   date: "Week 6: Sep 28"
-  title: "Game Design"
+  title: "Rendering: Shading"
 -
   date: "Week 6: Sep 30"
-  title: "Game Design and Project Overview"
+  title: " Deferred Shading [PDF]() <br/><br/>
+          PrairieLearn HW 2 Available 9/23 **Due 10/14** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608) 
 - 
   date: "Week 7: Oct 5"
-  title: "Virtual Reality" 
+  title: "Game Design" 
 -  
   date: "Week 7: Oct 7"
-  title: "Virtual Reality"
+  title: "Project Overview"
 -  
   date: "Week 8: Oct 12"
   title: "Game AI"
