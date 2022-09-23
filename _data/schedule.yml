@@ -64,8 +64,9 @@
   title: "Rendering: Shading"
 -
   date: "Week 6: Sep 30"
-  title: " Deferred Shading [PDF]() <br/><br/>
-          PrairieLearn HW 2 Available 9/23 **Due 10/14** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608) 
+  materials: " Deferred Shading [PDF]() <br/><br/>
+          PrairieLearn HW 2 Available 9/23 **Due 10/14** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608)"
+  title: "Rendering: Shading"
 - 
   date: "Week 7: Oct 5"
   title: "Game Design" 
