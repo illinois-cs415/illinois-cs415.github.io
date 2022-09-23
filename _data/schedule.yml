@@ -57,7 +57,8 @@
 -
   date: "Week 5: Sep 23"
   materials: "Rendering: Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf) <br/>
-              Rendering: Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)"
+              Rendering: Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
+              Rebdering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
   title: "Graphics: Rasterization"
 - 
   date: "Week 6: Sep 28"
