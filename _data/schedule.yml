@@ -56,18 +56,22 @@
   title: "Graphics: Rendering Basics"
 -
   date: "Week 5: Sep 23"
-  materials: "Rendering: Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf) <br/>
-              Rendering: Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
-              Rebdering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
+  materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=698674cc-078c-49c8-8f1e-ce51fee337bc&from=sharedlink)<br/><br/>
+              Rendering: Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf) <br/>
+              Rendering: Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)"
   title: "Graphics: Rasterization"
 - 
   date: "Week 6: Sep 28"
+  materials:" Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)<br/>
+              Rendering: Shading [PDF]()<br/>
+              Rendering: Deferred Shading [PDF]()"
   title: "Rendering: Shading"
 -
   date: "Week 6: Sep 30"
-  materials: " Deferred Shading [PDF]() <br/><br/>
+  materials: " [Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+  The Game Industry [PDF]() <br/>
           PrairieLearn HW 2 Available 9/30 **Due 10/14** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608)"
-  title: "Rendering: Shading"
+  title: "Guest Speaker: Dan Cermak"
 - 
   date: "Week 7: Oct 5"
   title: "Game Design" 
