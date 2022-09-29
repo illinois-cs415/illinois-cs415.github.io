@@ -28,7 +28,7 @@ This is an opportunity to learn a new thing or implement something you always wa
 ## Frequently Asked Questions
 1. **Do we have to work in groups?** No! You can work on your own if you wish.
 2. **How big of a group can work in?** There's no limit as long as we decide the proposal is sufficient work for the group size.
-3. **Do we have to do a VR project?** No! But you should strongly consider it. It's a chance to work withe equipment not everyone has.
+3. **Do we have to do a VR project?** No! But you should strongly consider it. It's a chance to work with equipment not everyone has.
 4. **What equipment?** We have 9 Oculus Rift S HMDs, 3 Quest HMDs and 2 Quest 2 HMDs. These can be loaned out or hosted in a lab (we'll find one) if you lack a suitable development machine.
 5. **What are the non-VR options?** Yes! You can propse your own project. Details below.
 
@@ -43,7 +43,7 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 + List all group members by name and netid
 + One paragraph that gives an overview of the project (e.g. "We will implement a VR game in which the player searches for their phone which has fallen next to their car seat while driving.").
 + One paragraph stating what hardware platform you wish to target.
-+ A rubric containing specific elements with points assigned that add up to 70 points. This should tell us what the key features are that we will grade 
++ A rubric containing specific elements with points assigned that add up to 70 points. This should tell us what the key features are that we will grade. 
 + The rubric should include at least 3 features.
 + One of the features on the rubric should be Using Unreal Engine VR Best Practices and be worth 20 points. You can find the Best Practices guide [at this link](https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/XRDevelopment/VR/DevelopVR/ContentSetup). Just to be clear, we will not be super strict about grading this element. You just need to show an a good faith effort to conform to the guidelines.
 
@@ -51,11 +51,11 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 
 ## Sponsored Projects
 
-We have around several opportunities for teams of people to work with existing groups that have a VR project going. **These projects will be 
-available on a first-request basis.** This means that not everyone that requests a sponsored will for sure get the opportunity to work on it. 
+We have several opportunities for individuals or teams of people to work with existing groups that have a VR project going. **These projects will be 
+available on a first-request basis.** This means that not everyone that requests a sponsored project will for sure get the opportunity to work on it. 
 
 ### Sponsored Project Request Process
-To request to work on a sponsored project, post to [CampusWire] visible only to course staff and using the `Sponsor Request` category. Include the following information:
+To request to work on a sponsored project, post to [CampusWire](https://campuswire.com/c/GA821B381/feed) visible only to course staff and using the `Sponsor Request` category. Include the following information:
 1. Name and netid of everyone asking to work on the project
 2. Which sponsored project you are requesting
 
