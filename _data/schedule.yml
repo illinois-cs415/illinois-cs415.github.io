@@ -63,8 +63,8 @@
 - 
   date: "Week 6: Sep 28"
   materials: "Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)<br/>
-              Rendering: Shading [PDF]()<br/>
-              Rendering: Deferred Shading [PDF]()"
+              Rendering: Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
+              Rendering: Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-DeferredShading.pdf)"
   title: "Rendering: Shading"
 -
   date: "Week 6: Sep 30"
