@@ -63,10 +63,10 @@ We will contact you within a few days of the request to let you know the result 
 
 ### List of Sponsored Projects
 
-1. Work with PointVR. See their project document here: [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS_415_Features_List.pdf). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
-2. Work with NCSA visualizing data from a simulation of a coronal mass ejection (CME) on the sun, optionally combined with a separate, but also cool-looking, animation of convection on the sun's surface.
-3. Work with NCSA visualizing 760 million trees in West Africa.
-4. Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
+1. ![UE5](/img/pointvr.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with PointVR. See their project document here: [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS_415_Features_List.pdf). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
+2. ![UE5](/img/corona1.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with NCSA visualizing data from a simulation of a coronal mass ejection (CME) on the sun, optionally combined with a separate, but also cool-looking, animation of convection on the sun's surface.
+3. ![UE5](/img/trees.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with NCSA visualizing 760 million trees in West Africa.
+4. ![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
 
 ## Proposing a Non-VR Project ##
 
