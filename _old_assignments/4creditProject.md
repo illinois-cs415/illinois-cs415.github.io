@@ -8,17 +8,18 @@ points: 100
 rubric:
   -
     name: Proposal
-    points: 20
+    points: 10
     description: Submit a description of your project complete with a 
   - 
     name: Project Implementation
-    points: 60
+    points: 70
     description: Submit the code or similar work product through a link to a repo or compressed folder 
   -
     name: Video
     points: 20
     description: Submit a short video demonstrating your project
 --- 
+![Breath of the Wild](https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FirIOIA243mp1aEMOHqPkxc4rsKQ%3D%2F0x0%3A950x534%2F2000x1333%2Ffilters%3Afocal(475x267%3A476x268)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16193538%2FCI_News_TheLegendOfZeldaBreathOfTheWild_LaboCVR_Zelda_01_image950w.jpg&w=2400&q=75)
 ## What is the 4 Credit Project About?
 Taking the course for an extra credit hour requires the completion of a substantive extra project in addition to the course project done by the entire class. 
 The main focus of the 4 Credit Project will be to implement something using the VR capabilities of Unreal Engine. But there are other options as well.
@@ -29,32 +30,62 @@ This is an opportunity to learn a new thing or implement something you always wa
 2. **How big of a group can work in?** There's no limit as long as we decide the proposal is sufficient work for the group size.
 3. **Do we have to do a VR project?** No! But you should strongly consider it. It's a chance to work withe equipment not everyone has.
 4. **What equipment?** We have 9 Oculus Rift S HMDs, 3 Quest HMDs and 2 Quest 2 HMDs. These can be loaned out or hosted in a lab (we'll find one) if you lack a suitable development machine.
-5. **What are the non-VR options?** Yes! You can propse your own project. Details Below
+5. **What are the non-VR options?** Yes! You can propse your own project. Details below.
 
 ## VR Projects
 
-Ideally, a VR project will be done as a team (the number of HMDs we have is limited). You can propose your own VR project or consider one of the sponsored projects below. Keeping the project simple is fine. 
+Ideally, a VR project will be done as a team (the number of HMDs we have is limited). You can propose your own VR project or consider one of the sponsored projects below. 
 
 ### VR Project Proposal
 
-### Sposnsored Projects
+The project proposal should be submitted as a link to a Google Doc. That doc link should have edit capability enabled so we can easily comment on the proposal. The proposal should meet the following expectations:
++ One page or less
++ List all group members by name and netid
++ One paragraph that gives an overview of the project (e.g. "We will implement a VR game in which the player searches for their phone which has fallen next to their car seat while driving.").
++ One paragraph stating what hardware platform you wish to target.
++ A rubric containing specific elements with points assigned that add up to 70 points. This should tell us what the key features are that we will grade 
++ The rubric should include at least 3 features.
++ One of the features on the rubric should be Using Unreal Engine VR Best Practices and be worth 20 points. You can find the Best Practices guide [at this link](https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/XRDevelopment/VR/DevelopVR/ContentSetup). Just to be clear, we will not be super strict about grading this element. You just need to show an a good faith effort to conform to the guidelines.
 
-We have around several opportunities for teams of people to work with existing groups that have a VR project going. **These projects aill be 
-available on a first-requrest basis.** This means that not everyone that requests a sponsored will for sure get the opportunity to work on it. 
+**Wait until you proposal is graded before starting the project!**
 
-#### Sponsored Project Request Process
+## Sponsored Projects
+
+We have around several opportunities for teams of people to work with existing groups that have a VR project going. **These projects will be 
+available on a first-request basis.** This means that not everyone that requests a sponsored will for sure get the opportunity to work on it. 
+
+### Sponsored Project Request Process
+To request to work on a sponsored project, post to [CampusWire] visible only to course staff and using the `Sponsor Request` category. Include the following information:
+1. Name and netid of everyone asking to work on the project
+2. Which sponsored project you are requesting
+
+We will contact you within a few days of the request to let you know the result of the request.
+
+### List of Sponsored Projects
+
+1. Work with PointVR. See their project document here: [PDF](). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
+2. Work on porting 
+3. 
+
 
 ## Proposing a Non-VR Project ##
 
-If you wish to to 
+If you wish to propose a non-VR project you can do so in same way as a VR project...just without the VR specific elements of the proposal format. 
 
 ### Proposal Guidelines
+The project proposal should be submitted as a link to a Google Doc. That doc link should have edit capability enabled so we can easily comment on the proposal. The proposal should meet the following expectations:
++ One page or less
++ List all group members by name and netid
++ One paragraph that gives an overview of the project (e.g. "We will implement a non-VR game in which the player searches for their phone which has fallen next to their car seat while driving.").
++ One paragraph stating what hardware platform you wish to target.
++ A rubric containing specific elements with points assigned that add up to 70 points. This should tell us what the key features are that we will grade 
++ The rubric should include at least 3 features.
 
+**Wait until you proposal is graded before starting the project!**
 
 ## Deadlines
+ 
+**Oct 15 11:59 PM submit proposal on canvas.**
 
-### Proposal Submission 
+**Dec 7 11:59 PMP submit project on canvas**
 
-### Project Submission
-
-**For this assignment ignore the submission instructions in the next section**
