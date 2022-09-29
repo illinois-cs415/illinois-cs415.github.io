@@ -63,7 +63,7 @@ We will contact you within a few days of the request to let you know the result 
 
 ### List of Sponsored Projects
 
-1. Work with PointVR. See their project document here: [PDF](). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
+1. Work with PointVR. See their project document here: [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS_415_Features_List.pdf). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
 2. Work on porting 
 3. 
 
