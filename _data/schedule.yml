@@ -62,14 +62,14 @@
   title: "Graphics: Rasterization"
 - 
   date: "Week 6: Sep 28"
-  materials: "Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)<br/>
-              Rendering: Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
+  materials: "Rendering: Shading [Video](https://classtranscribe.illinois.edu/video?id=ff33b10f-c7f4-4df0-838f-183e77ee7b81&from=sharedlink)&nbsp; [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
               Rendering: Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-DeferredShading.pdf)"
   title: "Rendering: Shading"
 -
   date: "Week 6: Sep 30"
   materials: " [Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
                The Game Industry [PDF]() <br/>
+               Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)<br/>
                PrairieLearn HW 2 Available 9/30 **Due 10/14** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608)"
   title: "Guest Speaker: Dan Cermak"
 - 
