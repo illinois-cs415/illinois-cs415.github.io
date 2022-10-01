@@ -19,7 +19,7 @@ rubric:
     points: 20
     description: Submit a short video demonstrating your project
 --- 
-![UE5](/img/zeldavr.PNG){:class="img-responsive" style="display:block; margin:auto" width="400px"}
+![UE5](/img/zeldavr.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 ## What is the 4 Credit Project About?
 Taking the course for an extra credit hour requires the completion of a substantive extra project in addition to the course project done by the entire class. 
 The main focus of the 4 Credit Project will be to implement something using the VR capabilities of Unreal Engine. But there are other options as well.
