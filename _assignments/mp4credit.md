@@ -19,7 +19,7 @@ rubric:
     points: 20
     description: Submit a short video demonstrating your project
 --- 
-![Breath of the Wild](https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FirIOIA243mp1aEMOHqPkxc4rsKQ%3D%2F0x0%3A950x534%2F2000x1333%2Ffilters%3Afocal(475x267%3A476x268)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16193538%2FCI_News_TheLegendOfZeldaBreathOfTheWild_LaboCVR_Zelda_01_image950w.jpg&w=2400&q=75)
+![UE5](/img/zeldavr.PNG){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 ## What is the 4 Credit Project About?
 Taking the course for an extra credit hour requires the completion of a substantive extra project in addition to the course project done by the entire class. 
 The main focus of the 4 Credit Project will be to implement something using the VR capabilities of Unreal Engine. But there are other options as well.
@@ -63,10 +63,14 @@ We will contact you within a few days of the request to let you know the result 
 
 ### List of Sponsored Projects
 
-1. ![UE5](/img/pointvr.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with PointVR. See their project document here: [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS_415_Features_List.pdf). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
-2. ![UE5](/img/corona1.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with NCSA visualizing data from a simulation of a coronal mass ejection (CME) on the sun, optionally combined with a separate, but also cool-looking, animation of convection on the sun's surface.
-3. ![UE5](/img/trees.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with NCSA visualizing 760 million trees in West Africa.
-4. ![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
+1. Work with PointVR. See their project document here: [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS_415_Features_List.pdf). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
+![UE5](/img/pointvr.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
+2. Work with NCSA visualizing data from a simulation of a coronal mass ejection (CME) on the sun, optionally combined with a separate, but also cool-looking, animation of convection on the sun's surface.
+![UE5](/img/corona1.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}
+3. Work with NCSA visualizing 760 million trees in West Africa.
+![UE5](/img/trees.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}
+5. Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
+![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 
 ## Proposing a Non-VR Project ##
 
