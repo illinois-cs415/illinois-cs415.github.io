@@ -19,10 +19,7 @@ rubric:
     points: 20
     description: Submit a short video demonstrating your project
 --- 
-<img align="left" width="600"  src="https://illinois-cs415.github.io/img/zeldavr.png">
-<br/>
-<br/>
-
+![UE5](/img/zeldavr.png){:class="img-responsive" style="display:block; margin:auto" width="600px"}
 ## What is the 4 Credit Project About?
 Taking the course for an extra credit hour requires the completion of a substantive extra project in addition to the course project done by the entire class. 
 The main focus of the 4 Credit Project will be to implement something using the VR capabilities of Unreal Engine. But there are other options as well.
@@ -68,11 +65,17 @@ We will contact you within a few days of the request to let you know the result 
 
 1. Work with PointVR. See their project document here: [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS_415_Features_List.pdf). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
 ![UE5](/img/pointvr.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
+
+
 2. Work with NCSA visualizing data from a simulation of a coronal mass ejection (CME) on the sun, optionally combined with a separate, but also cool-looking, animation of convection on the sun's surface.
 ![UE5](/img/corona1.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}
+
+
 3. Work with NCSA visualizing 760 million trees in West Africa.
 ![UE5](/img/trees.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}
-5. Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
+
+
+4. Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
 ![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 
 ## Proposing a Non-VR Project ##
