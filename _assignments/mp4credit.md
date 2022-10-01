@@ -21,7 +21,6 @@ rubric:
 --- 
 <img align="left" width="600"  src="https://illinois-cs415.github.io/img/zeldavr.png">
 
-![UE5](/img/zeldavr.png){:class="img-responsive" style="display:block; margin:auto" width="600px"}
 ## What is the 4 Credit Project About?
 Taking the course for an extra credit hour requires the completion of a substantive extra project in addition to the course project done by the entire class. 
 The main focus of the 4 Credit Project will be to implement something using the VR capabilities of Unreal Engine. But there are other options as well.
