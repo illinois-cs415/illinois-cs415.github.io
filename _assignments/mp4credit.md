@@ -20,6 +20,8 @@ rubric:
     description: Submit a short video demonstrating your project
 --- 
 <img align="left" width="600"  src="https://illinois-cs415.github.io/img/zeldavr.png">
+<br/>
+<br/>
 
 ## What is the 4 Credit Project About?
 Taking the course for an extra credit hour requires the completion of a substantive extra project in addition to the course project done by the entire class. 
