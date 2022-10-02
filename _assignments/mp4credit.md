@@ -30,7 +30,7 @@ This is an opportunity to learn a new thing or implement something you always wa
 2. **How big of a group can work in?** There's no limit as long as we decide the proposal is sufficient work for the group size.
 3. **Do we have to do a VR project?** No! But you should strongly consider it. It's a chance to work with equipment not everyone has.
 4. **What equipment?** We have 9 Oculus Rift S HMDs, 3 Quest HMDs and 2 Quest 2 HMDs. These can be loaned out or hosted in a lab (we'll find one) if you lack a suitable development machine.
-5. **What are the non-VR options?** Yes! You can propse your own project. Details below.
+5. **What are the non-VR options?** You can propse your own project. Details below.
 
 ## VR Projects
 
