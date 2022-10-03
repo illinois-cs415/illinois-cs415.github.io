@@ -67,9 +67,9 @@
   title: "Rendering: Shading"
 -
   date: "Week 6: Sep 30"
-  materials: " [Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+  materials: " [Lecture Video](https://classtranscribe.illinois.edu/video?id=115c7350-c509-4dc5-aa8f-36bfafcfc2af&from=sharedlink<br/><br/>
                The Game Industry [PDF]() <br/>
-               Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)<br/>
+       
                PrairieLearn HW 2 Available 9/30 **Due 10/14** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608)"
   title: "Guest Speaker: Dan Cermak"
 - 
@@ -77,6 +77,8 @@
   title: "Game Design" 
 -  
   date: "Week 7: Oct 7"
+  materials: "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/>
+               Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
   title: "Project Overview"
 -  
   date: "Week 8: Oct 12"
