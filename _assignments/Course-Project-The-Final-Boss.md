@@ -50,7 +50,7 @@ The final project is worth a total of **100 points**. Each subsection will be gr
 **Due date: 11:59 PM October 19**
 
 This is the first project milestone. You will submit completed versions of the project documents in the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing). You may wish to review Dan Cermak's guest lectures on Game Design:
-[![lecture](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/gd.png){:width="400px"}](https://illinois-cs415.github.io/schedule)
+[ ![lecture](/img/gd.png){:width="400px"}](https://illinois-cs415.github.io/schedule)
 
 The Discovery section is graded on completeness and correctness. Points will be taken off for incorrect submissions (such as missing documents) or for incorrectly filled sections. In particular:
 
@@ -72,7 +72,7 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 2. **Progress.** The group should make significant progress since Discovery for the first meeting. 
 3. **Feedback.** For the meeting, groups should take into consideration feedback given for their Discovery grade. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design.
 
-**Week meetings: Oct. 31- Nov. 4**
+**Week of meetings: Oct. 31- Nov. 4**
 
 **A live demonstration of some code is expected.** Feedback will be given during these meetings, and this feedback should be incorporated to the alpha and final submissions.
 
