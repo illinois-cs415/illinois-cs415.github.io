@@ -22,11 +22,11 @@ rubric:
     name: Final Submission
     points: 40
     description: A version of your game with at least all the high priority features done and in a fully playable state.
-    -
+-
     name: Peer Evaluation
     points: 10
     description: The peer evaluation process consists of an initial collaboration plan (one for the group) to be submitted with the project summary, a midpoint check-in form per team member, and a final check-in form per team member. 
-     -
+-
     name: Demonstration
     points: 5
     description: Perform an in-person demonstration of your project.
