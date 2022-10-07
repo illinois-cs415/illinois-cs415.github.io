@@ -6,31 +6,32 @@ due: "Dec. 7, 2022 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
--
+  -
     name: Discovery
     points: 10
     description: A short description/summary of your project, a high level vision canvas, and a technical design document.
-- 
+  - 
     name: Meetings 
     points: 5
     description: You will be meeting with your project mentor twice...you need to prepare and attend.
-- 
+  - 
     name: Alpha
     points: 30
     description: The alpha should be a version of your game with at least the core gameplay completed and playable.
-    -
+  -
     name: Final Submission
     points: 40
     description: A version of your game with at least all the high priority features done and in a fully playable state.
--
+  -
     name: Peer Evaluation
     points: 10
-    description: The peer evaluation process consists of an initial collaboration plan (one for the group) to be submitted with the project summary, a midpoint check-in form per team member, and a final check-in form per team member. 
--
+    description: The peer evaluation process consists of an initial collaboration plan (one for the group) to be submitted with the project summary, a midpoint check- in form per team member, and a final check-in form per team member. 
+  -
     name: Demonstration
     points: 5
     description: Perform an in-person demonstration of your project.
 ---
+
 ![Boss](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/dh.jpg){:width="1024px"}
 
 
