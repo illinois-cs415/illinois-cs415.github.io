@@ -119,7 +119,3 @@ In the first project milestone along with the summary of your project proposal, 
 ## In-person Demo (5 points)
 **Due date: Dec. 8 through Dec 16**
 It is a University requirement that the project be demonstrated in person to your project mentor (or another staff member if the mentor is unavailable). Your mentor will schedule a demonstration time and location with your team, and it will take place sometime during finals week. We would like all team members to attend. If that is logistically problematic please contact the course instructor at shaffer1@illinois.edu to discuss an alternative arrangement in terms of time or attendance. The grade for the demonstration is based solely on showing up and demoing. There is no assessment of the quality of demonstration.  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzMzMzg3MCwtMTg5NzQ2MjEzNSwtNT
-YwMTg1NjgzLDgxNjk3Mjg4Ml19
--->
