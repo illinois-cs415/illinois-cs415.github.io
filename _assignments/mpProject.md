@@ -62,7 +62,7 @@ The Discovery section is graded on completeness and correctness. Points will be 
 
 **You can change your design and other plans as the project progresses.** You do not need to go into great detail about how things will be implemented or exhaustively list game features. The most important thing is just to have a vision and a plan that we can discuss.
 
-** Still to come: We will post examples of filled out documents here on Oct. 12**
+**Still to come: We will post examples of filled out documents here on Oct. 12**
 
 
 ## Mid Project Meeting (5 points)
@@ -79,7 +79,7 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 
 
 ## Alpha (30 points)
-**Due date: 11:59 PM November 18 **
+**Due date: 11:59 PM November 18**
 
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
