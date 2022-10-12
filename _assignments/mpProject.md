@@ -62,7 +62,7 @@ The Discovery section is graded on completeness and correctness. Points will be 
 
 **You can change your design and other plans as the project progresses.** You do not need to go into great detail about how things will be implemented or exhaustively list game features. The most important thing is just to have a vision and a plan that we can discuss.
 
-**Still to come: We will post examples of filled out documents here on Oct. 12**
+**For the Technical Design Document and Vision Canvas, you can find example filled out versions in the second tabs of both spreadsheets.**
 
 
 ## Mid Project Meeting (5 points)
