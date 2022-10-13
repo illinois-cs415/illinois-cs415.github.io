@@ -86,20 +86,21 @@ A two player speed run game in which the 2 players start off in different parts 
 ##### 2. **Fight for the Gold**
 A multi-level Smash Bros like fighting game. 2 to 4 player. 
 
-They are all trying to win (collect more gold). They can kill each other, and they can find weapons in all levels. Lists of weapons are available and concept art is available. Each level should be a limited arena (confined to realtively small amount of space). Propose levels: 
+They are all trying to win (collect more gold). They can kill each other, and they can find weapons in all levels. Lists of weapons are available and concept art is available. Each level should be a limited arena (confined to relatively small amount of space). Propose levels: 
 
 Level 1: Forest.... climb trees, attack other players from top of a tree.
 Level 2: Haunted library: platform around the books (sketches are available of this level).
 Level 3: Ziggurat temple: need to get to the top without dying. They will collect gold at the top.
 
 ##### 3. **Hotel Madness**
-2D (mabe isometric) puzzle game.  Hotel with 2 or 3  floors, each floor has a task. Interact other actors to complete tasks under time constraints.
+2D (maybe isometric) puzzle game.  Hotel with 2 or 3  floors, each floor has a task. Interact other actors to complete tasks under time constraints.
 The player is the manager, who needs to get keys (this is the goal). Each task completed gives a key.
 
-Floor 1: get cleaning supplies (mop, etc)  and clean up a mess. 
+Floor 1: get cleaning supplies (mop, etc.)  and clean up a mess. 
 Floor 2: ?
 Floor 3:?
 Concept art available.
+
 
 
 ## Mid Project Meeting (5 points)
