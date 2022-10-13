@@ -78,6 +78,8 @@ We will contact you within a few days of the request to let you know the result 
 4. Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
 ![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 
+5. HoloLens 2 Game Development. You can read the details here: [PDF](https://drive.google.com/file/d/1vwha_XT0f2PbEMC2x6CLGAare2TdpXom/view?usp=sharing)
+
 ## Proposing a Non-VR Project ##
 
 If you wish to propose a non-VR project you can do so in same way as a VR project...just without the VR specific elements of the proposal format. 
