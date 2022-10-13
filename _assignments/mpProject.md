@@ -64,6 +64,39 @@ The Discovery section is graded on completeness and correctness. Points will be 
 
 **For the Technical Design Document and Vision Canvas, you can find example filled out versions in the second tabs of both spreadsheets.**
 
+### Sponsored Projects
+
+We have a few sponsored projects you can consider working on. **We really would like each of these projects to be chosen so please consider selecting one of these if the topic is at all of interest to you and your team.** All of these games were proposed by stduenta at the Campus Middle School for Girls during an outreach activity on game design. Any group working on one of these projects will need to complete the design and add more details. You have the freedom to change and expand or reduce the game design. We will try to prototype these quickly in order to get feedback from the design team that proposed them. It should be a fun experience. 
+
+**To request to work on a sponsored project, post to CampusWire visible only to course staff and using the `Sponsor Request` category. Include the following information:
+
++ Name and netid of everyone asking to work on the project
++ Which sponsored project you are requesting
+
+We will contact you within a few days of the request to let you know the result of the request.**
+
+1. **Collaborative Maze Game**
+A two player speed run game in which the 2 players start off in different parts of a 2D maze. Visibility is limited, most of the maze hidden except a portion around each player. 
+
+“There are two friends who get kidnapped, and get thrown into a maze. They have limited time to find an exit. There are two keys. Each player can only get one key, so if one finds both, they have to tell the other player where it is in some way. Once they both get their key, they need to meet at the end of the maze. The maze is dark everywhere else, except for the location of the two friends. Possible mechanics include dropping candles to help the other person find the key; light switch; something that helps the others find their way. Maybe add ways to blow open walls of the maze or traps.”
+
+2. **Fight for the Gold**
+A multi-level Smash Bros like fighting game. 2 to 4 player. 
+
+They are all trying to win (collect more gold). They can kill each other, and they can find weapons in all levels. Lists of weapons are available and concept art is available. Each level should be a limited arena (confined to realtively small amount of space). Propose levels: 
+
+Level 1: Forest.... climb trees, attack other players from top of a tree.
+Level 2: Haunted library: platform around the books (sketches are available of this level).
+Level 3: Ziggurat temple: need to get to the top without dying. They will collect gold at the top.
+
+3. **Hotel Madness**
+2D (mabe isometric) puzzle game.  Hotel with 2 or 3  floors, each floor has a task. Interact other actors to complete tasks under time constraints.
+The player is the manager, who needs to get keys (this is the goal). Each task completed gives a key.
+
+Floor 1: get cleaning supplies (mop, etc)  and clean up a mess. 
+Floor 2: ?
+Floor 3:?
+Concept art available.
 
 ## Mid Project Meeting (5 points)
 Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their progress, challenges, and feedback. Groups will be graded on:
