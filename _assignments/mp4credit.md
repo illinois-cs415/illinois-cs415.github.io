@@ -9,7 +9,7 @@ rubric:
   -
     name: Proposal
     points: 10
-    description: Submit a description of your project complete with a 
+    description: Submit a description of your project complete with a rubric
   - 
     name: Project Implementation
     points: 70
@@ -95,7 +95,7 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 
 ## Deadlines
  
-**Oct 15 11:59 PM submit proposal on canvas.**
+**Oct 17 11:59 PM submit proposal on canvas.**
 
 **Dec 7 11:59 PMP submit project on canvas**
 
