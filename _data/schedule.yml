@@ -94,6 +94,9 @@
   title: "Game AI"
 - 
   date: "Week 8: Oct 14"
+  materials: "[Live Lecture Link]()<br/><br/>
+              Tactical AI [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-AI-5.pptx.pdf)<br/>
+              PrairieLearn HW 3 Available **Due 10/28** [Link]()"
   title: "Game AI"
 -  
   date: "Week 9: Oct 19"
@@ -118,7 +121,7 @@
   title: "Game Physics"
 -  
   date: "Week 12: Nov 11"
-  title: "Game Industry: Guest Speaker"
+  title: "UE5 Physically Based Rendering"
 -
   date: "Week 13: Nov 16"
   title: "Game Audio"
