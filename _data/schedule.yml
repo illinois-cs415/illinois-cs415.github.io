@@ -94,17 +94,20 @@
   title: "Game AI"
 - 
   date: "Week 8: Oct 14"
-  materials: "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+  materials: "[Lecture Video]()<br/><br/>
               Tactical AI [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-AI-5.pptx.pdf)<br/>
               Semi-Inspirational Design Talk [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/DesignInspiration.pdf)<br/>
               PrairieLearn HW 3 **Due 10/28** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2323006)"
   title: "Game AI"
 -  
   date: "Week 9: Oct 19"
-  title: "Game AI"
+  materials: "Intro to VR [Video](https://classtranscribe.illinois.edu/video?id=3f8213d0-487a-4414-99f7-ebafca954453&from=sharedlink)&nbsp;[PDF]()
+  title: "Virtual Reality"
 -
   date: "Week 9: Oct 21"
-  title: "Game AI"
+  "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+              VR in UE5 [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-AI-5.pptx.pdf)<br/>"
+  title: "Virtual Reality"
 -
   date: "Week 10: Oct 26"
   title: "Animation"
