@@ -153,7 +153,7 @@ You must demo your alpha submission live or on zoom. You can choose to make and 
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
 
-**Still to Come: A Detailed Rubric of Grading Criteria Will be Posted Here by Oct. 19th** 
+[Here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) is a detailed version of how the project will be graded. This is also linked below near the rubric.  
 
 
 ## Peer Evaluation (10 points)
@@ -166,3 +166,5 @@ In the first project milestone along with the summary of your project proposal, 
 ## In-person Demo (5 points)
 **Due date: Dec. 8 through Dec 16**
 It is a University requirement that the project be demonstrated in person to your project mentor (or another staff member if the mentor is unavailable). Your mentor will schedule a demonstration time and location with your team, and it will take place sometime during finals week. We would like all team members to attend. If that is logistically problematic please contact the course instructor at shaffer1@illinois.edu to discuss an alternative arrangement in terms of time or attendance. The grade for the demonstration is based solely on showing up and demoing. There is no assessment of the quality of demonstration.  
+
+See [here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) for a detailed version of the below rubric. 
