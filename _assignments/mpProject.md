@@ -10,26 +10,34 @@ rubric:
     name: Discovery
     points: 10
     description: A short description/summary of your project, a high level vision canvas, and a technical design document.
+    details: 2 points for all four documents turned in on time and completed; Summary = 2 points (for completeness and descriptiveness); Vision canvas = 3 points (for completeness, level of detail, and having enough components listed per category); Technical design document = 3 points (for completeness, all features clearly listed, priorities/risk/difficulty are reasonably selected); Collaboration plan will not be scored in this category. See “Peer Evaluation”. 
+
   - 
     name: Meetings 
     points: 5
     description: You will be meeting with your project mentor twice...you need to prepare and attend.
+    details: Attendance = 3 points; 2 points for being prepared at meetings. 
   - 
     name: Alpha
     points: 30
     description: The alpha should be a version of your game with at least the core gameplay completed and playable.
+    details: Functioning game = 10 points (Gameplay is intuitive and/or instructions provided, Functionality is overall smooth); High priority features implemented = 10 points (All high priority features as described in the technical design document are implemented to a reasonable degree, with the exception of any changes); Visual elements = 10 points (Most major visual elements have been implemented with proper asset packs where applicable, lighting works as expected). 
   -
     name: Final Submission
     points: 40
-    description: A version of your game with at least all the high priority features done and in a fully playable state.
+    description: A version of your game with at least all the high priority features done and in a fully playable state. 
+    details: Functioning game = 5 points (Gameplay is intuitive and/or instructions provided, Start is clear, End/restart is clear, Functionality is overall smooth); High/medium priority features implemented = 15 points (All high/medium priority features as described in the technical design document are implemented to a reasonable degree, with the exception of any changes); Low priority features implemented = 5 points (Given the timeline of the project and decisions made along the way, significant effort made towards implementing low priority features and other non-crucial enhancing aspects.); Visual elements = 10 points (Major visual elements have been implemented with proper asset packs where applicable, lighting works as expected); Minor visual elements = 5 points (Attention to detail for visual elements in a way that adds value to the game). 
   -
     name: Peer Evaluation
     points: 10
     description: The peer evaluation process consists of an initial collaboration plan (one for the group) to be submitted with the project summary, a midpoint check- in form per team member, and a final check-in form per team member. 
+    details: Collaboration plan = 2 points (Includes description of team members’ roles and how they plan to work together, Same grade for entire team); Midpoint peer-evaluation = 3 points (1 point for completion, 2 points for following up with TA on any feedback/improvement, Grade is per individual team member); Final peer-evaluation = 3 points (1 point for completion, 2 points for reflecting on feedback/improvement from midpoint, Grade is per individual team member); Team collaboration score = 2 points (Overall collaboration style and productivity as a team, Same grade for entire team). 
+
   -
     name: Demonstration
     points: 5
     description: Perform an in-person demonstration of your project.
+    details: Attendance = 2 points; Demo = 3 points (Clear and concise, Covers all main objectives and aspects of the game). 
 ---
 
 ![Boss](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/dh.jpg){:width="1024px"}
