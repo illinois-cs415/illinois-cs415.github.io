@@ -105,25 +105,29 @@
   title: "Virtual Reality"
 -
   date: "Week 9: Oct 21"
-  materials: "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+  materials: "[Lecture Video]()<br/><br/>
               VR in UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-VR-UE5.pdf)<br/>
               Maze Generation [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MazeGeneration.pdf)"
   title: "Virtual Reality"
 -
   date: "Week 10: Oct 26"
-  title: "Animation"
+  materials: Chaos Physics in UE [YouTube Video](https://youtu.be/mwbSi2R49ZY)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-UE4Physics.pdf)"
+  title: "Game Physics"
 -
   date: "Week 10: Oct 28"
-  title: "Animation"
+  "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+              A Physics Engine [PDF]()<br/>
+              Collision Detection[PDF]()"
+  title: "Game Physics"
 -
   date: "Week 11: Nov 2"
   title: "Game Physics"
 -
   date: "Week 11: Nov 4"
-  title: "Game Physics"
+  title: "Animation"
 - 
   date: "Week 12: Nov 9"
-  title: "Game Physics"
+  title: "Animation"
 -  
   date: "Week 12: Nov 11"
   title: "UE5 Physically Based Rendering"
