@@ -115,15 +115,17 @@
   title: "Game Physics"
 -
   date: "Week 10: Oct 28"
-  materials: "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
-              A Physics Engine [PDF]()<br/>
-              Collision Detection[PDF]()"
+  materials: "[Lecture Video](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+              A Physics Engine [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
+              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide.pdf)<br/>
+              HW4 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/HW4.pdf)"
   title: "Game Physics"
 -
   date: "Week 11: Nov 2"
   title: "Game Physics"
 -
   date: "Week 11: Nov 4"
+  materials: "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>"
   title: "Animation"
 - 
   date: "Week 12: Nov 9"
