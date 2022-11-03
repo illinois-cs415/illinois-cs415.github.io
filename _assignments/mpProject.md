@@ -159,8 +159,13 @@ Your final project submission. A version of your game with at least all the high
 ## Peer Evaluation (10 points)
 **Due date: 11:59 PM Dec. 7th** 
 
+This section has various parts, some of which are due earlier. Please read through to fully understand the requirements. 
 
-In the first project milestone along with the summary of your project proposal, your team will need to submit a brief summary (3-5 sentences) describing how your group plans to split up work and collaborate. Halfway through the project timeline, each individual team member will be asked to submit a brief peer evaluation form of their team members - through this form, you will also have the opportunity to reflect on your team's progress and style of working so far; a TA may reach out to follow up on the responses or provide any guidance if questions/concerns are expressed. At the end of the project, each individual team member will submit a brief peer evaluation form of their team members. 
+In the first project milestone along with the summary of your project proposal, your team will need to submit a brief summary (3-5 sentences) describing how your group plans to split up work and collaborate. 
+
+Halfway through the project timeline, each individual team member will be asked to submit a brief peer evaluation form of their team members - through this form, you will also have the opportunity to reflect on your team's progress and style of working so far; a TA may reach out to follow up on the responses or provide any guidance if questions/concerns are expressed. This form has been released (https://forms.gle/N5ivPDNdutdTSQ4Z6) and is due on Nov 10th by 11:59 PM. 
+
+At the end of the project, each individual team member will submit a brief peer evaluation form of their team members. 
 
 
 ## In-person Demo (5 points)
