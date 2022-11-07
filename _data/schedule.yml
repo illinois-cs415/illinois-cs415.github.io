@@ -126,22 +126,23 @@
   title: "Animation"
 -
   date: "Week 11: Nov 4"
-  materials: "[Live Lecture Link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09)<br/><br/>
+  materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=26bc3791-3dfb-4df7-bcbb-ceebcf45891f&from=sharedlink)<br/><br/>
               Animation Concepts [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/>
               HW5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/HW5.pdf)"
   title: "Animation"
 - 
   date: "Week 12: Nov 9"
-  title: "Animation"
+  title: "UE Material Modeling"
 -  
   date: "Week 12: Nov 11"
+  materials: "[Live Lecture Link]((https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09))"
   title: "UE5 Physically Based Rendering"
 -
   date: "Week 13: Nov 16"
-  title: "Game Audio"
+  title: "Game Physics"
 -
   date: "Week 13: Nov 18"
-  title: "Game Industry: Guest Speaker"
+  title: "Guest Speaker: Treyarch Studios"
 -  
   date: "Week 14: Nov 23"
   title: "**Fall Break**"
