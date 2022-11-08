@@ -85,8 +85,8 @@ We weight grades as follows:
 | ----- | ------ | ----- |  
 | MP 1 | 15% | 10% | 
 | MP 2 | 20% | 15% |   
-| Homework|$21\frac{7/8}$%|$21\frac{7/8}$%|
-| Attendance|$3\frac{1/8}$%|$3\frac{1/8}$%| 
+| Homework| $21\frac{7/8}$ %| $21\frac{7/8}$ %|
+| Attendance|3.125%|3.125%| 
 | Project | 40% | 40% |
 | 4 Credit Project | NA | 10% |
 
