@@ -52,15 +52,15 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 ## Assessments ##
 
-Assigned work will include 8 homework assignments, 2 programming assignments, and a final project.
+Assigned work will include 7 homework assignments, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Homeworks ####
-There will be 8 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
+There will be 7 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
 + You should budget an hour to complete a homework assignment.
 + Each homework can be retaken as many times as you wish for full credit.
 + The homworks are open web. 
 + Each homework will be available for 2 weeks at full credit. 
-+ After that week, the homework can be submitted for half credit.  
++ After that week, the homework can be submitted for half credit.
 
 #### Programming Assignments ####
 There will be 2 programming assignments that will serve as an introduction to Unreal.
@@ -72,6 +72,10 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 Students taking the course for 4 credits will complete an additional project involving Virtual Reality development. The level of effort will be about the same as one of the programming assignments.
 
+#### Guest Lecture Attendance #### 
+
+Attending the final two guest lectures of the semester on zoom is required. Students with conflicts or valid excuses for not attending will be excused with full credit.
+
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
 
@@ -81,7 +85,8 @@ We weight grades as follows:
 | ----- | ------ | ----- |  
 | MP 1 | 15% | 10% | 
 | MP 2 | 20% | 15% |   
-| Homework| 25%  | 25%  |
+| Homework|$$21\frac{7/8}$$%|$$21\frac{7/8}$$%|
+| Attendance|$$3\frac{1/8}$$%|$$3\frac{1/8}$$%| 
 | Project | 40% | 40% |
 | 4 Credit Project | NA | 10% |
 
