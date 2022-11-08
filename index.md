@@ -29,6 +29,11 @@ Use the passcode 2558.
 * TA Shresta Bangaru
 * TA Ray Lin
 * CA Jeffrey Liu
+* CA Aaditya Dhruv
+* CA Ryan Flynn 
+* CA Adnan Noorullah
+* CA Siddhant Sharma
+* CA Yipeng Yang
 
 ## Instructional Content ##
 
