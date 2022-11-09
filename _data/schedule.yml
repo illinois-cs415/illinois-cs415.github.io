@@ -132,11 +132,13 @@
   title: "Animation"
 - 
   date: "Week 12: Nov 9"
+  materials: "PBR Materials in UE [Link](https://dev.epicgames.com/community/learning/courses/pxm/creating-pbr-materials/VvZ/unreal-engine-creating-pbr-materials)"
   title: "UE Material Modeling"
 -  
   date: "Week 12: Nov 11"
   materials: "[Live Lecture Link]((https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09))"
-  title: "UE5 Physically Based Rendering"
+  title: "UE5 Optimizations <br/>
+          GDC Talk: Real-Time Path Tracing"
 -
   date: "Week 13: Nov 16"
   title: "Game Physics"
@@ -151,7 +153,7 @@
   title: "**Fall Break**"
 -
   date: "Week 15: Nov 30"
-  title: "GDC Talk: Real-Time Path Tracing"
+  title: "UE Material Modeling"
 -
   date: "Week 15: Dec 2"
   title: "Guest Speaker: Diana Huang Software Engineer at [Rec Room](https://recroom.com/)"
