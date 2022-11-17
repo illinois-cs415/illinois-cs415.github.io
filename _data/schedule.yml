@@ -136,9 +136,9 @@
   title: "UE Material Modeling"
 -  
   date: "Week 12: Nov 11"
-  materials: "[Live Lecture Link]((https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09))"
-  title: "UE5 Optimizations <br/>
-          GDC Talk: Real-Time Path Tracing"
+  materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=81f6e368-ce69-4be3-84c6-8eeca33578b1&from=sharedlink) <br/>
+              [NVIDIA Research Page](https://research.nvidia.com/publication/2022-03_research-advances-toward-real-time-path-tracing)"
+  title: "Real-Time Path Tracing"
 -
   date: "Week 13: Nov 16"
   title: "Game Physics"
