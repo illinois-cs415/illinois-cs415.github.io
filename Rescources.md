@@ -6,7 +6,7 @@ permalink: /resources
 
 # Where Can I Find a Computer Running Unreal Engine?
 
-You have two options on the University of Illinois campus: the Grainger Library Idea Lab and the 4107 Siebel Center VR Lab.
+You have two options on the University of Illinois campus: the Grainger Library Idea Lab and the Immersive Computing Lab in 1104 NCSA.
 **In both cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain your work after you leave.**
 
 ### Grainger Library Idea Lab
@@ -28,11 +28,25 @@ The computers in the Idea Lab should be reserved ahead of time. Students can res
 
 5.	Those rooms can also be booked during regular lab hours.
 
-### 4107 Siebel Center Lab
+### Immersive Computing Lab Room 1104 NCSA
 
-The EWS computers in Siebel Center for Computer Science room 4107 are available for your use in the course. There are 21 computers with Unreal Engine 4 installed. All students in CS 415 have e-lock access to the room and can access the lab anytime the building is open. There is no reservation system, access is first-come first-serve. We will implement a queueing system if it becomes necessary. 
+The EWS computers and associated VR equipment in NCSA room 1104 are available for your use in the course. 
 
-Important note: the lab will close for renovation in late Septemeber but we will relocate the machines elsewhere when that happens.
+#### Equipment 
+
++ 10 Dell 5280 computers with NVIDIA RTX 3090 GPUs and Unreal Engine 4 and 5 installed.
++ 3 Oculus Quest HMDs with link cables
++ 3 Meta Quest 2 HMDs with link cables
++ 8 rem,ote access only workstations with NVIDIA RTX 2080 TI GPUs and Unreal Engine 4 and 5 installed 
+
+#### In-person Access 
++ All students in CS 415 have e-lock access to the room and building from **Noon - Midnight 7 days a week.**  
++ There is no reservation system, access is first-come first-serve. 
++ **The lab may sometimes be reserved and unavailable...these dates will posted on Campuswires and a sign posted outside the lab. Do not neter the lab at those times.**
+
+#### Remote Access
+
+The 8 remote machines can be accessed through [Engineering IT LabCheck](https://answers.uillinois.edu/illinois.engineering/105329)
 
 ## References
 
