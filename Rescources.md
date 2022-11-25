@@ -28,7 +28,7 @@ The computers in the Idea Lab should be reserved ahead of time. Students can res
 
 5.	Those rooms can also be booked during regular lab hours.
 
-### Immersive Computing Lab Room 1104 NCSA
+### Immersive Computing Lab: Room 1104 NCSA
 
 The EWS computers and associated VR equipment in NCSA room 1104 are available for your use in the course. 
 
@@ -37,12 +37,12 @@ The EWS computers and associated VR equipment in NCSA room 1104 are available fo
 + 10 Dell 5280 computers with NVIDIA RTX 3090 GPUs and Unreal Engine 4 and 5 installed.
 + 3 Oculus Quest HMDs with link cables
 + 3 Meta Quest 2 HMDs with link cables
-+ 8 rem,ote access only workstations with NVIDIA RTX 2080 TI GPUs and Unreal Engine 4 and 5 installed 
++ 8 remote access only workstations with NVIDIA RTX 2080 TI GPUs and Unreal Engine 4 and 5 installed 
 
 #### In-person Access 
-+ All students in CS 415 have e-lock access to the room and building from **Noon - Midnight 7 days a week.**  
++ **Noon - Midnight 7 days a week.** All students in CS 415 have e-lock access to the room and building during those hours. 
 + There is no reservation system, access is first-come first-serve. 
-+ **The lab may sometimes be reserved and unavailable...these dates will posted on Campuswires and a sign posted outside the lab. Do not neter the lab at those times.**
++ **The lab may sometimes be reserved and unavailable...these dates will posted on Campuswires and a sign posted outside the lab. Do not enter the lab at those times.**
 
 #### Remote Access
 
