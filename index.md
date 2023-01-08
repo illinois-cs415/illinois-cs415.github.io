@@ -10,25 +10,31 @@ permalink: /
 
 ## Overview ##
 
-This is a team and project-based course on video game design and development using Unreal Engine. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central  focus of the course will be the design and development of a game by teams of 3 to 5 students. The course strongly emphasizes code development and there are no exams.
+This is a team and project-based course on video game design and development using Unreal Engine. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central focus of the course will be the design and development of a game by teams of 3 to 5 students. 
 
 ## Communication ##
 
-#### [CampusWire](https://campuswire.com/p/GA821B381) ####
+**It is your responsibility to stay engaged with the course...at a minimum this means:
+  1. Checking CampusWire every Tuesday for weekly announcements
+  2. Watching the Course Calendar for assignment due dates
+  3. Engaging with your project group and contributing significantly to the project...failure to do so can result in failure in the course. 
+
+  You should also attend lecture...but we understand that conflicts come up and will not make attendance mandatory. 
+  You definitely should watch all the posted videos in order to successfully complete the Homework and "Take Home" Exams. 
+
+#### [CampusWire](https://campuswire.com/p/GCCF46967) ####
 
 We will use CampusWire for answering questions and administering the course.
 Click the header to join/view the forum.<br/> 
-Use the passcode 2558. 
+Use the passcode 5697. 
 
 + For any question involving a grade you should select `Post to instructors and TAs`.
 
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* TA Jason Situ
 * TA Shresta Bangaru
 * TA Ray Lin
-* CA Jeffrey Liu
 * CA Aaditya Dhruv
 * CA Ryan Flynn 
 * CA Adnan Noorullah
