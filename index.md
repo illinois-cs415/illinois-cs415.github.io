@@ -63,7 +63,7 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 ## Assessments ##
 
-Assigned work will include 7 homework assignments, 2 programming assignments, and a final project.
+Assigned work will include 8 homework assignments, 2 "take home" exams, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Homeworks ####
 There will be 7 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
@@ -79,13 +79,14 @@ There will be 2 programming assignments that will serve as an introduction to Un
 #### Project ####
 The course project will be team-based with teams of 3 to 5 people working on a project. You will have a choice of what to implement, but your proposed project is expected to be related to game development in some way...typically it should be a game. The grading citeria and development process are described on the Project page.
 
-#### 4 Credit Project ####
+#### 4 Credit Option ####
 
-Students taking the course for 4 credits will complete an additional project involving Virtual Reality development. The level of effort will be about the same as one of the programming assignments.
+Students taking the course for 4 credits will complete the following additional work:
+1. Watch a set of pre-recorded lectures on Virtual Reality 
+2. Complete 2 additional homework assignments on PrairieLearn
+3. Complete 1 additional programming assignment focussed on Virtual or Augmented Reality  
 
-#### Guest Lecture Attendance #### 
-
-Attending the final two guest lectures of the semester on zoom is required. Students with conflicts or valid excuses for not attending will be excused with full credit.
+The additional programming asignment is typicaly a VR game, but you can propose your own project instead. Any proposal will need to be reviewed by the course staff and you will be notfied if it acceptable. Full details of the procedure will be available on the Assignments page when the assignemnet is released. 
 
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
@@ -94,12 +95,13 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP 1 | 15% | 10% | 
-| MP 2 | 20% | 15% |   
-| Homework| 21.875%| 21.875%|
-| Attendance|3.125%|3.125%| 
+| MP 1 | 10% | 5% | 
+| MP 2 | 15% | 10% |   
+| Homework|15%| 10%|
+| Exams | 20% | 20%|
 | Project | 40% | 40% |
-| 4 Credit Project | NA | 10% |
+| 4 Credit Homework| NA | 5%|
+| 4 Credit MP | NA | 10% |
 
 The course grade cutoffs can be expected to be:
 
