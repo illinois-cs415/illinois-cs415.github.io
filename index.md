@@ -48,7 +48,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Lectures ####
 
 + Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs415.github.io/schedule).
-+ **You should attend live lectures/discussions at 11:00am Central Time on Fridays at this [Zoom link](https://illinois.zoom.us/j/85907068559?pwd=VWh1bEVkNzhkdWtmOEJjT2lNalRGUT09).**
++ **You should attend live lectures/discussions at 11:00am Central Time on Tuesdays and Thursdays at this [Zoom link]().**
 + These lectures will be recorded and available on the course schedule.
 
 #### Development Resources ####
@@ -63,10 +63,10 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 ## Assessments ##
 
-Assigned work will include 8 homework assignments, 2 "take home" exams, 2 programming assignments, and a final project.
+Assigned work will include 6 homework assignments, 2 "take home" exams, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Homeworks ####
-There will be 7 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
+There will be 6 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
 + You should budget an hour to complete a homework assignment.
 + Each homework can be retaken as many times as you wish for full credit.
 + The homworks are open web. 
