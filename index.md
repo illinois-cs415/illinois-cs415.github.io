@@ -14,10 +14,10 @@ This is a team and project-based course on video game design and development usi
 
 ## Communication ##
 
-**It is your responsibility to stay engaged with the course...at a minimum this means:
-  1. Checking CampusWire every Tuesday for weekly announcements
-  2. Watching the Course Calendar for assignment due dates
-  3. Engaging with your project group and contributing significantly to the project...failure to do so can result in failure in the course.** 
+**It is your responsibility to stay engaged with the course...at a minimum this means:**
+  1. **Checking CampusWire every Tuesday for weekly announcements**
+  2. **Watching the Course Calendar for assignment due dates**
+  3. **Engaging with your project group and contributing significantly to the project...failure to do so can result in failure in the course.** 
 
   You should also attend lecture...but we understand that conflicts come up and will not make attendance mandatory. 
   You definitely should watch all the posted videos in order to successfully complete the Homework and "Take Home" Exams. 
