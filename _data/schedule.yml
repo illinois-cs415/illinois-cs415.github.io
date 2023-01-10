@@ -73,7 +73,7 @@
                PrairieLearn HW 2 Available 9/30 **Due 10/14** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322608)"
   title: "Guest Speaker: Dan Cermak"
 - 
-  date: "Week 7: Oct 5"
+  date: "Week 7: Feb 28"
   materials: "Design Methodologies [Video](https://classtranscribe.illinois.edu/video?id=43939a1e-83eb-4e86-9922-779d58b96195&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet1%20Intro.pdf) <br/> 
               Principles of Design [Video](https://classtranscribe.illinois.edu/video?id=2cc09042-db19-4bc3-b4c5-798ca4d4382a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet2%20Principles%20NV.pdf) <br/> 
               Vision Canvas [Video](https://classtranscribe.illinois.edu/video?id=210783b1-9e3c-44b0-8e77-93c1a6080462&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet3%20Canvas.pdf) <br/> 
@@ -81,80 +81,83 @@
               Narrative [Video](https://classtranscribe.illinois.edu/video?id=ce809e81-941d-4b26-b571-823eb55f9b4d&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet5%20Loops%20Arcs%20World.pdf)"
   title: "Game Design" 
 -  
-  date: "Week 7: Feb 28"
+  date: "Week 7: Mar 2"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=1de95c16-0a47-4982-9270-18ee0e3ee4ab&from=sharedlink)<br/>
                HW 2 Review [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/HW2.pdf)<br/>
                Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
   title: "Project Overview"
 -  
-  date: "Week 8: Oct 12"
+  date: "Week 8: Mar 7"
   materials: "History [Video](https://classtranscribe.illinois.edu/video?id=cba3333a-7004-4582-8605-b9cef1b2b740&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-AI-1.pdf) <br/>
               Pathfinding [Video](https://classtranscribe.illinois.edu/video?id=1fe9cc72-35da-4c92-beaf-90dabec2d268&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-AI-3.pdf) <br/>
               A* [Video](https://classtranscribe.illinois.edu/video?id=9464b539-b000-4df0-bc81-398c9935b5ad&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-AI-4.pdf)<br/>"
   title: "Game AI"
 - 
-  date: "Week 8: Oct 14"
+  date: "Week 8: Mar 9"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=a5d7ab7f-cff0-49ce-809b-849cd27924b7&from=sharedlink)<br/><br/>
               Tactical AI [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-AI-5.pptx.pdf)<br/>
               Semi-Inspirational Design Talk [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/DesignInspiration.pdf)<br/>
               PrairieLearn HW 3 **Due 10/28** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2323006)"
   title: "Game AI"
+- 
+  date: "Week 9: Mar 13"
+  title: "**Spring Break**"
 -  
-  date: "Week 9: Oct 19"
-  materials: "Intro to VR [Video](https://classtranscribe.illinois.edu/video?id=3f8213d0-487a-4414-99f7-ebafca954453&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-VR-Intro.pdf)"
-  title: "Virtual Reality"
+  date: "Week 9: Mar 15"
+  title: "**Spring Break**"
 -
-  date: "Week 9: Oct 21"
+  date: "Week 10: Mar 21"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=94ac7325-4b58-4679-8306-deb4edeb5835&from=sharedlink)<br/><br/>
               VR in UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-VR-UE5.pdf)<br/>
               Maze Generation [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MazeGeneration.pdf)"
   title: "Virtual Reality"
 -
-  date: "Week 10: Oct 26"
+  date: "Week 10: Mar 23"
   materials: "Chaos Physics in UE [YouTube Video](https://youtu.be/mwbSi2R49ZY)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-UE4Physics.pdf)"
   title: "Game Physics"
 -
-  date: "Week 10: Oct 28"
+  date: "Week 11: Mar 28"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=e6a35c4a-4613-4bba-a39a-ea51e70a5e2a&from=sharedlink)<br/><br/>
               A Physics Engine [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
               Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide.pdf)<br/>
               HW4 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/HW4.pdf)"
   title: "Game Physics"
 -
-  date: "Week 11: Nov 2"
+  date: "Week 11: Mar 30"
   materials: "Animating in Unreal 5.1 [YouTube](https://www.youtube.com/watch?v=FgJ1stTScxI)"
   title: "Animation"
 -
-  date: "Week 11: Nov 4"
+  date: "Week 12: Apr 4"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=26bc3791-3dfb-4df7-bcbb-ceebcf45891f&from=sharedlink)<br/><br/>
               Animation Concepts [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/>
               HW5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/HW5.pdf)"
   title: "Animation"
 - 
-  date: "Week 12: Nov 9"
+  date: "Week 12: Apr 6"
   materials: "PBR Materials in UE [Link](https://dev.epicgames.com/community/learning/courses/pxm/creating-pbr-materials/VvZ/unreal-engine-creating-pbr-materials)"
   title: "UE Material Modeling"
 -  
-  date: "Week 12: Nov 11"
+  date: "Week 13: Apr 11"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=81f6e368-ce69-4be3-84c6-8eeca33578b1&from=sharedlink) <br/>
               [NVIDIA Research Page](https://research.nvidia.com/publication/2022-03_research-advances-toward-real-time-path-tracing)"
   title: "Real-Time Path Tracing"
 -
-  date: "Week 13: Nov 16"
+  date: "Week 13: Apr 13"
   title: "No Lecture - Work on the Project"
 -
-  date: "Week 13: Nov 18"
+  date: "Week 14: Apr 18"
   materials: ""
   title: "Guest Speaker: Treyarch Studios"
--  
-  date: "Week 14: Nov 23"
-  title: "**Fall Break**"
--  
-  date: "Week 14: Nov 25"
-  title: "**Fall Break**"
 -
-  date: "Week 15: Nov 30"
+  date: "Week 14: Apr 20"
   title: "No Lecture - Work on the Project"
 -
-  date: "Week 15: Dec 2"
+  date: "Week 15: Apr 25"
   title: "Guest Speaker: Diana Huang Software Engineer at [Rec Room](https://recroom.com/)"
+-
+  date: "Week 15: Apr 27"
+  title: "No Lecture - Work on the Project"
+-
+  date: "Week 16: May 2"
+  title: "Guest Speaker: Diana Huang Software Engineer at [Rec Room](https://recroom.com/)"
+-
