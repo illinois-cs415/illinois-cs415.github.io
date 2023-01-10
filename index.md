@@ -17,7 +17,7 @@ This is a team and project-based course on video game design and development usi
 **It is your responsibility to stay engaged with the course...at a minimum this means:
   1. Checking CampusWire every Tuesday for weekly announcements
   2. Watching the Course Calendar for assignment due dates
-  3. Engaging with your project group and contributing significantly to the project...failure to do so can result in failure in the course. 
+  3. Engaging with your project group and contributing significantly to the project...failure to do so can result in failure in the course.** 
 
   You should also attend lecture...but we understand that conflicts come up and will not make attendance mandatory. 
   You definitely should watch all the posted videos in order to successfully complete the Homework and "Take Home" Exams. 
@@ -43,21 +43,21 @@ Use the passcode 5697.
 
 ## Instructional Content ##
 
-The course will be taught using online lectures along with additional reading materials. There will be one live online meeting per week.
+The course will be taught using online lectures along with additional reading materials. Everything you need to attend, read or watch will be linked on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Lectures ####
-
-+ Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs415.github.io/schedule).
-+ **You should attend live lectures/discussions at 11:00am Central Time on Tuesdays and Thursdays at this [Zoom link]().**
-+ These lectures will be recorded and available on the course schedule.
++ Live lectures and discussions will be held Tu Th at 11am Central Time in 4029 CIF.
++ Lecture attendance is expected. We know events like illness and interviews and trips to GDC happen, so attendance will not be required. However, if course attendance regularly falls below the 50% threshold we may change this policy in order to increase the educational effectiveness of the course.
++ You can choose to atttend lecture on zoom rather than in person at this **[Zoom link]().** This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.
++ If you do miss the occasional lecture...no worriues. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-You can test your computer by downloading and installing Unreal vesion 4.27.2 from [here](https://www.unrealengine.com/en-US/download) <br/>
+You can test your computer by downloading and installing Unreal vesion 5.1 from [here](https://www.unrealengine.com/en-US/download) <br/>
 You should choose the publishing license. 
 
-Test your installation by working through [this tutorial](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4).
+Test your installation by working through [this tutorial]().
 
 If your computer is not capable of running Unreal, see the [Resources page](https://illinois-cs415.github.io/resources) for ways you can find a computer running Unreal Engine.
 
@@ -72,6 +72,8 @@ There will be 6 short homework assignements on PrairieLearn. These homeworks wil
 + The homworks are open web. 
 + Each homework will be available for 2 weeks at full credit. 
 + After that week, the homework can be submitted for half credit.
+
+#### Exams ####
 
 #### Programming Assignments ####
 There will be 2 programming assignments that will serve as an introduction to Unreal.
