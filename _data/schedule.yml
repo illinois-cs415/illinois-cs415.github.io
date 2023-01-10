@@ -20,53 +20,53 @@
               UE5 Overview [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)"
   title: "Unreal Engine Basics"
 -
-  date: "Week 3: Sep 7"
+  date: "Week 3: Jan 31"
   materials: "Geometric Models: Bezier Curves [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezCurves.pdf) <br/>
               Geometric Models: Bezier Surfaces [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezPatch.pdf)<br/>
               Optional Reading: Bezier Techniques [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/Chapter-4-B-zier-Techniques_2002_Handbook-of-Computer-Aided-Geometric-Design.pdf) <br/>
               Optional Reading: Bezier Curve Examples [Link](https://javascript.info/bezier-curve)"
   title: "Basic Geometric Modeling"
 -
-  date: "Week 3: Sep 9"
+  date: "Week 3: Feb 2"
   materials: "Live Lecture [Video](https://classtranscribe.illinois.edu/video?id=c85bc7fb-650e-4b69-8d20-ccbb9acc67fb&from=sharedlink) <br/><br/>
   Geometric Models: Game Art [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
   Geometric Models: Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf) <br/>
   PrairieLearn HW 1 **Due 9/23** [Link](https://www.prairielearn.org/pl/course_instance/129412/assessment/2322273)"
   title: "Basic Geometric Modeling"
 -  
-  date: "Week 4: Sep 14"
+  date: "Week 4: Feb 7"
   materials:  "Geometric Models: LoD Rendering [Video](https://classtranscribe.illinois.edu/video?id=9b359257-a3cd-4d97-8634-edad289ee7ce&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshLOD.pdf) <br/>
               Geometric Models: Mesh Simplification [Video](https://classtranscribe.illinois.edu/video?id=eb69792d-2f24-419e-b5d4-82fe36ed7039&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshLODQEM.pdf)<br/>
               Optional Reading: Mesh Data Structures [PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf) <br/>
               Optional Reading:  Original QEM Paper [PDF](http://www.cs.cmu.edu/~garland/Papers/quadrics.pdf)"
   title: "LOD Generation"
 -  
-  date: "Week 4: Sep 16"
+  date: "Week 4: Feb 9"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=6ae230cb-1de5-4ab5-a220-88dbd37a0196&from=sharedlink)<br/><br/>
             HW 1 Examples [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-HW1.pdf) <br/>
             Geometric Models: Nanite in UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf) <br/>
             Optional: Nanite SIGGRAPH Talk [YouTube](https://youtu.be/eviSykqSUUw)"
   title: "UE5 Nanite Virtual Geometry"
 -
-  date: "Week 5: Sep 21"
+  date: "Week 5: Feb 14"
   materials: "Rendering Concepts [Video](https://classtranscribe.illinois.edu/video?id=1f00f586-fa67-4ab4-9a49-6255397f3838&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rendering.pdf) <br/>
               Rasterization [Video](https://classtranscribe.illinois.edu/video?id=bbc3d76b-231a-4a9c-8bbe-f4da6c91c0de&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rasterization.pdf) <br/><br/>
               Basics of Ray Tracing by Eric Haines [Video](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/>
               Rasterization by Eric Haines [Video](https://developer.nvidia.com/blog/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/)<br/>"
   title: "Graphics: Rendering Basics"
 -
-  date: "Week 5: Sep 23"
+  date: "Week 5: Feb 16"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=698674cc-078c-49c8-8f1e-ce51fee337bc&from=sharedlink)<br/><br/>
               Rendering: Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf) <br/>
               Rendering: Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)"
   title: "Graphics: Rasterization"
 - 
-  date: "Week 6: Sep 28"
+  date: "Week 6: Feb 21"
   materials: "Rendering: Shading [Video](https://classtranscribe.illinois.edu/video?id=ff33b10f-c7f4-4df0-838f-183e77ee7b81&from=sharedlink)&nbsp; [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
               Rendering: Deferred Shading [Video](https://classtranscribe.illinois.edu/video?id=a79ac98d-6acd-4153-adad-d71e31f6837d&from=sharedlink)&nbsp; [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-DeferredShading.pdf)"
   title: "Rendering: Shading"
 -
-  date: "Week 6: Sep 30"
+  date: "Week 6: Feb 23"
   materials: " [Lecture Video](https://classtranscribe.illinois.edu/video?id=115c7350-c509-4dc5-aa8f-36bfafcfc2af&from=sharedlink)<br/><br/>
                The Game Industry [PDF]() <br/>
        
@@ -81,7 +81,7 @@
               Narrative [Video](https://classtranscribe.illinois.edu/video?id=ce809e81-941d-4b26-b571-823eb55f9b4d&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet5%20Loops%20Arcs%20World.pdf)"
   title: "Game Design" 
 -  
-  date: "Week 7: Oct 7"
+  date: "Week 7: Feb 28"
   materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=1de95c16-0a47-4982-9270-18ee0e3ee4ab&from=sharedlink)<br/>
                HW 2 Review [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/HW2.pdf)<br/>
                Rendering: UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
