@@ -46,10 +46,10 @@ We will use CampusWire for answering questions and administering the course.
 The course will be taught using online lectures along with additional reading materials. Everything you need to attend, read or watch will be linked on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Lectures ####
-+ Live lectures and discussions will be held **Tu Th at 11am Central Time in 4029 CIF**.
++ Live lectures and discussions will be held **Tu Th at 11am Central Time in 4029 CIF**.<br/><br/>
 + Lecture attendance is expected.<br/>
   We know events like illness and interviews and trips to GDC happen, so attendance will not be required.<br/>
-  **However, if course attendance regularly falls below the 50% threshold we may change this policy to increase the effectiveness of the course.**
+  **However, if course attendance regularly falls below the 50% threshold we may change this policy to increase the effectiveness of the course.**<br/><br/>
 + You can choose to atttend lecture on zoom rather than in person at this **[Zoom link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09).** <br/><br/>**This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.**<br/><br/>
 + If you do miss the occasional lecture...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
