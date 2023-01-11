@@ -17,7 +17,8 @@ This is a team and project-based course on video game design and development usi
 **It is your responsibility to stay engaged with the course...at a minimum this means:**
   1. **Checking CampusWire every Tuesday for weekly announcements**
   2. **Watching the Course Calendar for assignment due dates**
-  3. **Engaging with your project group and contributing significantly to the project...failure to do so can result in failure in the course.** 
+  3. **Engaging with your project group and contributing significantly to the project.<br/>
+       Failure to do so can result in failure in the course.** 
 
   You should also attend lecture...but we understand that conflicts come up and will not make attendance mandatory. 
   You definitely should watch all the posted videos in order to successfully complete the Homework and "Take Home" Exams. 
@@ -75,8 +76,20 @@ There will be 6 short homework assignements on PrairieLearn. These homeworks wil
 
 #### Exams ####
 
+There will be two exams. They will:
++ Be on PriairieLearn
++ Be very much like the Homework...sometimes will even have the same questions!
++ Have a strict time limit of an hour 
++ Can be taken anywhere, at anytime during a 24 hour period.
++ Are open web
++ **You should not collaborate or share information about the exams.**<br/>
+  **The sanction for doing so will be failure in the course**  
+  
+  The exams are not meant to be difficult...do the homework to prepare and you will be fine. There's really no need to cheat.
+
+
 #### Programming Assignments ####
-There will be 2 programming assignments that will serve as an introduction to Unreal.
+There will be 2 machine problems (MPs) that will serve as an introduction to Unreal. You will use Unreal 5 and Blueprints to implement the MPs.
 
 #### Project ####
 The course project will be team-based with teams of 3 to 5 people working on a project. You will have a choice of what to implement, but your proposed project is expected to be related to game development in some way...typically it should be a game. The grading citeria and development process are described on the Project page.
