@@ -47,9 +47,10 @@ The course will be taught using online lectures along with additional reading ma
 
 #### Lectures ####
 + Live lectures and discussions will be held **Tu Th at 11am Central Time in 4029 CIF**.
-+ Lecture attendance is expected. We know events like illness and interviews and trips to GDC happen, so attendance will not be required.<br/>
-  However, if course attendance regularly falls below the 50% threshold we may change this policy to increase the educational effectiveness of the course.
-+ You can choose to atttend lecture on zoom rather than in person at this **[Zoom link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09).** <br/>**This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.**
++ Lecture attendance is expected.<br/>
+  We know events like illness and interviews and trips to GDC happen, so attendance will not be required.<br/>
+  **However, if course attendance regularly falls below the 50% threshold we may change this policy to increase the effectiveness of the course.**
++ You can choose to atttend lecture on zoom rather than in person at this **[Zoom link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09).** <br/><br/>**This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.**<br/><br/>
 + If you do miss the occasional lecture...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
@@ -85,7 +86,8 @@ There will be two exams. They will:
 + **You should not collaborate or share information about the exams.**<br/>
   **The sanction for doing so will be failure in the course**  
   
-  The exams are not meant to be difficult...do the homework to prepare and you will be fine. There's really no need to cheat.<\br>
+ The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
+ There's really no need to cheat.
 
 #### Programming Assignments ####
 There will be 2 machine problems (MPs) that will serve as an introduction to Unreal. You will use Unreal 5 and Blueprints to implement the MPs.
