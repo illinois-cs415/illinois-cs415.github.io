@@ -1,1 +1,1 @@
-1. Read the submission instructions carefully!
+**Read the submission instructions carefully!**
