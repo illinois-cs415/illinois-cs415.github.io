@@ -48,7 +48,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Lectures ####
 + Live lectures and discussions will be held **Tu Th at 11am Central Time in 4029 CIF**.
 + Lecture attendance is expected. We know events like illness and interviews and trips to GDC happen, so attendance will not be required. However, if course attendance regularly falls below the 50% threshold we may change this policy in order to increase the educational effectiveness of the course.
-+ You can choose to atttend lecture on zoom rather than in person at this **[Zoom link]().** This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.
++ You can choose to atttend lecture on zoom rather than in person at this **[Zoom link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09).** This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.
 + If you do miss the occasional lecture...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
