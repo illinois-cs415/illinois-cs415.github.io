@@ -50,8 +50,8 @@ For your first programming assignment, in honor of Keanu Reeves turning 57 years
 Your task is to do the following:
 
 ### 1. Complete the Tutorial:
-Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.kodeco.com/454-how-to-create-a-simple-game-in-unreal-engine-4). Do not skip the tutorial and just grab the finished code; complete the tutorial. It teaches almost all of what you need to know to implement the additional features below (features that are not included in the finished tutorial code posted at the site). This assignment is individual and each student should submit their own work. Some important tips and things to keep in mind while doing the tutorial:
-- The tutorial was originally created in UE 4.2.7, but can be done in UE5. When working in UE5, when it asks you to make a copy of the project, make a copy to work in UE5.
+Complete this [tutorial on making a simple game by Kodeco](https://www.kodeco.com/454-how-to-create-a-simple-game-in-unreal-engine-4). Do not skip the tutorial and just grab the finished code; complete the tutorial. It teaches almost all of what you need to know to implement the additional features below (features that are not included in the finished tutorial code posted at the site). This assignment is individual and each student should submit their own work. Some important tips and things to keep in mind while doing the tutorial:
+- **The tutorial was originally created in UE 4.2.7, but can be done in UE5. When working in UE5, when it asks you to make a copy of the project, make a copy to work in UE5.**
 - To access the Blueprints folder, click on "Content Drawer" in the lower right corner. If you'd like the Content Drawer to stay in the layout, click on "Dock Layout" on the right.
 - When searching for nodes, keep two things in mind:
   - If you can't find a node, this might be because you have "Context Sensitive" on. Turn it off to have access to more nodes.
