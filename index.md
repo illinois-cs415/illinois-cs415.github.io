@@ -26,7 +26,7 @@ This is a team and project-based course on video game design and development usi
 #### [CampusWire](https://campuswire.com/p/GCCF46967) ####
 
 We will use CampusWire for answering questions and administering the course.
-+ Click **[this link](https://campuswire.com/p/GCCF46967)**to join/view the forum.<br/> 
++ Click **[this link](https://campuswire.com/p/GCCF46967)** to join/view the forum.<br/> 
 + Use the passcode 5697. 
 + For any question involving a grade you should select the tag `Post to instructors and TAs`.
 
@@ -50,7 +50,7 @@ The course will be taught using online lectures along with additional reading ma
 + Lecture attendance is expected.<br/>
   We know events like illness and interviews and trips to GDC happen, so attendance will not be required.<br/>
   **However, if course attendance regularly falls below the 50% threshold we may change this policy to increase the effectiveness of the course.**<br/><br/>
-+ You can choose to atttend lecture on zoom rather than in person at this **[Zoom link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09).** <br/><br/>**This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.**<br/><br/>
++ You can choose to attend lecture on zoom rather than in person at this **[Zoom link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09).** <br/><br/>**This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.**<br/><br/>
 + If you do miss the occasional lecture...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
@@ -66,11 +66,11 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 Assigned work will include 6 homework assignments, 2 "take home" exams, 2 programming assignments, and a final project.
 
-#### Bi-Weekly Homeworks ####
-There will be 6 short homework assignements on PrairieLearn. These homeworks will be based on the lecture material. 
+#### Bi-Weekly Homework ####
+There will be 6 short homework assignements on PrairieLearn. This homework will be based on the lecture material. 
 + You should budget an hour to complete a homework assignment.
 + Each homework can be retaken as many times as you wish for full credit.
-+ The homworks are open web. 
++ The homwork is open web. 
 + Each homework will be available for 2 weeks at full credit. 
 + After that week, the homework can be submitted for half credit.
 
@@ -78,7 +78,7 @@ There will be 6 short homework assignements on PrairieLearn. These homeworks wil
 
 There will be two exams. They will:
 + Be on PriairieLearn
-+ Be very much like the Homework...sometimes will even have the same questions!
++ Be very much like the homework...sometimes will even have the same questions!
 + Have a strict time limit of an hour 
 + Can be taken anywhere, at anytime during a 24 hour period.
 + Are open web
@@ -100,9 +100,9 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 Students taking the course for 4 credits will complete the following additional work:
 1. Watch a set of pre-recorded lectures on Virtual Reality 
 2. Complete 2 additional homework assignments on PrairieLearn
-3. Complete 1 additional programming assignment focussed on Virtual or Augmented Reality  
+3. Complete 1 additional programming assignment focused on Virtual or Augmented Reality  
 
-The additional programming asignment is typicaly a VR game, but you can propose your own project instead. Any proposal will need to be reviewed by the course staff and you will be notfied if it acceptable. Full details of the procedure will be available on the Assignments page when the assignemnet is released. 
+The additional programming assignment is typically a VR game, but you can propose your own project instead. Any proposal will need to be reviewed by the course staff and you will be notfied if it acceptable. Full details of the procedure will be available on the Assignments page when the assignment is released. 
 
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
