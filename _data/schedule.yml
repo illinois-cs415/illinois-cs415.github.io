@@ -1,13 +1,12 @@
 - 
   date: "Week 1: Jan  17"
-  materials: "Introduction to Unreal Engine [Video](https://classtranscribe.illinois.edu/video?id=45d08962-c87b-4fe5-a485-3e2eb681af25&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture02.pdf) <br/>
-  Simple Game Example [Video](https://classtranscribe.illinois.edu/video?id=fee44b99-1afb-4502-a4da-3fa9109dcd64&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/UE_Blueprints_Lecture05.pdf) <br/><br/>
-  [UE 4 Tutorial](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4)"
-  title: "Course Mechanics and Introduction"
+  materials: "Game Engines <br/>
+              Game Design"
+  title: "Course Mechanics and Game Engines"
 - 
   date: "Week 1: Jan 19"
   materials: "Game Genres [Video](https://classtranscribe.illinois.edu/video?id=c66d9b06-5db8-4561-8f11-30dc36b56f6a&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)"
-  title: "Game Genres and Design"
+  title: "Game Genres and UE5"
 - 
   date: "Week 2: Jan 24"
   title: "Unreal Engine Basics"
