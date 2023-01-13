@@ -56,7 +56,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-+ You can test your computer by downloading and installing Unreal vesion 5.1 from [here](https://www.unrealengine.com/en-US/download) <br/>
++ You can test your computer by downloading and installing Unreal vesion 5.1.0 from [here](https://www.unrealengine.com/en-US/download) <br/>
 + You should choose the publishing license. 
 + Test your installation by starting work on [MP 1](https://illinois-cs415.github.io/assignments/mp1.html).
 
