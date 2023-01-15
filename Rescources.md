@@ -54,15 +54,15 @@ Below are a list of online reference material for the topics covered in the cour
 
 #### Unreal Engine
 
-+ [Unreal Engine 4 Documentation](https://docs.unrealengine.com/4.27/en-US/)
++ [Unreal Engine 5 Documentation](https://docs.unrealengine.com/5.0/en-US/)
 
 #### Blueprint Programming 
 
-+ [Unreal Blueprint Visual Scripting](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/)
++ [Unreal Blueprint Visual Scripting](https://docs.unrealengine.com/5.0/en-US/blueprints-visual-scripting-in-unreal-engine/)
 
 #### C++ and Unreal Engine
 
-+ [Unreal Programming with C++ Documentation](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/)
++ [Unreal Programming with C++ Documentation](https://docs.unrealengine.com/5.0/en-US/programming-with-cplusplus-in-unreal-engine/)
 
 #### Geometric Modeling
 ![Essentials of CAGD](/img/cagd.jpg){:height="200px" width="160px"}
