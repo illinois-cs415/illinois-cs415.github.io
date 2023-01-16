@@ -1,11 +1,11 @@
 - 
   date: "Week 1: Jan  17"
-  materials: "Game Engines <br/>
-              Game Design"
-  title: "Course Mechanics and Game Engines"
+  materials: "Course Overview [Live Video](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09) <br/>
+              Game Genres [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)"
+  title: "Course Introduction"
 - 
   date: "Week 1: Jan 19"
-  materials: "Game Genres [Video](https://classtranscribe.illinois.edu/video?id=c66d9b06-5db8-4561-8f11-30dc36b56f6a&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)"
+  materials: ""
   title: "Game Genres and UE5"
 - 
   date: "Week 2: Jan 24"
