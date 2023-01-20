@@ -1,7 +1,8 @@
 - 
   date: "Week 1: Jan  17"
   materials: "Course Overview<br/>
-              Game Genres [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)"
+              Game Genres [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)<br/>
+              **[MP 1](https://illinois-cs415.github.io/assignments/mp1.html) Assigned**"
   title: "Course Introduction"
 - 
   date: "Week 1: Jan 19"
@@ -18,6 +19,7 @@
   title: "Unreal Engine Basics"
 -
   date: "Week 3: Jan 31"
+  materials: "**[MP 1](https://illinois-cs415.github.io/assignments/mp1.html) Due**" 
   title: "Basic Geometric Modeling"
 -
   date: "Week 3: Feb 2"
