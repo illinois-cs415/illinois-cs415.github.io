@@ -6,12 +6,12 @@
 - 
   date: "Week 1: Jan 19"
   materials: "**Zoom Only - No In-Person** <br/>
-               [Live Video](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
-               UE4 and Game Engines [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE4.pdf)<br/>
-               UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)"
+               [Recorded Video](https://classtranscribe.illinois.edu/video?id=1ee59c14-ed9c-41fe-a3d0-68ff878fa329&from=sharedlink)<br/>
+               UE4 and Game Engines [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE4.pdf)"
   title: "Game Engines and UE5"
 - 
   date: "Week 2: Jan 24"
+  materials: "UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)"
   title: "Unreal Engine Basics"
 -
   date: "Week 2: Jan 26"
