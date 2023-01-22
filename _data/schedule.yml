@@ -13,8 +13,10 @@
 - 
   date: "Week 2: Jan 24"
   materials: "UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf) <br/>
-              Art Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf)"
-  title: "Unreal Engine Basics"
+              Art Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
+              Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf) <br/>
+              References: [1]()"
+  title: "Basic Geometric Modeling"
 -
   date: "Week 2: Jan 26"
   title: "Unreal Engine Basics"
