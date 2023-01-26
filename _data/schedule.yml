@@ -12,26 +12,29 @@
   title: "Game Engines and UE5"
 - 
   date: "Week 2: Jan 24"
-  materials: "UE5 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf) <br/>
+  materials: "[Recorded Video]()<br/>
               Art Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
               Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf)"
   title: "Basic Geometric Modeling"
 -
   date: "Week 2: Jan 26"
-  title: "Unreal Engine Basics"
+  materials: " [Zoom Link]()<br/> 
+                Art: Bezier Curves [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier1.pdf)<br/>
+                UE5 Features [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)"
+  title: "Basic Geometric Modeling"
 -
   date: "Week 3: Jan 31"
   materials: "**[MP 1](https://illinois-cs415.github.io/assignments/mp1.html) Due**" 
   title: "Basic Geometric Modeling"
 -
   date: "Week 3: Feb 2"
-  title: "Basic Geometric Modeling"
+  title: "MP2 Tech Demo"
 -  
   date: "Week 4: Feb 7"
-  title: "LOD Generation"
+  title: "UE5 Nanite Virtual Geometry"
 -  
   date: "Week 4: Feb 9"
-  title: "UE5 Nanite Virtual Geometry"
+  title: "MP2 Tech Demo"
 -
   date: "Week 5: Feb 14"
   title: "Graphics: Rendering Basics"
