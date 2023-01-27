@@ -33,13 +33,19 @@ We will use CampusWire for answering questions and administering the course.
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* TA Shresta Bangaru
+* TA Shresta Bangaru, bangaru2@illinois.edu 
 * TA Ray Lin
 * CA Aaditya Dhruv
 * CA Ryan Flynn 
 * CA Adnan Noorullah
 * CA Siddhant Sharma
 * CA Yipeng Yang
+* CA Apoorva Aditya
+* CA Violetta Dabros
+* CA Aria Wu
+* CA Jasper Zhang
+* CA Om Jivandas
+* CA Abdul Maaieh
 
 ## Instructional Content ##
 
