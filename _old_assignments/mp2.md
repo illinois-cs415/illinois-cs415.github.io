@@ -77,7 +77,7 @@ All enemies should do the following:
 
 ### **Enemy Types**
 
-You will all three types of enemies
+You will implement all three types of enemies
 
 #### **The Pursuer**
 The Pursuer should:
