@@ -36,8 +36,12 @@ rubric:
     description: Place collectible objects around the level and display them on the UI
 -
     name: Design Document
-    points: 20
+    points: 15
     description: Submit a document that explains your level design and design decisions
+-
+    name: Video
+    points: 5
+    description: Submit a link to a video demo of your game
 ---
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/platform.PNG){:width="800px"}
 # MP 2: Level Design
