@@ -55,8 +55,7 @@ Once you have done that you can continue on to the main assignment. Please read 
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
 
 The basic player controller along with a large number of assets you may want to use are found here:
-[Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games)<br/>
-It will say it only is updated for 4.26, just open it with 4.27 and it will work fine.
+[Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit)<br/>
 
 The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
@@ -76,10 +75,9 @@ All enemies should do the following:
 -	Reduce the players health on collision with any part that is not the head
 -	Knock the player back and remove player control for a short duration after a health reducing collision
 
-
 ### **Enemy Types**
 
-You will create the following two types of enemies
+You will all three types of enemies
 
 #### **The Pursuer**
 The Pursuer should:
@@ -99,7 +97,7 @@ The Mortar should:
 -	The explosions should knock back and reduce the players health on collision
 
 #### **Your Own Enemy**
-Create an enemy of your own design. It should have similar complexity to the other two and also be distinct and take on a different role.
+Create an enemy of your own design. It should have similar complexity to the other two and also be distinct and take on a different role. If you'd like your enemy to have different , please talk about why in your design document.
 
 You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
 
@@ -107,18 +105,18 @@ You can use any assets you want for the enemies and their projectiles. Simple sh
 The last step of the MP is to put it all together and make a platforming level.
 
 Your level should:
-- Be completable in around 5 minutes
+- **Take around 5 minutes**
 - Present some degree of challenge
 - Return the player to their start location when their health is reduced to zero or if they fall off the map
 - Display a level complete screen upon reaching the end of the level
 - Utilize both the created enemies in a way that contributes to the design
+    - The design of the level should specifically take into account your enemy design.
 - Have health pick ups scattered around the level
 - Have floating collectibles scattered around the level to guide the player and encourage them to explore
-- You can use any asset you want for these, and there are several included in the given assets
-- These objects should be destroyed on collection, and the number collected should be displayed some where on the UI
-- The design of the level should specifically take into account your enemy design.
+    - You can use any asset you want for these, and there are several included in the given assets
+    - These objects should be destroyed on collection, and the number collected should be displayed some where on the UI
 
-As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project.
+As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project. **The level layout, enemies, and collectables portions of the rubric are all a part of the level design. Your level should be somewhat challenging, the player should have to interact with enemies, and there should be some exploring required to find the collectables."** If any of these things aren't the case, you'll lose significant points from those portions of the rubric. Make sure that your level isn't just the tutorial level!
 
 # Additional Submission Instructions
-In addition to usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the design process and how your design had to accommodate the new mechanic and enemy you created. Please also record your video according to [this guideline](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).
+In addition to usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the level design process and how your level design had to accommodate the new mechanic and enemy you created. For example, you could talk about why you placed your custom enemy or collectables in certain parts of the level. Please also record your video according to [this guideline](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).
