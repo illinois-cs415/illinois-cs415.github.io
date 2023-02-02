@@ -105,7 +105,7 @@ You can use any assets you want for the enemies and their projectiles. Simple sh
 The last step of the MP is to put it all together and make a platforming level.
 
 Your level should:
-- **Take around 5 minutes**
+- **Take around 5 minutes to play completely**
 - Present some degree of challenge
 - Return the player to their start location when their health is reduced to zero or if they fall off the map
 - Display a level complete screen upon reaching the end of the level
