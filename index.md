@@ -38,7 +38,6 @@ We will use CampusWire for answering questions and administering the course.
 * CA Aaditya Dhruv
 * CA Ryan Flynn 
 * CA Adnan Noorullah
-* CA Siddhant Sharma
 * CA Yipeng Yang
 * CA Apoorva Aditya
 * CA Violetta Dabros
