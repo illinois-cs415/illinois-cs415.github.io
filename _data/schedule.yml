@@ -37,10 +37,15 @@
   title: "MP2 Tech Demo"
 -  
   date: "Week 4: Feb 7"
+  materials: "[Live Video Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+              Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
+              Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)"
   title: "Game Design"
 -  
   date: "Week 4: Feb 9"
-  title: "Graphics: UE5 Virtual Geometry"
+  materials: "  [Live Video Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+                Level-of-Detail [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD.pdf)" 
+  title: "Rendering: UE5 Virtual Geometry"
 -
   date: "Week 5: Feb 14"
   title: "Active Learning: HW 1"
