@@ -44,11 +44,13 @@
 -  
   date: "Week 4: Feb 9"
   materials: "  [Live Video Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
-                Level-of-Detail [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD.pdf)" 
-  title: "Rendering: UE5 Virtual Geometry"
+                Level-of-Detail [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD.pdf)<br/>
+                LOD Worksheet [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS%20415_%20Understanding%20Mesh%20LOD%20and%20UE5%20Nanite.pdf)<br/>
+                Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf)" 
+  title: "Rendering: LOD and Projection"
 -
   date: "Week 5: Feb 14"
-  title: "Active Learning: HW 1"
+  title: "Active Learning: HW 1!"
 -
   date: "Week 5: Feb 16"
   title: "Graphics: Rasterization"
