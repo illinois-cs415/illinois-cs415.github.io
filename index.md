@@ -104,7 +104,7 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 Students taking the course for 4 credits will complete the following additional work:
 1. Watch a set of pre-recorded lectures on Virtual Reality 
-2. Complete 2 additional homework assignments on PrairieLearn
+2. Complete 1 additional homework assignment on PrairieLearn
 3. Complete 1 additional programming assignment focused on Virtual or Augmented Reality  
 
 The additional programming assignment is typically a VR game, but you can propose your own project instead. Any proposal will need to be reviewed by the course staff and you will be notfied if it acceptable. Full details of the procedure will be available on the Assignments page when the assignment is released. 
@@ -121,8 +121,8 @@ We weight grades as follows:
 | Homework|15%| 10%|
 | Exams | 20% | 20%|
 | Project | 40% | 40% |
-| 4 Credit Homework| NA | 5%|
-| 4 Credit MP | NA | 10% |
+| 4 Credit Homework| NA | 3%|
+| 4 Credit MP | NA | 12% |
 
 The course grade cutoffs can be expected to be:
 
