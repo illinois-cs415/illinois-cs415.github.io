@@ -47,13 +47,16 @@
                 Level-of-Detail [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD.pdf)<br/>
                 LOD Worksheet [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/Copy%20of%20CS%20415_%20Understanding%20Mesh%20LOD%20and%20UE5%20Nanite-Solution.pdf)   
                 " 
-  title: "Rendering: LOD and Projection"
+  title: "Rendering: LOD"
 -
   date: "Week 5: Feb 14"
-  title: "Active Learning: HW 1!"
+  materials: "[Live Video Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+              Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf) <br/>
+              HW1 Hints [PDF Available Soon]()"
+  title: "Rendering: Projection"
 -
   date: "Week 5: Feb 16"
-  materials: "Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf)"
+  materials: ""
   title: "Graphics: Projection and Rasterization"
 - 
   date: "Week 6: Feb 21"
