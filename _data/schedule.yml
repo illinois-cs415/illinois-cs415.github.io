@@ -56,12 +56,13 @@
   title: "Rendering: Projection"
 -
   date: "Week 5: Feb 16"
-  materials: ""
-  title: "Graphics: Projection and Rasterization"
+  materials: "**Zoom Only - No In-Person** <br/>
+               [Live Video Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>"
+  title: "Rendering: Rasterization"
 - 
   date: "Week 6: Feb 21"
   materials: "**[MP 2 Due](https://illinois-cs415.github.io/assignments/mp2.html)**"
-  title: "Graphics: Shading"
+  title: "Rendering: Shading"
 -
   date: "Week 6: Feb 23"
   title: "Project & Game Design"
