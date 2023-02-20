@@ -64,11 +64,14 @@
   title: "Rendering: Rasterization"
 - 
   date: "Week 6: Feb 21"
-  materials: "**[MP 2 Due](https://illinois-cs415.github.io/assignments/mp2.html)**"
-  title: "Rendering: Shading"
+  materials: " [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+              UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
+              UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
+  title: "Rendering: UE5 Nanite"
 -
   date: "Week 6: Feb 23"
-  title: "Project & Game Design"
+  materials: "[Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>"
+  title: "Rendering: Shading"
 - 
   date: "Week 7: Feb 28"
   materials: "**HW1 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105)<br/>"
