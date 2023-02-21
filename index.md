@@ -42,7 +42,6 @@ We will use CampusWire for answering questions and administering the course.
 * CA Apoorva Aditya
 * CA Violetta Dabros
 * CA Aria Wu
-* CA Jasper Zhang
 * CA Om Jivandas
 * CA Abdul Maaieh
 
