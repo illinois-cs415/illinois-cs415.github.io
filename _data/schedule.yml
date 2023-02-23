@@ -71,16 +71,20 @@
 - 
   date: "Week 6: Feb 23"
   materials: " [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
-              UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
-              UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
-  title: "Rendering: UE5 Nanite"
+                Shading Worksheet [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS%20415-Worksheet-Phong.pdf) <br/> 
+                Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-DeferredShading.pdf)<br/>
+                UE5 Materials [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Material.pdf)"
+  title: "Rendering: Shading & Materials"
 - 
   date: "Week 7: Feb 28"
-  materials: "**HW1 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105)<br/>"
-  title: "Project & Game Design" 
+  materials: "**HW1 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105)<br/>
+               [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+              UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
+              UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
+  title: "Rendering: UE5 Nanite"  
 -  
   date: "Week 7: Mar 2"
-  title: "Art Generation"
+  title: "Project Overview"
 -  
   date: "Week 8: Mar 7"
   title: "Art Generation"
