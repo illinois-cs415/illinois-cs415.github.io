@@ -2,7 +2,7 @@
 layout: assignment
 title: "Course Project: The Final Boss"
 index: 10
-due: "Dec. 7, 2022 @ 11:59 PM"
+due: "May 3, 2023 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
@@ -15,7 +15,7 @@ rubric:
   - 
     name: Meetings 
     points: 5
-    description: You will be meeting with your project mentor twice...you need to prepare and attend.
+    description: You will be meeting with your project mentor in person once...you need to prepare and attend.
     details: Attendance = 3 points; 2 points for being prepared at meetings. 
   - 
     name: Alpha
@@ -36,7 +36,7 @@ rubric:
   -
     name: Demonstration
     points: 5
-    description: Perform an in-person demonstration of your project.
+    description: Perform an live demonstration of your project.
     details: Attendance = 2 points; Demo = 3 points (Clear and concise, Covers all main objectives and aspects of the game). 
 ---
 
@@ -52,14 +52,10 @@ You can find all document templates needed for the project at the [Course Google
 
 The final project is worth a total of **100 points**. Each subsection will be graded *per group*, except for the peer evaluation section. 
 
-
-
-
 ## Discovery (10 of points)
-**Due date: 11:59 PM October 19**
+**Due date: 11:59 PM March 21**
 
-This is the first project milestone. You will submit completed versions of the project documents in the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing). You may wish to review Dan Cermak's guest lectures on Game Design:
-[ ![lecture](/img/gd.png){:width="400px"}](https://illinois-cs415.github.io/schedule)
+This is the first project milestone. You will submit completed versions of the project documents in the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing).
 
 The Discovery section is graded on completeness and correctness. Points will be taken off for incorrect submissions (such as missing documents) or for incorrectly filled sections. In particular:
 
@@ -72,60 +68,16 @@ The Discovery section is graded on completeness and correctness. Points will be 
 
 **For the Technical Design Document and Vision Canvas, you can find example filled out versions in the second tabs of both spreadsheets.**
 
-### Sponsored Projects
-We have a few sponsored projects you can consider working on. **We really would like each of these projects to be chosen so please consider selecting one of these if the topic is at all of interest to you and your team.** 
-
-All of these games were proposed by students at the Campus Middle School for Girls during an outreach activity on game design. Any group working on one of these projects will need to complete the design and add more details. You have the freedom to change and expand or reduce the game design. 
-
-We will try to prototype these quickly in order to get feedback from the design team that proposed them. It should be a fun experience. 
-
-**To request to work on a sponsored project, post to CampusWire visible only to course staff and using the `Sponsor Request` category. Include the following information:**
-
-+ Name and netid of everyone asking to work on the project
-+ Which sponsored project you are requesting
-
-#### Projects
-
-##### **1. Collaborative Maze Game**
-A two player speed run game in which the 2 players start off in different parts of a 2D maze. Visibility is limited, most of the maze hidden except a portion around each player. 
-
-“There are two friends who get kidnapped, and get thrown into a maze. They have limited time to find an exit. There are two keys. Each player can only get one key, so if one finds both, they have to tell the other player where it is in some way. Once they both get their key, they need to meet at the end of the maze. The maze is dark everywhere else, except for the location of the two friends. Possible mechanics include dropping candles to help the other person find the key; light switch; something that helps the others find their way. Maybe add ways to blow open walls of the maze or traps.”
-
-##### 2. **Fight for the Gold**
-A multi-level Smash Bros like fighting game. 2 to 4 player. 
-
-They are all trying to win (collect more gold). They can kill each other, and they can find weapons in all levels. Lists of weapons are available and concept art is available. Each level should be a limited arena (confined to relatively small amount of space). Propose levels: 
-
-Level 1: Forest.... climb trees, attack other players from top of a tree.
-Level 2: Haunted library: platform around the books (sketches are available of this level).
-Level 3: Ziggurat temple: need to get to the top without dying. They will collect gold at the top.
-
-##### 3. **Hotel Madness**
-2D (maybe isometric) puzzle game.  Hotel with 2 or 3  floors, each floor has a task. Interact other actors to complete tasks under time constraints.
-The player is the manager, who needs to get keys (this is the goal). Each task completed gives a key.
-
-Floor 1: get cleaning supplies (mop, etc.)  and clean up a mess. 
-Floor 2: ?
-Floor 3:?
-Concept art available.
-
-
-
 ## Mid Project Meeting (5 points)
-Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their progress, challenges, and feedback. Groups will be graded on:
-
+Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
-2. **Progress.** The group should make significant progress since Discovery for the first meeting. 
 3. **Feedback.** For the meeting, groups should take into consideration feedback given for their Discovery grade. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design.
 
-**Week of meetings: Oct. 31- Nov. 4**
-
-**A live demonstration of some code is expected.** Feedback will be given during these meetings, and this feedback should be incorporated to the alpha and final submissions.
-
+**Week of meetings: Marh 27- March 31**
 
 ## Alpha (30 points)
-**Due date: 11:59 PM November 18**
+**Due date: 11:59 PM April 19**
 
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
@@ -148,7 +100,7 @@ You must demo your alpha submission live or on zoom. You can choose to make and 
 
 
 ## Final Submission (40 points)
-**Due date: 11:59 PM Dec. 7th**
+**Due date: 11:59 PM May 3**
 
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
@@ -157,7 +109,7 @@ Your final project submission. A version of your game with at least all the high
 
 
 ## Peer Evaluation (10 points)
-**Due date: 11:59 PM Dec. 7th** 
+**Due date: 11:59 PM May 3** 
 
 This section has various parts, some of which are due earlier. Please read through to fully understand the requirements. 
 
@@ -168,8 +120,8 @@ Halfway through the project timeline, each individual team member will be asked 
 At the end of the project, each individual team member will submit a brief peer evaluation form of their team members. 
 
 
-## In-person Demo (5 points)
-**Due date: Dec. 8 through Dec 16**
+## Live Demonstration (5 points)
+**Due date: May 5 through May 12**
 It is a University requirement that the project be demonstrated in person to your project mentor (or another staff member if the mentor is unavailable). Your mentor will schedule a demonstration time and location with your team, and it will take place sometime during finals week. We would like all team members to attend. If that is logistically problematic please contact the course instructor at shaffer1@illinois.edu to discuss an alternative arrangement in terms of time or attendance. The grade for the demonstration is based solely on showing up and demoing. There is no assessment of the quality of demonstration.  
 
 **See [here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) for a detailed version of the below rubric.** 
