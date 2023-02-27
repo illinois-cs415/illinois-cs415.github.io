@@ -83,10 +83,21 @@
   title: "Rendering: UE5 Nanite"  
 -  
   date: "Week 7: Mar 2"
+  materials: "**Zoom Only - No In-Person** <br/>
+                 [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+                Semi-Inspirational Design Talk [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/DesignInspiration.pdf)<br/>
+                **Pre-Recorded Videos:**<br/>
+                Design Methodologies [Video](https://classtranscribe.illinois.edu/video?id=43939a1e-83eb-4e86-9922-779d58b96195&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet1%20Intro.pdf) <br/> 
+                Principles of Design [Video](https://classtranscribe.illinois.edu/video?id=2cc09042-db19-4bc3-b4c5-798ca4d4382a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet2%20Principles%20NV.pdf) <br/> 
+                Vision Canvas [Video](https://classtranscribe.illinois.edu/video?id=210783b1-9e3c-44b0-8e77-93c1a6080462&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet3%20Canvas.pdf) <br/> 
+                MDA [Video](https://classtranscribe.illinois.edu/video?id=83272dee-ed41-421c-bbf0-c48312e91d2a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet4%20MDA.pdf) <br/> 
+                Narrative [Video](https://classtranscribe.illinois.edu/video?id=ce809e81-941d-4b26-b571-823eb55f9b4d&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet5%20Loops%20Arcs%20World.pdf)"
   title: "Project Overview"
 -  
   date: "Week 8: Mar 7"
-  title: "Art Generation"
+  materials: "The Game Industry [PDF - Coming Soon]() <br/>
+              [UIUC Game Studio](http://games.illinois.edu/)"
+  title: "Guest Lecture: Dan Cermak"
 - 
   date: "Week 8: Mar 9"
   title: "Game AI"
@@ -98,10 +109,11 @@
   title: "**Spring Break**"
 -
   date: "Week 10: Mar 21"
+  materials:
   title: "Game AI"
 -
   date: "Week 10: Mar 23"
-  title: "Game AI"
+  title: "**No Lecture: Exam Day**"
 -
   date: "Week 11: Mar 28"
   title: "Game Physics"
@@ -131,7 +143,7 @@
   title: "UE5 Material Modeling"
 -
   date: "Week 15: Apr 25"
-  title: "GDC Recap"
+  title: "**No Lecture: Exam Day**"
 -
   date: "Week 15: Apr 27"
   title: "Guest Speaker"
