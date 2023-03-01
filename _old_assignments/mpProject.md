@@ -79,7 +79,7 @@ To reiterate, submission requirements for the Discovery milestone:
 **See [here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
 
 
-## Mid Project Meeting (10 points)
+## Mid-Point Meeting (10 points)
 Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
@@ -88,7 +88,7 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 
 **Week of meetings: March 27 - March 31**
 
-To reiterate, submission requirements for the Mid Project milestone: 
+To reiterate, submission requirements for the Mid-Point milestone: 
 * Schedule a midpoint meeting with the course staff to receive initial feedback. 
 * Midpoint peer evaluation form, linked above, required per individual. 
 * Updated project summary (if applicable based on Discovery milestone feedback) 
@@ -98,12 +98,12 @@ To reiterate, submission requirements for the Mid Project milestone:
 
 
 ## Alpha (30 points)
-**Due date: 11:59 PM April 19**
+**Due date: 11:59 PM April 12**
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
 
 To reiterate, submission requirements for the Mid Project milestone: 
-* Schedule an Alpha milestone meeting with the course staff to live demo your progress and receive feedback. 
+* **Schedule an Alpha milestone meeting with the course staff to live demo your progress and receive feedback.** 
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
 * Updated technical design document (if applicable based on Discovery milestone feedback) 
@@ -119,13 +119,13 @@ Each team member must individually fill out the final peer evaluation form. The 
 
 [Here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) is a detailed version of how the project will be graded. This is also linked below near the rubric. 
 
-To reiterate, submission requirements for the Mid Project milestone: 
+To reiterate, submission requirements for the Final Submission milestone: 
 * Video demo of game features
 * Project code through a repository or drive/box link
 * Final peer evaluation form, linked above, required per individual. 
-* Updated project summary (if applicable based on Discovery milestone feedback) 
-* Updated vision canvas (if applicable based on Discovery milestone feedback) 
-* Updated technical design document (if applicable based on Discovery milestone feedback) 
+* Updated project summary (if applicable based on Alpha milestone feedback) 
+* Updated vision canvas (if applicable based on Alpha milestone feedback) 
+* Updated technical design document (if applicable based on Alpha milestone feedback) 
 * Updated collaboration plan, including details on each team member's contribution so far. See template collaboration plan for more specifications. 
 
 
