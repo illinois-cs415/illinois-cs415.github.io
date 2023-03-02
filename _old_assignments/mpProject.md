@@ -90,6 +90,7 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 
 To reiterate, submission requirements for the Mid-Project milestone: 
 * Schedule a Mid-Project meeting with the course staff to receive initial feedback. 
+* Project code through a repository or drive/box link
 * Mid-Point peer evaluation form, linked above, required per individual. 
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
