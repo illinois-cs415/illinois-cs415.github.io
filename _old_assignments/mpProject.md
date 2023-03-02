@@ -76,7 +76,7 @@ To reiterate, submission requirements for the Discovery milestone:
 * Technical design document
 * Collaboration plan
 
-**See [here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
+**See [here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
 
 
 ## Mid-Point Meeting (10 points)
@@ -104,6 +104,7 @@ The Alpha submission focuses on the completeness of your game and the implementa
 
 To reiterate, submission requirements for the Alpha milestone: 
 * **Schedule an Alpha milestone meeting with the course staff to live demo your progress and receive feedback.** 
+* Project code through a repository or drive/box link
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
 * Updated technical design document (if applicable based on Discovery milestone feedback) 
@@ -117,7 +118,7 @@ Your final project submission. A version of your game with at least all the high
 
 Each team member must individually fill out the final peer evaluation form. The form link will be posted [here]() when available, and will be due on May 3 by 11:59 PM CT. 
 
-[Here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) is a detailed version of how the project will be graded. This is also linked below near the rubric. 
+[Here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) is a detailed version of how the project will be graded. This is also linked below near the rubric. 
 
 To reiterate, submission requirements for the Final Submission milestone: 
 * Video demo of game features
@@ -129,4 +130,4 @@ To reiterate, submission requirements for the Final Submission milestone:
 * Updated collaboration plan, including details on each team member's contribution so far. See template collaboration plan for more specifications. 
 
 
-**See [here](https://docs.google.com/document/d/1l412KAOnUIWnQIwvfv_B2R2_UgiqaLT6TofI4kl_Mck/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
+**See [here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
