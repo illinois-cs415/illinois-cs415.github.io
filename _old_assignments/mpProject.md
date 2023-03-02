@@ -17,19 +17,19 @@ rubric:
     description: A short description/summary of your project, a high level vision canvas, a technical design document, and a collaboration plan.
     details: 1 points for all four documents turned in on time and completed; Summary = 1 point; Vision canvas = 3 points; Technical design document = 3 points; Collaboration plan = 2 points. Graded per team. 
   - 
-    name: Midpoint
+    name: Mid-Point
     points: 10
     description: The alpha should be a version of your game with at least the core gameplay completed and playable.
     details: Attendance = 1 point; Code submission = 1 point; Updated documents submission = 1 point; Updated collaboration plan = 1 point; Major game features completion = 5 points; Visual elements = 1 point. Graded per team. 
   - 
-    name: Midpoint peer evaluation form
+    name: Mid-Point peer evaluation form
     points: 2
     description: Graded for completion. 
     details: Graded individually. 
   - 
     name: Alpha
     points: 30
-    description: The alpha should be a version of your game with at least the core gameplay completed and playable.
+    description: The Alpha should be a version of your game with at least the core gameplay completed and playable.
     details: Attendance = 1 point; Code submission = 1 point; Updated documents submission = 1 point; Updated collaboration plan = 1 point; Functioning game = 6 points; High priority features implementation = 10 points; Visual elements = 10 points. Graded per team. 
   -
     name: Final Submission
@@ -89,8 +89,8 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 **Week of meetings: March 27 - March 31**
 
 To reiterate, submission requirements for the Mid-Point milestone: 
-* Schedule a midpoint meeting with the course staff to receive initial feedback. 
-* Midpoint peer evaluation form, linked above, required per individual. 
+* Schedule a Mid-Point meeting with the course staff to receive initial feedback. 
+* Mid-Point peer evaluation form, linked above, required per individual. 
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
 * Updated technical design document (if applicable based on Discovery milestone feedback) 
@@ -102,7 +102,7 @@ To reiterate, submission requirements for the Mid-Point milestone:
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
 
-To reiterate, submission requirements for the Mid Project milestone: 
+To reiterate, submission requirements for the Alpha milestone: 
 * **Schedule an Alpha milestone meeting with the course staff to live demo your progress and receive feedback.** 
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
