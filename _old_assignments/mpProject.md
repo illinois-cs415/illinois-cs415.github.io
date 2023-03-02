@@ -84,7 +84,7 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 
 1. **Attendance.** A majority of group members must attend.
 2. **Feedback.** For the meeting, groups should take into consideration feedback given for their Discovery grade. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design. 
-3. **Peer Evaluation Form.** Each team member must individually fill out the midpoint peer evaluation form. The form link will be posted [here]() when available, and will be due on March 31 by 11:59 PM CT. 
+3. **Peer Evaluation Form.** Each team member must individually fill out the midpoint peer evaluation form. The form link will be posted here when available, and will be due on March 31 by 11:59 PM CT. 
 
 **Week of meetings: March 27 - March 31**
 
