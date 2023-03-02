@@ -17,7 +17,7 @@ rubric:
     description: A short description/summary of your project, a high level vision canvas, a technical design document, and a collaboration plan.
     details: 1 points for all four documents turned in on time and completed; Summary = 1 point; Vision canvas = 3 points; Technical design document = 3 points; Collaboration plan = 2 points. Graded per team. 
   - 
-    name: Mid-Point
+    name: Mid-Project Meeting
     points: 10
     description: The alpha should be a version of your game with at least the core gameplay completed and playable.
     details: Attendance = 1 point; Code submission = 1 point; Updated documents submission = 1 point; Updated collaboration plan = 1 point; Major game features completion = 5 points; Visual elements = 1 point. Graded per team. 
@@ -79,7 +79,7 @@ To reiterate, submission requirements for the Discovery milestone:
 **See [here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
 
 
-## Mid-Point Meeting (10 points)
+## Mid-Project Meeting (10 points)
 Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
@@ -88,8 +88,8 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 
 **Week of meetings: March 27 - March 31**
 
-To reiterate, submission requirements for the Mid-Point milestone: 
-* Schedule a Mid-Point meeting with the course staff to receive initial feedback. 
+To reiterate, submission requirements for the Mid-Project milestone: 
+* Schedule a Mid-Project meeting with the course staff to receive initial feedback. 
 * Mid-Point peer evaluation form, linked above, required per individual. 
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
