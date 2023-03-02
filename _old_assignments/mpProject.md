@@ -118,7 +118,7 @@ Your final project submission. A version of your game with at least all the high
 
 Each team member must individually fill out the final peer evaluation form. The form link will be posted here when available, and will be due on May 3 by 11:59 PM CT. 
 
-[Here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) is a detailed version of how the project will be graded. This is also linked below near the rubric. 
+Make sure to look over the detailed rubric, which has been linked on this page, before turning in your final submission. 
 
 To reiterate, submission requirements for the Final Submission milestone: 
 * Video demo of game features
