@@ -85,7 +85,7 @@
   date: "Week 7: Mar 2"
   materials: "**Zoom Only - No In-Person** <br/>
                  [Lecture Video](https://classtranscribe.illinois.edu/video?id=3b69d7f8-efe9-438e-895b-8b6ec751971c&from=sharedlink)<br/>
-                 Design: Dragon Age: Dreadwolf[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Design-DragonAgeDreadwolf.pdf)<br/><br/>
+                 Design: Dragon Age: Dreadwolf [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Design-DragonAgeDreadwolf.pdf)<br/><br/>
                 **Pre-Recorded Videos:**<br/>
                 Design Methodologies [Video](https://classtranscribe.illinois.edu/video?id=43939a1e-83eb-4e86-9922-779d58b96195&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet1%20Intro.pdf) <br/> 
                 Principles of Design [Video](https://classtranscribe.illinois.edu/video?id=2cc09042-db19-4bc3-b4c5-798ca4d4382a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet2%20Principles%20NV.pdf) <br/> 
@@ -96,13 +96,13 @@
 -  
   date: "Week 8: Mar 7"
   materials: "**Zoom Only - No In-Person** <br/>
-               [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
-              The Game Industry [PDF - Coming Soon]() <br/>
               [UIUC Game Studio](http://games.illinois.edu/)"
   title: "Guest Lecture: Dan Cermak"
 - 
   date: "Week 8: Mar 9"
-  materials: "[Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)"
+  materials: "[Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09) <br/>
+              Pathfinding [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-3.pdf)<br/>
+              A* in Games [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-4.pdf)"
   title: "Game AI"
 - 
   date: "Week 9: Mar 13"
@@ -114,7 +114,9 @@
   date: "Week 10: Mar 21"
   materials: "**No Lecture** <br/>
              **Pre-Recorded Videos:**<br/>
-             UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf) <br/>"
+             UE5 Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf) <br/>
+             Game AI History [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-1.pdf) <br/>
+             Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)"
   title: "Game AI"
 -
   date: "Week 10: Mar 23"
