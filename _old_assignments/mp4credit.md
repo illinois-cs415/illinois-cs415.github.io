@@ -71,6 +71,7 @@ We will contact you within a few days of the request to let you know the result 
 ![UE5](/img/corona1.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 
 3. Work with a Civil Engineering research group on developing a VR structural walkthrough of the CIF and other campus buildings.
+![image](https://user-images.githubusercontent.com/7948331/224509027-355862ff-5f9f-4d34-bc79-54777b0c79c2.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}
 
 
 ## Proposing a Non-VR Project ##
