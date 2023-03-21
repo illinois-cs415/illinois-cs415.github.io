@@ -80,6 +80,7 @@ To reiterate, submission requirements for the Discovery milestone:
 
 
 ## Mid-Project Meeting (10 points)
+**Due date: 11:59 PM March 31**
 Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
