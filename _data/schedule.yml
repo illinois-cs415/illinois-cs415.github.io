@@ -142,14 +142,22 @@
   title: "Game Physics"
 -
   date: "Week 12: Apr 4"
-  materials: "[Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09) <br/>"
+  materials: "[Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09) <br/>
+              Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
+              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)
+              "
   title: "Game Physics"
 - 
   date: "Week 12: Apr 6"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+             
+             "
   title: "Animation"
 -  
   date: "Week 13: Apr 11"
-  materials: "**HW3 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105/assessment/2338595)<br/>"
+  materials: "**HW3 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105/assessment/2338595)<br/>
+               Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf) <br/>"
   title: "Animation"
 -
   date: "Week 13: Apr 13"
