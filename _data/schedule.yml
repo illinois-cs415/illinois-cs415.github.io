@@ -142,7 +142,7 @@
   title: "Game Physics"
 -
   date: "Week 12: Apr 4"
-  materials: "[Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09) <br/>
+  materials: " [Dynamics](https://classtranscribe.illinois.edu/video?id=a3125628-6959-447b-bc9d-6bbfd026bc92&begin=229&from=sharedlink) <br/>
               Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
               Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)
               "
@@ -156,25 +156,36 @@
   title: "Animation"
 -  
   date: "Week 13: Apr 11"
-  materials: "**HW3 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105/assessment/2338595)<br/>
+  materials: "[Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09) <br/>
+               **HW3 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105/assessment/2338595)<br/>
                Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf) <br/>"
   title: "Animation"
 -
   date: "Week 13: Apr 13"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+             
+             "
   title: "Animation"
 -
   date: "Week 14: Apr 18"
   materials: ""
-  title: "UE5 Material Modeling"
+  title: "Rendering: UE5 Lumen"
 -
   date: "Week 14: Apr 20"
-  title: "UE5 Material Modeling"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>       
+             "
+  title: "Rendering: UE5 Lumen"
 -
   date: "Week 15: Apr 25"
   title: "**No Lecture: Exam Day**"
 -
   date: "Week 15: Apr 27"
-  title: "Guest Speaker"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+             "
+  title: "Generartive AI Art"
 -
   date: "Week 16: May 2"
   title: "Guest Speaker"
