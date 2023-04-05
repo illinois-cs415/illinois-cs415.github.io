@@ -137,12 +137,12 @@
              **Pre-Recorded Videos:**<br/>
              Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>
              Guest Lectures by Luther Tychonievich<br/>
-             Destruction Physics [Video](https://classtranscribe.illinois.edu/video?id=03c163f0-eeb7-486b-956e-878657784dc2&from=sharedlink)<br/>
-             Ragdoll Physics [Video](https://classtranscribe.illinois.edu/video?id=d359d929-d125-4f3f-9f12-31f07b250022&from=sharedlink)"
+             Destruction Physics [Video]()<br/>
+             Ragdoll Physics [Video]()"
   title: "Game Physics"
 -
   date: "Week 12: Apr 4"
-  materials: " [Dynamics](https://classtranscribe.illinois.edu/video?id=a3125628-6959-447b-bc9d-6bbfd026bc92&begin=229&from=sharedlink) <br/>
+  materials: " [Lecture Video](https://classtranscribe.illinois.edu/video?id=a3125628-6959-447b-bc9d-6bbfd026bc92&begin=229&from=sharedlink) <br/>
               Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
               Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)
               "
