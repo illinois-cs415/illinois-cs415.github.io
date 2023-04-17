@@ -177,7 +177,9 @@
   title: "Animation"
 -
   date: "Week 14: Apr 18"
-  materials: " [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>"
+  materials: " [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+               Euler Angles [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-EulerAngles.pdf)<br/>
+               Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf)"
   title: "Animation: Orientation"
 -
   date: "Week 14: Apr 20"
