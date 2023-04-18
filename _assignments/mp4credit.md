@@ -93,5 +93,5 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
  
 **March 28 11:59 PM submit proposal on canvas.**
 
-**April 21 7 11:59 PMP submit project on canvas**
+**April 28 7 11:59 PM submit project on canvas**
 
