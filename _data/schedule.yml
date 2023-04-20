@@ -186,8 +186,10 @@
   materials: "**No Lecture** <br/>
              **Pre-Recorded Videos:**<br/>
              Lumen in UE5: Let there be light! [YouTube](https://www.youtube.com/watch?v=Dc1PPYl2uxA)<br/>
+             Materials in UE5: [YouTube](https://youtu.be/joOIBteSo1w)<br/>
+             Character Physics in UE5:[YouTube](https://youtu.be/FK7FBBdY5fY)
              "
-  title: "Rendering: UE5 Lumen"
+  title: "Rendering: UE5 Lights, Material, Action"
 -
   date: "Week 15: Apr 25"
   title: "Guest Lecture"
