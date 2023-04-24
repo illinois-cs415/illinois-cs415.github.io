@@ -177,7 +177,7 @@
   title: "Animation"
 -
   date: "Week 14: Apr 18"
-  materials: " [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+  materials: "[Video]()<br/>
                Euler Angles [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-EulerAngles.pdf)<br/>
                Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf)"
   title: "Animation: Orientation"
@@ -192,13 +192,21 @@
   title: "Rendering: UE5 Lights, Material, Action"
 -
   date: "Week 15: Apr 25"
-  title: "Guest Lecture"
+  materials: "**Zoom Only - No In-Person** <br/>
+              [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+              GDC/GTC 2022 NVIDIA Talk [Talk Slides](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)"
+  title: "Real-time Ray Tracing"
 -
   date: "Week 15: Apr 27"
-  materials: "**No Lecture** <br/>
+  materials: "
+             <br/><br/>
+             **No Lecture** <br/>
              **Pre-Recorded Videos:**<br/>
-             "
-  title: "Generative AI Art"
+              Ray Tracing Basics [Video](https://classtranscribe.illinois.edu/video?id=4f7bc94a-f92b-4b81-885a-385e4d8f63a1&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf)<br/>
+              How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
+              Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y) <br/>
+              Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)"
+  title: "Ray-Tracing Basics"
 -
   date: "Week 16: May 2"
   title: "**No Lecture: Exam Day**"
