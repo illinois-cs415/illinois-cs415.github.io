@@ -194,7 +194,9 @@
   date: "Week 15: Apr 25"
   materials: "**Zoom Only - No In-Person** <br/>
               [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
-              GDC/GTC 2022 NVIDIA Talk [Talk Slides](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)"
+               Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
+               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
+               "
   title: "Real-time Ray Tracing"
 -
   date: "Week 15: Apr 27"
@@ -202,12 +204,12 @@
              <br/><br/>
              **No Lecture** <br/>
              **Pre-Recorded Videos:**<br/>
-              Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf)<br/>
+              GDC/GTC 2022 NVIDIA REal-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)
               How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
-              Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y) <br/>
-              Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)"
+              Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y)"
   title: "Ray-Tracing Basics"
 -
   date: "Week 16: May 2"
+  materials: "**[Exam Link](https://us.prairielearn.com/pl/course_instance/130105/assessment/2343747)**"
   title: "**No Lecture: Exam Day**"
 -
