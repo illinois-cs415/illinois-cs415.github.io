@@ -118,7 +118,7 @@ To reiterate, submission requirements for the Alpha milestone:
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
 
-Each team member must individually fill out the final peer evaluation form. The form link will be posted here when available, and will be due on May 3 by 11:59 PM CT. 
+Each team member must individually fill out the final peer evaluation form, found [here](https://forms.gle/sHQyvP7NojV9zDXT7). The form will be due on May 3 by 11:59 PM CT. 
 
 Make sure to look over the detailed rubric, which has been linked on this page, before turning in your final submission. 
 
