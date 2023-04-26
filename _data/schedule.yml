@@ -193,7 +193,7 @@
 -
   date: "Week 15: Apr 25"
   materials: "**Zoom Only - No In-Person** <br/>
-              [Live Lecture Link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09)<br/>
+              [Video](https://classtranscribe.illinois.edu/video?id=35a5a990-ee91-4868-a01f-7c6d66cb1898&begin=251&from=sharedlink)<br/>
                Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
                Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
                "
@@ -204,7 +204,7 @@
              <br/><br/>
              **No Lecture** <br/>
              **Pre-Recorded Videos:**<br/>
-              GDC/GTC 2022 NVIDIA REal-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)
+              GDC/GTC 2022 NVIDIA REal-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)<br/>
               How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
               Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y)"
   title: "Ray-Tracing Basics"
