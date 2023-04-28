@@ -201,10 +201,9 @@
 -
   date: "Week 15: Apr 27"
   materials: "
-             <br/><br/>
              **No Lecture** <br/>
              **Pre-Recorded Videos:**<br/>
-              GDC/GTC 2022 NVIDIA REal-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)<br/>
+              GDC/GTC 2022 NVIDIA Real-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)<br/>
               How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
               Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y)"
   title: "Ray-Tracing Basics"
