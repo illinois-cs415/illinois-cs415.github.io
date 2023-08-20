@@ -1,0 +1,214 @@
+- 
+  date: "Week 1: Jan  17"
+  materials: "Course Overview<br/>
+              Game Genres [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)<br/>
+              **[MP 1](https://illinois-cs415.github.io/assignments/mp1.html) Assigned**"
+  title: "Course Introduction"
+- 
+  date: "Week 1: Jan 19"
+  materials: "**Zoom Only - No In-Person** <br/>
+               [Recorded Video](https://classtranscribe.illinois.edu/video?id=1ee59c14-ed9c-41fe-a3d0-68ff878fa329&from=sharedlink)<br/>
+               UE4 and Game Engines [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE4.pdf)"
+  title: "Game Engines and UE5"
+- 
+  date: "Week 2: Jan 24"
+  materials: "[Recorded Video](https://classtranscribe.illinois.edu/video?id=c9976141-04a9-41cc-9954-452a62d1b2ea&from=sharedlink)<br/>
+              Art: Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
+              Art: Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf)"
+  title: "Basic Geometric Modeling"
+-
+  date: "Week 2: Jan 26"
+  materials: " [Recorded Video](https://classtranscribe.illinois.edu/video?id=b3b1366b-9203-4ece-8238-faa5a1c2cff7&from=sharedlink)<br/> 
+                Art: Bezier Curves [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier1.pdf)<br/>
+                UE5 Features [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)"
+  title: "Basic Geometric Modeling"
+-
+  date: "Week 3: Jan 31"
+  materials: "**[MP 1](https://illinois-cs415.github.io/assignments/mp1.html) Due** <br/>
+              [Recorded Video](https://classtranscribe.illinois.edu/video?id=1637e948-b8eb-4ac2-849f-3f2a7bc1bc03&begin=158&from=sharedlink)<br/>
+              Art: Bezier Patches [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier2.pdf)<br/>
+              Art: Mazes! [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MazeGeneration.pdf)" 
+  title: "Basic Geometric Modeling"
+-
+  date: "Week 3: Feb 2"
+  materials: "**Zoom Only - No In-Person** <br/>
+              **[MP 2 Assigned](https://illinois-cs415.github.io/assignments/mp2.html)**<br/>
+               [Recorded Video](https://classtranscribe.illinois.edu/video?id=7e47ee3b-7685-45f3-a876-66b7071a9822&begin=561&from=sharedlink)"
+  title: "MP2 Tech Demo"
+-  
+  date: "Week 4: Feb 7"
+  materials: "[Recorded Video](https://classtranscribe.illinois.edu/video?id=46919e22-62bf-442a-8367-3bfd05c19ae1&begin=421&from=sharedlink)<br/>
+              Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
+              Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)"
+  title: "Game Design"
+-  
+  date: "Week 4: Feb 9"
+  materials: "  [Recorded Video](https://classtranscribe.illinois.edu/video?id=a0fb0e17-4f45-4460-b35d-889d1393a3f4&begin=192&from=sharedlink)<br/>
+                Level-of-Detail [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD.pdf)<br/>
+                LOD Worksheet [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/Copy%20of%20CS%20415_%20Understanding%20Mesh%20LOD%20and%20UE5%20Nanite-Solution.pdf)   
+                " 
+  title: "Rendering: LOD"
+-
+  date: "Week 5: Feb 14"
+  materials: "[Recorded Video](https://classtranscribe.illinois.edu/video?id=437d2806-9840-4ce6-9f41-5c2441f39df7&begin=263&from=sharedlink)<br/>
+              Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf) <br/>
+              **HW1 Assigned** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105)<br/>
+              HW1 Hints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/HW1Hints.pdf)"
+  title: "Rendering: Projection"
+-
+  date: "Week 5: Feb 16"
+  materials: "**Zoom Only - No In-Person** <br/>
+               Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf) <br/>
+               [Recorded Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&begin=128&from=sharedlink)"
+  title: "Rendering: Rasterization"
+-
+  date: "Week 6: Feb 21"
+  materials: "[Lecture Video](https://classtranscribe.illinois.edu/video?id=e36061ad-7deb-46dd-ba87-cb4ec0c2b571&from=sharedlink)<br/>
+              Basic Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
+              Game Design: Stardew Valley [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-StardewValley.pdf)"
+  title: "Rendering: Shading"
+- 
+  date: "Week 6: Feb 23"
+  materials: " [Lecture Video](https://classtranscribe.illinois.edu/video?id=1417edcf-88c2-4042-a34a-cbf60d88583d&begin=476&from=sharedlink)<br/>
+                Shading Worksheet [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS%20415-Worksheet-Phong.pdf) <br/> 
+                Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-DeferredShading.pdf)<br/>
+                UE5 Materials [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Material.pdf)"
+  title: "Rendering: Shading & Materials"
+- 
+  date: "Week 7: Feb 28"
+  materials: "**HW1 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105)<br/>
+               [Lecture Video](https://classtranscribe.illinois.edu/video?id=889a999d-a0f6-447e-b12d-025f705e7345&begin=336&from=sharedlink)<br/>
+              UE5 Nanite Example [YouTube](https://youtu.be/DKvA7NZRUcg)<br/>
+              UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)"
+  title: "Rendering: UE5 Nanite"  
+-  
+  date: "Week 7: Mar 2"
+  materials: "**Zoom Only - No In-Person** <br/>
+                 [Lecture Video](https://classtranscribe.illinois.edu/video?id=3b69d7f8-efe9-438e-895b-8b6ec751971c&from=sharedlink)<br/>
+                 Design: Dragon Age: Dreadwolf [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Design-DragonAgeDreadwolf.pdf)<br/><br/>
+                **Pre-Recorded Videos:**<br/>
+                Design Methodologies [Video](https://classtranscribe.illinois.edu/video?id=43939a1e-83eb-4e86-9922-779d58b96195&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet1%20Intro.pdf) <br/> 
+                Principles of Design [Video](https://classtranscribe.illinois.edu/video?id=2cc09042-db19-4bc3-b4c5-798ca4d4382a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet2%20Principles%20NV.pdf) <br/> 
+                Vision Canvas [Video](https://classtranscribe.illinois.edu/video?id=210783b1-9e3c-44b0-8e77-93c1a6080462&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet3%20Canvas.pdf) <br/> 
+                MDA [Video](https://classtranscribe.illinois.edu/video?id=83272dee-ed41-421c-bbf0-c48312e91d2a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet4%20MDA.pdf) <br/> 
+                Narrative [Video](https://classtranscribe.illinois.edu/video?id=ce809e81-941d-4b26-b571-823eb55f9b4d&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet5%20Loops%20Arcs%20World.pdf)"
+  title: "Project Overview"
+-  
+  date: "Week 8: Mar 7"
+  materials: "**Zoom Only - No In-Person** <br/>
+              [UIUC Game Studio](http://games.illinois.edu/)"
+  title: "Guest Lecture: Dan Cermak"
+- 
+  date: "Week 8: Mar 9"
+  materials: "Pathfinding [Video](https://classtranscribe.illinois.edu/video?id=1fe9cc72-35da-4c92-beaf-90dabec2d268&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-3.pdf)<br/>
+              A* in Games [Video](https://classtranscribe.illinois.edu/video?id=9464b539-b000-4df0-bc81-398c9935b5ad&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-4.pdf)<br/>
+              HW2 Hints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/HW2Hints.pdf)"
+  title: "Game AI"
+- 
+  date: "Week 9: Mar 13"
+  title: "**Spring Break**"
+-  
+  date: "Week 9: Mar 15"
+  title: "**Spring Break**"
+-
+  date: "Week 10: Mar 21"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+             UE5 Rasterization [Video](https://classtranscribe.illinois.edu/video?id=3cf69b56-d5f7-4ed9-968a-2cccd939eac0&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf) <br/>
+             Game AI History [Video](https://classtranscribe.illinois.edu/video?id=cba3333a-7004-4582-8605-b9cef1b2b740&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-1.pdf) <br/>
+             **4 Credit Lectures**<br/>
+             Intro to VR [Video](https://classtranscribe.illinois.edu/video?id=3f8213d0-487a-4414-99f7-ebafca954453&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-VR-Intro.pdf)<br/>
+             VR in UE - No Video [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-VR-UE5.pdf)"
+  title: "Game AI"
+-
+  date: "Week 10: Mar 23"
+  materials: "**[Exam Link](https://us.prairielearn.com/pl/course_instance/130105/assessment/2335856)**"
+  title: "**No Lecture: Exam Day**"
+-
+  date: "Week 11: Mar 28"
+  materials: "[Video](https://classtranscribe.illinois.edu/video?id=99179615-a9a9-4c87-8f9d-80315c68126b&begin=95&from=sharedlink)<br/>
+            **HW3 Assigned** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105/assessment/2338595)<br/>
+            Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/>
+            Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)"
+  title: "Game AI & Physics"
+-
+  date: "Week 11: Mar 30"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+             Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>
+             Guest Lectures by Luther Tychonievich<br/>
+             Destruction Physics [Video](https://classtranscribe.illinois.edu/video?id=8f16cd7f-e51f-4c86-976f-5962987b949b&from=sharedlink)<br/>
+             Ragdoll Physics [Video](https://classtranscribe.illinois.edu/video?id=35043ccf-b542-4f42-877a-d6aa7bac640a&from=sharedlink)"
+  title: "Game Physics"
+-
+  date: "Week 12: Apr 4"
+  materials: " [Lecture Video](https://classtranscribe.illinois.edu/video?id=a3125628-6959-447b-bc9d-6bbfd026bc92&begin=229&from=sharedlink) <br/>
+              Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
+              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)
+              "
+  title: "Game Physics"
+- 
+  date: "Week 12: Apr 6"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+              Guest Lectures by Luther Tychonievich<br/>
+             Character Animation [Video](https://classtranscribe.illinois.edu/video?id=bf285438-0779-4a81-a2d4-9ece963789f2&from=sharedlink)<br/>
+             Rigid Body Dynamics [Video](https://classtranscribe.illinois.edu/video?id=51171b76-711e-45a8-a5a1-1a9c903bbcd3&from=sharedlink)"  
+  title: "Animation"
+-  
+  date: "Week 13: Apr 11"
+  materials: "[Video](https://classtranscribe.illinois.edu/video?id=f55d708b-8437-47da-b057-9c7354f2991a&begin=112&from=sharedlink) <br/>
+               **HW3 Due** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105/assessment/2338595)<br/>
+               Transformations [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-GeometricTransformations.pdf) <br/>
+               Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)"
+  title: "Animation"
+-
+  date: "Week 13: Apr 13"
+  materials: "**No Lecture** <br/>
+             **HW4 Assigned** [PrairieLearn](https://us.prairielearn.com/pl/course_instance/130105/assessment/2341268)
+             **Pre-Recorded Videos:**<br/>
+             Guest Lectures by Luther Tychonievich<br/>
+             FABRIK [Video](https://classtranscribe.illinois.edu/video?id=eabce805-1973-4fee-b7df-9697d6eb97db&from=sharedlink)<br/>
+             **4 Credit Lectures**<br/>
+             Stereoscopic Concepts [Video](https://classtranscribe.illinois.edu/video?id=1d089ff7-eae6-4260-8365-0c0e84600be6&from=sharedlink) <br/>
+             Stereoscopic Calibration [Video](https://classtranscribe.illinois.edu/video?id=6b4dd742-281f-4399-9860-93aeedc73ec9&from=sharedlink) <br/>
+             Stereoscopic Implementation [Video](https://classtranscribe.illinois.edu/video?id=e531f14b-d3bf-4780-89dc-e134f826fb7d&from=sharedlink)
+             "
+  title: "Animation"
+-
+  date: "Week 14: Apr 18"
+  materials: "[Video](https://classtranscribe.illinois.edu/video?id=ea41728e-b26c-4350-8c4f-1b55be90bf41&begin=47&from=sharedlink)<br/>
+               Euler Angles [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-EulerAngles.pdf)<br/>
+               Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf)"
+  title: "Animation: Orientation"
+-
+  date: "Week 14: Apr 20"
+  materials: "**No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+             Lumen in UE5: Let there be light! [YouTube](https://www.youtube.com/watch?v=Dc1PPYl2uxA)<br/>
+             Materials in UE5: [YouTube](https://youtu.be/joOIBteSo1w)<br/>
+             Character Physics in UE5:[YouTube](https://youtu.be/FK7FBBdY5fY)
+             "
+  title: "Rendering: UE5 Lights, Material, Action"
+-
+  date: "Week 15: Apr 25"
+  materials: "**Zoom Only - No In-Person** <br/>
+              [Video](https://classtranscribe.illinois.edu/video?id=35a5a990-ee91-4868-a01f-7c6d66cb1898&begin=251&from=sharedlink)<br/>
+               Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
+               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
+               "
+  title: "Real-time Ray Tracing"
+-
+  date: "Week 15: Apr 27"
+  materials: "
+             **No Lecture** <br/>
+             **Pre-Recorded Videos:**<br/>
+              GDC/GTC 2022 NVIDIA Real-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)<br/>
+              How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
+              Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y)"
+  title: "Ray-Tracing Basics"
+-
+  date: "Week 16: May 2"
+  materials: "**[Exam Link](https://us.prairielearn.com/pl/course_instance/130105/assessment/2343747)**"
+  title: "**No Lecture: Exam Day**"
+-

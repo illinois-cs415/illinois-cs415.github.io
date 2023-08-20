@@ -80,11 +80,12 @@ To reiterate, submission requirements for the Discovery milestone:
 
 
 ## Mid-Project Meeting (10 points)
+**Due date: 11:59 PM March 31**
 Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
 2. **Feedback.** For the meeting, groups should take into consideration feedback given for their Discovery grade. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design. 
-3. **Peer Evaluation Form.** Each team member must individually fill out the midpoint peer evaluation form. The form link will be posted here when available, and will be due on March 31 by 11:59 PM CT. 
+3. **Peer Evaluation Form.** Each team member must individually fill out the midpoint peer evaluation form, found [here](https://forms.gle/zEYFDFUBAfB795ZS6). It is due on March 31 by 11:59 PM CT. 
 
 **Week of meetings: March 27 - March 31**
 
@@ -117,7 +118,7 @@ To reiterate, submission requirements for the Alpha milestone:
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
 
-Each team member must individually fill out the final peer evaluation form. The form link will be posted here when available, and will be due on May 3 by 11:59 PM CT. 
+Each team member must individually fill out the final peer evaluation form, found [here](https://forms.gle/sHQyvP7NojV9zDXT7). The form will be due on May 3 by 11:59 PM CT. 
 
 Make sure to look over the detailed rubric, which has been linked on this page, before turning in your final submission. 
 
