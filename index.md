@@ -23,39 +23,24 @@ This is a team and project-based course on video game design and development usi
   You should also attend lecture...but we understand that conflicts come up and will not make attendance mandatory. 
   You definitely should watch all the posted videos in order to successfully complete the Homework and "Take Home" Exams. 
 
-#### [CampusWire](https://campuswire.com/p/GCCF46967) ####
+#### [CampusWire](https://campuswire.com/p/G3A6B49EE) ####
 
 We will use CampusWire for answering questions and administering the course.
-+ Click **[this link](https://campuswire.com/p/GCCF46967)** to join/view the forum.<br/> 
-+ Use the passcode 5697. 
++ Click **[this link](https://campuswire.com/p/G3A6B49EE)** to join/view the forum.<br/> 
++ Use the passcode 0571. 
 + For any question involving a grade you should select the tag `Post to instructors and TAs`.
 
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* TA Shresta Bangaru, bangaru2@illinois.edu 
-* TA Ray Lin
-* CA Aaditya Dhruv
-* CA Ryan Flynn 
-* CA Adnan Noorullah
-* CA Yipeng Yang
-* CA Apoorva Aditya
-* CA Violetta Dabros
-* CA Aria Wu
-* CA Om Jivandas
-* CA Abdul Maaieh
 
 ## Instructional Content ##
 
 The course will be taught using online lectures along with additional reading materials. Everything you need to attend, read or watch will be linked on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Lectures ####
-+ Live lectures and discussions will be held **Tu Th at 11am Central Time in 4029 CIF**.<br/><br/>
-+ Lecture attendance is expected.<br/>
-  We know events like illness and interviews and trips to GDC happen, so attendance will not be required.<br/>
-  **However, if course attendance regularly falls below the 50% threshold we may change this policy to increase the effectiveness of the course.**<br/><br/>
-+ You can choose to attend lecture on zoom rather than in person at this **[Zoom link](https://illinois.zoom.us/j/84908024844?pwd=eE14Z1NCK3NxblpwUExDYUplaVAvUT09).** <br/><br/>**This is a particularly good option if you think you might be ill, or are worried about becoming ill...please don't attend in person in those cases.**<br/><br/>
-+ If you do miss the occasional lecture...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
++ Live discussion on Zoom will be held **Tu at 11am Central Time**.<br/><br/>
++ If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
 
