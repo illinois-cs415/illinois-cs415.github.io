@@ -20,8 +20,8 @@ This is a team and project-based course on video game design and development usi
   3. **Engaging with your project group and contributing significantly to the project.<br/>
        Failure to do so can result in failure in the course.** 
 
-  You should also attend lecture...but we understand that conflicts come up and will not make attendance mandatory. 
-  You definitely should watch all the posted videos in order to successfully complete the Homework and "Take Home" Exams. 
+  You should also attend the live discussions...but we understand that conflicts come up and will not make attendance mandatory. 
+  You definitely should watch all the posted videos in order to successfully complete the Homework and Exams. 
 
 #### [CampusWire](https://campuswire.com/p/G3A6B49EE) ####
 
@@ -40,6 +40,7 @@ The course will be taught using online lectures along with additional reading ma
 
 #### Lectures ####
 + Live discussion on Zoom will be held **Tu at 11am Central Time**.<br/><br/>
+**[ZOOM LINK](https://illinois.zoom.us/j/82924476336?pwd=Y28rUVVLT0V1eEdvZk54a1ZqMHNnQT09)**<br/><br/>
 + If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
@@ -47,16 +48,15 @@ The course will be taught using online lectures along with additional reading ma
 You will need to have access to a computer capable of running Unreal Engine. <br/>
 + You can test your computer by downloading and installing Unreal vesion 5.1.0 from [here](https://www.unrealengine.com/en-US/download) <br/>
 + You should choose the publishing license. 
-+ Test your installation by starting work on [MP 1](https://illinois-cs415.github.io/assignments/mp1.html).
 
 If your computer is not capable of running Unreal, see the [Resources page](https://illinois-cs415.github.io/resources) for ways you can find a computer on campus running Unreal Engine.
 
 ## Assessments ##
 
-Assigned work will include 6 homework assignments, 2 "take home" exams, 2 programming assignments, and a final project.
+Assigned work will include 10 homework assignments, 2 exams, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Homework ####
-There will be 6 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
+There will be 10 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
 + You should budget an hour to complete a homework assignment.
 + Each homework can be retaken as many times as you wish for full credit.
 + The homwork is open web. 
@@ -69,7 +69,7 @@ There will be two exams. They will:
 + Be on PriairieLearn
 + Be very much like the homework...sometimes will even have the same questions!
 + Have a strict time limit of an hour 
-+ Can be taken anywhere, at anytime during a 24 hour period.
++ Can be taken anywhere, at anytime during a 16 hour period.
 + Are open web
 + The questions are randomized...no two exams will be the same.
 + **You should not collaborate or share information about the exams.**<br/>
@@ -88,8 +88,10 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 Students taking the course for 4 credits will complete the following additional work:
 1. Watch a set of pre-recorded lectures on Virtual Reality 
-2. Complete 1 additional homework assignment on PrairieLearn
-3. Complete 1 additional programming assignment focused on Virtual or Augmented Reality  
+2. Complete 2 additional homework assignments on PrairieLearn
+3. Complete 2 additional programming assignment focused on Virtual or Augmented Reality
+
+**The Material on VR will start being available during week 3**
 
 The additional programming assignment is typically a VR game, but you can propose your own project instead. Any proposal will need to be reviewed by the course staff and you will be notfied if it acceptable. Full details of the procedure will be available on the Assignments page when the assignment is released. 
 
@@ -102,17 +104,16 @@ We weight grades as follows:
 | ----- | ------ | ----- |  
 | MP 1 | 10% | 5% | 
 | MP 2 | 15% | 10% |   
-| Homework|15%| 10%|
-| Exams | 20% | 20%|
-| Project | 40% | 40% |
-| 4 Credit Homework| NA | 3%|
-| 4 Credit MP | NA | 12% |
+| Homework|15%| 5%|
+| Exams | 24% | 24%|
+| Project | 36% | 36% |
+| 4 Credit Homework| NA | 5%|
+| 4 Credit MPs | NA | 15% |
 
 The course grade cutoffs can be expected to be:
 
 |Percentage lower bound | Grade |
 | ----- | ------ |
-| 99% | A+ |
 | 93% | A |
 | 90% | A- |
 | 87% | B+ |
@@ -126,7 +127,12 @@ The course grade cutoffs can be expected to be:
 | 60% | D- |
 | 0%  | F  |
 
+### How to get an A+ ###
+To earn an A+, you must earn an A numerically and do something that stands out as exceptional to the course staff. For example, you could do an exceptional job at answering questions on Campuswire or you could do a great job at asking good questions on Campuswire or your submitted game could truly exceptional in terms of creativity or gameplay.
 
+### Extra Credit ###
+
+Each week, starting in week 3, students can earn extra credit by submitting questions and topics to be discussed in the loise discussion. The course staff will post on campuswire asking for questions on specific subjects from a selected group of students. Submitting quality questions will be worth 0.5% of the total course grade. **This means if you are within 0.5% of a particular letter grade...you get the higher letter grade.** Everyone will have the same number of chances to submit questions. **It would be great if you also attended the live discussion in which your question will be addressed.** 
 
 ## Mental Health ##
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
