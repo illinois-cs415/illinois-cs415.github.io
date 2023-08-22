@@ -46,7 +46,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-+ You can test your computer by downloading and installing Unreal vesion 5.1.0 from [here](https://www.unrealengine.com/en-US/download) <br/>
++ You can test your computer by downloading and installing Unreal vesion 5.2.0 from [here](https://www.unrealengine.com/en-US/download) <br/>
 + You should choose the publishing license. 
 
 If your computer is not capable of running Unreal, see the [Resources page](https://illinois-cs415.github.io/resources) for ways you can find a computer on campus running Unreal Engine.
@@ -55,7 +55,7 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 Assigned work will include 10 homework assignments, 2 exams, 2 programming assignments, and a final project.
 
-#### Bi-Weekly Homework ####
+#### Weekly Homework ####
 There will be 10 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
 + You should budget an hour to complete a homework assignment.
 + Each homework can be retaken as many times as you wish for full credit.
