@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ![UE5](/img/Unreal_Engine_5_18.jpg){:class="img-responsive" style="display:block; margin:auto" width="800px"}
-
+# Fall 2023
 ## Overview ##
 
 This is a team and project-based course on video game design and development using Unreal Engine. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central focus of the course will be the design and development of a game by teams of 3 to 5 students. 
@@ -46,7 +46,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-+ You can test your computer by downloading and installing Unreal vesion 5.2.0 from [here](https://www.unrealengine.com/en-US/download) <br/>
++ You can test your computer by downloading and installing Unreal vesion 5.X from [here](https://www.unrealengine.com/en-US/download) <br/>
 + You should choose the publishing license. 
 
 If your computer is not capable of running Unreal, see the [Resources page](https://illinois-cs415.github.io/resources) for ways you can find a computer on campus running Unreal Engine.
@@ -66,7 +66,7 @@ There will be 10 short homework assignments on PrairieLearn. This homework will 
 #### Exams ####
 
 There will be two exams. They will:
-+ Be on PriairieLearn
++ Be on PrairieLearn
 + Be very much like the homework...sometimes will even have the same questions!
 + Have a strict time limit of an hour 
 + Can be taken anywhere, at anytime during a 16 hour period.
