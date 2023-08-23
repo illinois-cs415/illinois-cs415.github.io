@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ![UE5](/img/Unreal_Engine_5_18.jpg){:class="img-responsive" style="display:block; margin:auto" width="800px"}
-# Fall 2023
+## Fall 2023
 ## Overview ##
 
 This is a team and project-based course on video game design and development using Unreal Engine. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central focus of the course will be the design and development of a game by teams of 3 to 5 students. 
