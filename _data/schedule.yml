@@ -10,9 +10,13 @@
   title: "Intro to Unreal Engine"
 - 
   date: "Week 2: August 29"
-  materials: ""
+  materials: "Art: Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
+              Art: Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets.pdf) <br/>
+              UE5 Features [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)"
   title: "Art Assets"
 - 
   date: "Week 2: August 31"
-  materials: ""
+  materials: "Art: Bezier Curves [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier1.pdf)<br/>
+              Art: Bezier Patches [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier2.pdf)<br/>
+              Art: Mazes! [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MazeGeneration.pdf)"
   title: "Geometric Modeling"
