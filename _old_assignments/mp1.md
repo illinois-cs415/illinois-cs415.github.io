@@ -2,7 +2,7 @@
 layout: assignment
 title: "Your First Game: An Infinite Matrix"
 index: 1
-due: "Jan 31, 2023 @ 11:59 PM"
+due: "Sep 13, 2023 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
@@ -43,7 +43,7 @@ rubric:
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix.PNG){:width="800px"}
 
 ## Specification
-For your first programming assignment, in honor of Keanu Reeves turning 58 years old and the recent release of The Matrix Resurrections, you will implement a simple Matrix-themed game.  The goal here isn't to build a AAA game...it's probably not going to look amazing and that's fine. The goal is to learn to build an Unreal project from nothing and make an actual working game that expresses some creativity. And in any case, your game will likely be more entertaining than the Matrix sequel movies.
+For your first programming assignment, in honor of Keanu Reeves turning 59 years old on September 2nd, you will implement a simple Matrix-themed game.  The goal here isn't to build a AAA game...it's probably not going to look amazing and that's fine. The goal is to learn to build an Unreal project from nothing and make an actual working game that expresses some creativity. And in any case, your game will likely be more entertaining than the Matrix sequel movies.
 
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix-4-5.png){:width="800px"}
 
@@ -112,7 +112,7 @@ Complete this [tutorial on making a simple game by Kodeco](https://www.kodeco.co
 
 ## Advice
 
-**Start working now...try to complete the tutorial in a couple of days and then work on adding a new mod every two days.** Do not be afraid to ask for help...on [CampusWire](https://campuswire.com/c/GA821B381/feed) or in [office hours](https://illinois-cs415.github.io/officehours.html). You can help out other students - answering questions on how to do things on CampusWire is very much encouraged. Learning how to implement a mechanic online or from someone on CampusWire is not plagiarism.
+**Start working now...try to complete the tutorial in a couple of days and then work on adding a new mod every two days.** Do not be afraid to ask for help...on [CampusWire](https://campuswire.com/p/G3A6B49EE) or in [office hours](https://illinois-cs415.github.io/officehours.html). You can help out other students - answering questions on how to do things on CampusWire is very much encouraged. Learning how to implement a mechanic online or from someone on CampusWire is not plagiarism.
 
 **Also, do not be afraid to change the initial game defaults in order to make the game more playable.** You can have the initial speed be slower, have the tunnels be longer or bigger...change things so that it is a game you think is a reasonably good experience. You will not be penalized for any intentional modifications that are meant to make the game more fun. If you would like to make a modification that explicitly and intentionally contradicts the spec, feel free to ask on CampusWire or explain in your submission.
 
