@@ -56,7 +56,7 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 Assigned work will include 10 homework assignments, 2 exams, 2 programming assignments, and a final project.
 
 #### Weekly Homework ####
-There will be 10 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
+There will be 8 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
 + You should budget an hour to complete a homework assignment.
 + Each homework can be retaken as many times as you wish for full credit.
 + The homwork is open web. 
