@@ -30,11 +30,18 @@
   title: "Geometric Modeling"
 -
   date: "Week 3: Sep 5"
-  materials: "Art: Mazes! [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MazeGeneration.pdf)<br/>
-              Rendering: LOD <br/>"
+  materials: "
+              UE5 Nanite Example [YouTube](https://youtu.be/DKvA7NZRUcg)<br/>
+              Rendering: Introduction [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rendering.pdf) <br/>
+              Rendering: Perpective Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf)
+              Rendering: Rendering Pipeline [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-RenderingPipeline.pdf) <br/><br/>
+               **Optional Reading:**<br/>
+              Fundamentals of Computer Graphics Ch 8<br/>
+              Real-Time Rendering Chapter 2<br/>"
   title: "Geometric Modeling"
 - 
   date: "Week 3: Sep 7"
   materials: "Art: FBX Files<br/>
-              Art: Universal Scene Description<br/>"
-  title: "Geometric Modeling"
+              Art: Universal Scene Description<br/>
+              Art: Mazes! [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MazeGeneration.pdf)"
+  title: "Art Assets"
