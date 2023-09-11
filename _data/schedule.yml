@@ -52,3 +52,10 @@
   materials: "Introduction [Video](https://classtranscribe.illinois.edu/video?id=a6ce78c6-66f4-4142-b833-5a5cd70d8e18&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-01-Introduction.pdf)<br/>
               HMDs [Video](https://classtranscribe.illinois.edu/video?id=408d2cf8-0132-4b70-8d07-d5b18d1471fe&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-02-HMDs.pdf)"
   title: "VR/XR"
+- 
+  date: "Week 4: Sep 12"
+  materials: " Art: FBX Files<br/>
+               Rendering: LOD<br/>
+               Rendering: CLOD<br/>
+             "
+  title: "Rendering"
