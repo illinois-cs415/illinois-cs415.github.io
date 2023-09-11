@@ -33,6 +33,25 @@ We will use CampusWire for answering questions and administering the course.
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
+* Professor Luciano Soares (teaching the 4 Credit Material)
+* Janelle Domantay TA
+* Jason Situ TA
+* Qiyuan Li	TA
+* Tyler Lee TA
+* Zijian Huang TA
+* Alex Stettner CA
+* Abdul Maaieh CA
+* Chen Yang CA
+* Jeff Liu CA
+* Ruchika Biswas CA
+* Sambhav Gupta  CA
+* Timor Averbuch CA
+* Violetta Dabros CA
+* Jingyang Ye CA
+* Shalin Mehta CA
+* Anish Jampana CA
+* Elio Lin CA
+* Nan Kang CA
 
 ## Instructional Content ##
 
