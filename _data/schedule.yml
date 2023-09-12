@@ -54,8 +54,8 @@
   title: "VR/XR"
 - 
   date: "Week 4: Sep 12"
-  materials: " Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides415-SceneGraphs and FBX.pdf)<br/>
-               Rendering: LOD<br/>
+  materials: " Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
+               Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
                Rendering: CLOD<br/>
              "
   title: "Rendering"
