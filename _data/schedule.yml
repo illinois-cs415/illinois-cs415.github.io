@@ -59,3 +59,9 @@
                Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>
                Lecture [Video](https://classtranscribe.illinois.edu/video?id=7b8d0c59-5b68-47c4-b5cd-a5695df81a08&from=sharedlink)"
   title: "Rendering"
+-
+  date: "Week 4: Sep 14"
+  materials: "Rendering: LOD, the Math [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LODQEM.pdf)<br/>
+              UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf) <br/>
+              "
+  title: "Rendering" 
