@@ -47,7 +47,9 @@ rubric:
 # MP 2: Level Design
 Your second MP is all about level design and all the important factors that go in to it. In this MP we will touch on player abilities, level layouts, and enemy AI.
 
-**Please pay close attention to the guidelines about recording the video for submission: [video guidelines doc](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).If you do not follow the guidelines and your submission is hard to grade you may lose points.**
+**Please pay close attention to the guidelines about recording the video for submission:<br/>
+ [Video Guidelines Link](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing)<br/>
+ If you do not follow the guidelines and your submission is hard to grade you may lose points.**
 
 To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/)
