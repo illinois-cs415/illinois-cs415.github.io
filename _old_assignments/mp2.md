@@ -2,7 +2,7 @@
 layout: assignment
 title: "Level Design"
 index: 10
-due: "Feb 24, 2023 @ 11:59 PM"
+due: "Oct 6, 2023 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
@@ -33,7 +33,7 @@ rubric:
 -
     name: Collectibles
     points: 10
-    description: Place collectible objects around the level and display them on the UI
+    description: Place collectible objects around the level
 -
     name: Design Document
     points: 15
@@ -47,7 +47,7 @@ rubric:
 # MP 2: Level Design
 Your second MP is all about level design and all the important factors that go in to it. In this MP we will touch on player abilities, level layouts, and enemy AI.
 
-**Please pay close attention to the guidelines about recording the video for submission. If you do not follow the guidelines and your submission is hard to grade you may lose points.**
+**Please pay close attention to the guidelines about recording the video for submission: [video guidelines doc](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).If you do not follow the guidelines and your submission is hard to grade you may lose points.**
 
 To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/)
@@ -94,7 +94,7 @@ Here is a tutorial to help get you started on the Pursuer enemy type:
 #### **The Mortar**
 The Mortar should:
 -	Be an unmoving enemy placed on the ground
--	Randomly launch projectiles above and around it in an arc
+-	Randomly launch projectiles above and around it in an arc **affected by gravity**
 -	The projectiles should cause a small explosion on collision with other objects
 -	The explosions should knock back and reduce the players health on collision **the explosion does not need to have any other effect...e.g. it does not effect the terrain.**
 
@@ -109,14 +109,14 @@ The last step of the MP is to put it all together and make a platforming level.
 Your level should:
 - **Take around 5 minutes to play completely**
 - Present some degree of challenge
-- Return the player to their start location when their health is reduced to zero or if they fall off the map
+- Return the player to their start location when their health is reduced to zero or if they fall off the map and reset score to 0
 - Display a level complete screen upon reaching the end of the level
 - Utilize both the created enemies in a way that contributes to the design
     - The design of the level should specifically take into account your enemy design.
 - Have health pick ups scattered around the level
-- Have floating collectibles scattered around the level to guide the player and encourage them to explore
+- Have floating collectables scattered around the level to guide the player and encourage them to explore
     - You can use any asset you want for these, and there are several included in the given assets
-    - These objects should be destroyed on collection, and the number collected should be displayed some where on the UI
+    - These objects should be destroyed on collection and should effect player score
 
 As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project. **The level layout, enemies, and collectables portions of the rubric are all a part of the level design. Your level should be somewhat challenging, the player should have to interact with enemies, and there should be some exploring required to find the collectables."** If any of these things aren't the case, you'll lose significant points from those portions of the rubric. Make sure that your level isn't just the tutorial level!
 
