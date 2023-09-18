@@ -47,6 +47,8 @@ rubric:
 # MP 2: Level Design
 Your second MP is all about level design and all the important factors that go in to it. In this MP we will touch on player abilities, level layouts, and enemy AI.
 
+**Please pay close attention to the guidelines about recording the video for submission. If you do not follow the guidelines and your submission is hard to grade you may lose points.**
+
 To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/)
 <br/>
@@ -94,7 +96,7 @@ The Mortar should:
 -	Be an unmoving enemy placed on the ground
 -	Randomly launch projectiles above and around it in an arc
 -	The projectiles should cause a small explosion on collision with other objects
--	The explosions should knock back and reduce the players health on collision
+-	The explosions should knock back and reduce the players health on collision **the explosion does not need to have any other effect...e.g. it does not effect the terrain.**
 
 #### **Your Own Enemy**
 Create an enemy of your own design. It should have similar complexity to the other two and also be distinct and take on a different role. If you'd like your enemy to have different , please talk about why in your design document.
