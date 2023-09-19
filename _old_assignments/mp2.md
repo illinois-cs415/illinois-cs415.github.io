@@ -67,7 +67,7 @@ The character controller you will be using is under `BP_LearningKit_PlayerCharac
 The first thing you need to do is update your character as follows.
 
 ### **Add a Health System**
-This should be very similar to the system used in the first MP. It should have a bar displayed somewhere on the screen, and a game over screen should be displayed if it reaches 0. You should also make an item that can be placed in the world and picked up to restore health. This item should be destroyed on collection. There are several given assets that could work well for this but you can use whatever you want.
+This should be very similar to the system used in the first MP. It should have a bar displayed somewhere on the screen, and a game over screen should be displayed if it reaches 0. You should also make an item that can be placed in the level editor and picked up by the player during the game to restore health. This item should be destroyed on collection. There are several given assets that could work well for this but you can use whatever you want.
 
 ## Part 2: Make Some Enemies
 We need obstacles to fill our level. So lets make some enemies. You will be making 3 distinctly different enemy types.
@@ -85,7 +85,7 @@ You will implement all three types of enemies
 
 #### **The Pursuer**
 The Pursuer should:
--	Have a looping patrol path that it follows
+-	Have a patrol path of random locations around the staring point that it follows
 -	Run at the player when they get within a moderate distance of each other, and they have line of sight with each other
 -	Within reason, return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
 
@@ -101,7 +101,7 @@ The Mortar should:
 -	The explosions should knock back and reduce the players health on collision **the explosion does not need to have any other effect...e.g. it does not effect the terrain.**
 
 #### **Your Own Enemy**
-Create an enemy of your own design. It should have similar complexity to the other two and also be distinct and take on a different role. If you'd like your enemy to have different , please talk about why in your design document.
+Create an enemy of your own design. It should have similar complexity to the other two and also be distinct and take on a different role. Please discuss you design in your design document.
 
 You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
 
