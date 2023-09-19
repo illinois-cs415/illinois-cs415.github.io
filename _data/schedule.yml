@@ -69,10 +69,11 @@
   title: "Rendering" 
 -
   date: "Week 5: Sep 19"
-  materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
-              Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
-              Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)"
-  title: "Rendering & Game Design"
+  materials: "Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
+              Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)<br/>
+              Lecture [Video]()<br/<br/>
+               **MP2 Due Oct 6** [Link](https://illinois-cs415.github.io/assignments/mp2.html)"
+  title: "Game Design"
 -
   date: "Week 5: Sep 21"
   materials: " Game AI History [Video](https://classtranscribe.illinois.edu/video?id=cba3333a-7004-4582-8605-b9cef1b2b740&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-1.pdf) <br/>
@@ -82,7 +83,7 @@
   title: "Game AI"
 - 
   date: "Week 6: Sep 26"
-  materials: ""
+  materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>"
   title: "Rendering"
 - 
   date: "Week 6: Sep 29"
