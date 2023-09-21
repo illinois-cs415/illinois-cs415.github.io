@@ -79,13 +79,20 @@
   materials: " Game AI History [Video](https://classtranscribe.illinois.edu/video?id=cba3333a-7004-4582-8605-b9cef1b2b740&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-1.pdf) <br/>
    Pathfinding [Video](https://classtranscribe.illinois.edu/video?id=1fe9cc72-35da-4c92-beaf-90dabec2d268&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-3.pdf)
    <br/>A* in Games [Video](https://classtranscribe.illinois.edu/video?id=9464b539-b000-4df0-bc81-398c9935b5ad&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-4.pdf) <br/>
-   <br/><br/>
+   <br/>
+   
     **Optional Reading**<br/>
     AI for Games 3rd Edition by Ian Millington Sections 4.1 to 4.3<br/>
     [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955033014505899)
-   "
+     PrairieLearn HW 2 [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359389)"
   title: "Game AI"
 - 
+  date: "Week5: 4 Credit Section"
+  materials: "Tracking [Video](https://mediaspace.illinois.edu/media/t/1_ea4z48rl) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-03-Tracking.pdf)<br/>
+              Development [Video](https://mediaspace.illinois.edu/media/t/1_qhlbq0aa) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-04-Development.pdf)<br/><br/>
+              PrairieLearn 4 Cr HW 1 [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359385)"
+  title: "VR/XR"
+-
   date: "Week 6: Sep 26"
   materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>"
   title: "Rendering"
