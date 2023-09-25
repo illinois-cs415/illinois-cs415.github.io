@@ -93,7 +93,9 @@ There will be two exams. They will:
 + The questions are randomized...no two exams will be the same.
 + **You should not collaborate or share information about the exams.**<br/>
   **The sanction for doing so will be failure in the course**  
-  
+
+ **The exam dates will be Oct 13 and Dec 6**
+ 
  The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
  There's really no need to cheat.
 
@@ -151,7 +153,7 @@ To earn an A+, you must earn an A numerically and do something that stands out a
 
 ### Extra Credit ###
 
-Each week, starting in week 3, students can earn extra credit by submitting questions and topics to be discussed in the loise discussion. The course staff will post on campuswire asking for questions on specific subjects from a selected group of students. Submitting quality questions will be worth 0.5% of the total course grade. **This means if you are within 0.5% of a particular letter grade...you get the higher letter grade.** Everyone will have the same number of chances to submit questions. **It would be great if you also attended the live discussion in which your question will be addressed.** 
+We will have 2 guest lectures this semester, attendance on zoom during these lectures is worth 0.25% of the total course grade. If you have a time conflict which can be verified (e.g. you have another class at the same time), you will be given an alternative option for obtaining the extra credit.  
 
 ## Mental Health ##
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
