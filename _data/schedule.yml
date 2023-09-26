@@ -92,16 +92,17 @@
   date: "Week5: 4 Credit Section"
   materials: "Tracking [Video](https://mediaspace.illinois.edu/media/t/1_ea4z48rl) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-03-Tracking.pdf)<br/>
               Development [Video](https://mediaspace.illinois.edu/media/t/1_qhlbq0aa) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-04-Development.pdf)<br/><br/>
-              PrairieLearn 4 Cr HW 1 [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359385)"
+              PrairieLearn 4 Cr HW 1 [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2368305)"
   title: "VR/XR"
 -
   date: "Week 6: Sep 26"
   materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
-              Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)"
+              "
   title: "Rendering"
 - 
   date: "Week 6: Sep 29"
-  materials: ""
+  materials: "Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
+              Deferred Shading [PDF]()"
   title: "Rendering"
 - 
   date: "Week 7: Oct 3"
@@ -119,6 +120,10 @@
   date: "Week 8: Oct 12"
   materials: ""
   title: "Rendering"
+-
+  date: "Week 8: Oct 13"
+  materials: "**[Exam Link]()**"
+  title: "**EXAM 1**"
 - 
   date: "Week 9: Oct 17"
   materials: ""
@@ -179,4 +184,8 @@
   date: "Week 16: Dec 5"
   materials: ""
   title: "Game Industry: Guest Lecture"
+-
+  date: "Week 16: Dec 6"
+  materials: "**[Exam Link]()**"
+  title: "**EXAM 2**"
 - 
