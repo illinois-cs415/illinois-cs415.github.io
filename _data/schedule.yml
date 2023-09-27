@@ -101,8 +101,8 @@
   title: "Rendering"
 - 
   date: "Week 6: Sep 29"
-  materials: "Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
-              Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf)"
+  materials: "Rasterization [PDF]()<br/>
+              Nanite Rasterization [PDF]()"
   title: "Rendering"
 - 
   date: "Week 7: Oct 3"
@@ -110,8 +110,9 @@
   title: "Guest Lecture: Game Industry"
 - 
   date: "Week 7: Oct 5"
-  materials: ""
-  title: "Game Design"
+  materials: "Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf)<br/>
+              Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf)"
+  title: "Rendering"
 - 
   date: "Week 8: Oct 10"
   materials: ""
@@ -119,7 +120,7 @@
 - 
   date: "Week 8: Oct 12"
   materials: ""
-  title: "Rendering"
+  title: "Game Design"
 -
   date: "Week 8: Oct 13"
   materials: "**[Exam Link]()**"
