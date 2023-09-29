@@ -102,7 +102,10 @@
 - 
   date: "Week 6: Sep 29"
   materials: "Rasterization [2022 Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
-              Nanite Rasterization [Video](https://classtranscribe.illinois.edu/video?id=ad3810ad-af3b-4e57-9f4c-3582a1901a00&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)"
+              Nanite Rasterization [Video](https://classtranscribe.illinois.edu/video?id=ad3810ad-af3b-4e57-9f4c-3582a1901a00&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
+              <br/> <br/>
+               **Optional Reading**<br/>
+               Real-Time Rendering Chapter 23 [PDF](https://drive.google.com/file/d/1rqzUDmTSvfhJFhAfYvcwifew7ApHp5ve/view?usp=sharing)"
   title: "Rendering"
 - 
   date: "Week 7: Oct 3"
