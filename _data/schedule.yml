@@ -114,11 +114,15 @@
 - 
   date: "Week 7: Oct 5"
   materials: "Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf) [Video](https://classtranscribe.illinois.edu/video?id=ff33b10f-c7f4-4df0-838f-183e77ee7b81&from=sharedlink)<br/>
-              Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf)"
+              <br/><br/>
+              **Optional Reading:**<br/>
+               Wikipedia Phong Reflection Model [Link](https://en.wikipedia.org/wiki/Phong_reflection_model)<br/>
+               Fundamentals of Computer Graphics Ch 5 [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955292160105899)<br/>
+               Real-Time Rendering Sections 5.1 - 5.3 [PDF](https://drive.google.com/file/d/1XAMsHEDDj-HqPqfvXQ5GnlDKkWg86kNo/view?usp=sharing)"
   title: "Rendering"
 - 
   date: "Week 8: Oct 10"
-  materials: ""
+  materials: "Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf)"
   title: "Rendering"
 - 
   date: "Week 8: Oct 12"
