@@ -2,7 +2,7 @@
 layout: assignment
 title: "Course Project: The Final Boss"
 index: 10
-due: "May 3, 2023 @ 11:59 PM"
+due: "Dec 6, 2023 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
@@ -56,7 +56,7 @@ You can find all document templates needed for the project at the [Course Google
 The final project is worth a total of **100 points**. Please see the [detailed rubric](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a better understanding of which portion of these points is graded *per group* and which portion is an *individual score*. The final submission section is subject to course staff discretion based on peer evaluation results. 
 
 ## Discovery (10 of points)
-**Due date: 11:59 PM March 21**
+**Due date: 11:59 PM Oct 13**
 
 This is the first project milestone. You will submit completed versions of the project documents in the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing).
 
@@ -80,14 +80,14 @@ To reiterate, submission requirements for the Discovery milestone:
 
 
 ## Mid-Project Meeting (10 points)
-**Due date: 11:59 PM March 31**
+**Due date: 11:59 PM Oct 27**
 Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
 2. **Feedback.** For the meeting, groups should take into consideration feedback given for their Discovery grade. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design. 
-3. **Peer Evaluation Form.** Each team member must individually fill out the midpoint peer evaluation form, found [here](https://forms.gle/zEYFDFUBAfB795ZS6). It is due on March 31 by 11:59 PM CT. 
+3. **Peer Evaluation Form.** Each team member must individually fill out the midpoint peer evaluation form, found [here](https://forms.gle/zEYFDFUBAfB795ZS6). It is due on Oct 27 by 11:59 PM CT. 
 
-**Week of meetings: March 27 - March 31**
+**Week of meetings: Oct 23 - Oct 27**
 
 To reiterate, submission requirements for the Mid-Project milestone: 
 * Schedule a Mid-Project meeting with the course staff to receive initial feedback. 
@@ -100,7 +100,7 @@ To reiterate, submission requirements for the Mid-Project milestone:
 
 
 ## Alpha (30 points)
-**Due date: 11:59 PM April 12**
+**Due date: 11:59 PM Nov 9**
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
 
@@ -114,7 +114,7 @@ To reiterate, submission requirements for the Alpha milestone:
 
 
 ## Final Submission (45 points)
-**Due date: 11:59 PM May 3**
+**Due date: 11:59 PM Dec 6**
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
 
