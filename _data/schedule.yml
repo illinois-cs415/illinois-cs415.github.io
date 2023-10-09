@@ -122,7 +122,8 @@
   title: "Rendering"
 - 
   date: "Week 8: Oct 10"
-  materials: "Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf)"
+  materials: "Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf) <br/>
+              UE Material Model [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-UE5Material.pdf)"
   title: "Rendering"
 - 
   date: "Week 8: Oct 12"
