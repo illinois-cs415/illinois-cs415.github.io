@@ -94,7 +94,7 @@ There will be two exams. They will:
 + **You should not collaborate or share information about the exams.**<br/>
   **The sanction for doing so will be failure in the course**  
 
- **The exam dates will be Oct 13 and Dec 6**
+ **The exam dates will be Oct 13 and Dec 5**
  
  The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
  There's really no need to cheat.
