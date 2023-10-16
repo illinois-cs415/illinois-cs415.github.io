@@ -139,7 +139,16 @@
   date: "Week 8: Oct 13"
   materials: "**[Exam Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359386)**"
   title: "**EXAM 1**"
-- 
+-
+  date: "Week 9: 4 Credit Lectures"
+  materials:"More VR Concepts [Video](https://classtranscribe.illinois.edu/video?id=3f8213d0-487a-4414-99f7-ebafca954453&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-VR-Intro.pdf)<br/>
+            <br/><br/> Guest Lectures by Professor Luther Tychonievich<br/>
+             Stereoscopic Concepts [Video](https://classtranscribe.illinois.edu/video?id=1d089ff7-eae6-4260-8365-0c0e84600be6&from=sharedlink) <br/>
+             Stereoscopic Calibration [Video](https://classtranscribe.illinois.edu/video?id=6b4dd742-281f-4399-9860-93aeedc73ec9&from=sharedlink) <br/>
+             Stereoscopic Implementation [Video](https://classtranscribe.illinois.edu/video?id=e531f14b-d3bf-4780-89dc-e134f826fb7d&from=sharedlink)
+             VR in UE - No Video [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-VR-UE5.pdf)"
+  title: "VR/XR"
+-
   date: "Week 9: Oct 17"
   materials: ""
   title: "Animation"
