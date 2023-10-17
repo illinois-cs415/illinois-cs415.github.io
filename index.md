@@ -110,7 +110,7 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 Students taking the course for 4 credits will complete the following additional work:
 1. Watch a set of pre-recorded lectures on Virtual Reality 
 2. Complete 2 additional homework assignments on PrairieLearn
-3. Complete 2 additional programming assignment focused on Virtual or Augmented Reality
+3. Complete 1 additional programming assignment focused on Virtual or Augmented Reality
 
 **The Material on VR will start being available during week 3**
 
