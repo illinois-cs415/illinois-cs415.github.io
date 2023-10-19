@@ -2,14 +2,14 @@
 layout: assignment
 title: "4 Credit Assignment"
 index: 10
-due: "Dec. 7, 2022 @ 11:59 PM"
+due: "Nov. 17, 2023 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
   -
     name: Proposal
     points: 10
-    description: Submit a description of your project complete with a 
+    description: Submit a description of your project complete with a grading rubric
   - 
     name: Project Implementation
     points: 70
@@ -21,7 +21,7 @@ rubric:
 --- 
 ![Breath of the Wild](https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FirIOIA243mp1aEMOHqPkxc4rsKQ%3D%2F0x0%3A950x534%2F2000x1333%2Ffilters%3Afocal(475x267%3A476x268)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16193538%2FCI_News_TheLegendOfZeldaBreathOfTheWild_LaboCVR_Zelda_01_image950w.jpg&w=2400&q=75)
 ## What is the 4 Credit Project About?
-Taking the course for an extra credit hour requires the completion of a substantive extra project in addition to the course project done by the entire class. 
+Taking the course for an extra credit hour requires the completion of a extra project in addition to the course project done by the entire class. 
 The main focus of the 4 Credit Project will be to implement something using the VR capabilities of Unreal Engine. But there are other options as well.
 This is an opportunity to learn a new thing or implement something you always wanted to...so long as it is related to the course in some way. 
 
@@ -29,7 +29,7 @@ This is an opportunity to learn a new thing or implement something you always wa
 1. **Do we have to work in groups?** No! You can work on your own if you wish.
 2. **How big of a group can work in?** There's no limit as long as we decide the proposal is sufficient work for the group size.
 3. **Do we have to do a VR project?** No! But you should strongly consider it. It's a chance to work with equipment not everyone has.
-4. **What equipment?** We have 9 Oculus Rift S HMDs, 3 Quest HMDs and 2 Quest 2 HMDs. These can be loaned out or hosted in a lab (we'll find one) if you lack a suitable development machine.
+4. **What equipment?** We have 9 Oculus Rift S HMDs, 7 Quest 2 HMDs and a HoloLens 2. These can be loaned out or hosted in the 1104 NCSA lab.
 5. **What are the non-VR options?** Yes! You can propse your own project. Details below.
 
 ## VR Projects
@@ -51,7 +51,7 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 
 ## Sponsored Projects
 
-We have several opportunities for individuals or teams of people to work with existing groups that have a VR project going. **These projects will be 
+We have two opportunities for individuals or teams of people to work with existing groups that have a VR project going. **These projects will be 
 available on a first-request basis.** This means that not everyone that requests a sponsored project will for sure get the opportunity to work on it. 
 
 ### Sponsored Project Request Process
