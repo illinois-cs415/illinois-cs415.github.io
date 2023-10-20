@@ -19,10 +19,10 @@ rubric:
   - 
     name: Mid-Project Meeting
     points: 10
-    description: The alpha should be a version of your game with at least the core gameplay completed and playable.
-    details: Attendance = 1 point; Code submission = 1 point; Updated documents submission = 1 point; Updated collaboration plan = 1 point; Major game features completion = 5 points; Visual elements = 1 point. Graded per team. 
+    description: Zoom or in-person meeting with project mentor to answer question and describe progress since design submission.
+    details: Attendance = 8 points; Some progress since discovery = 2 points; Graded per team. 
   - 
-    name: Mid-Point peer evaluation form
+    name: Alpha peer evaluation form
     points: 2
     description: Graded for completion. 
     details: Graded individually. 
