@@ -141,10 +141,9 @@ available on a first-request basis.** This means that not everyone that requests
 
 ### List of Sponsored Projects
 
-1. ![UE5](/img/pointvr.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with PointVR. See their project document here: [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/pdf/CS_415_Features_List.pdf). More info about the group can be found here: [PointVR](https://icasu.illinois.edu/outreach/point-vr)
-2. ![UE5](/img/corona1.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with NCSA visualizing data from a simulation of a coronal mass ejection (CME) on the sun, optionally combined with a separate, but also cool-looking, animation of convection on the sun's surface.
-3. ![UE5](/img/trees.jpg){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with NCSA visualizing 760 million trees in West Africa.
-4. ![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography.
+1. ![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography. The research project will focus on developing an educational game for undergraduate engineering students. The game is supposed to teach some basic topics of crystallography (crystallographic points, directions, planes or miller indices) in an immersive learning environment. The topics require complex 3D visualizations. Hence, the gameplay will require significant number of features for 3D object interactions. It will be a single player, third person actor game which will mostly follow adventure game genre. The game will be developed using Unreal Engine using Blueprints scripting. The game will be played using VR (Meta Quest 2 and/or the latest Quest 3) headsets.
+
+2. 
  
 
 
