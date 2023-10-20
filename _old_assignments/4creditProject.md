@@ -11,9 +11,21 @@ rubric:
     points: 10
     description: Submit a description of your project
   - 
-    name: Project Implementation
-    points: 70
-    description: Submit the code or similar work product through a link to a repo or compressed folder 
+    name: Create an Environment
+    points: 40
+    description: A 3D environment that the user can navigate in 
+  - 
+    name: Teleportable and Walkable Areas
+    points: 10
+    description: Implement a teleportation mechanic in addition to a walking mechanic
+  - 
+    name: Grabbable Object
+    points: 10
+    description: Have at least 3 grabbable objects the user can interact with
+  - 
+    name: Button
+    points: 10
+    description: Implemenment a touchable button with feedback
   -
     name: Video
     points: 20
@@ -143,7 +155,7 @@ available on a first-request basis.** This means that not everyone that requests
 
 1. ![UE5](/img/crystal.png){:class="img-responsive" style="display:block; margin:auto" width="400px"}Work with a Civil Engineering research group on their educational game Crystal Vision...which teaches people about crystallography. The research project will focus on developing an educational game for undergraduate engineering students. The game is supposed to teach some basic topics of crystallography (crystallographic points, directions, planes or miller indices) in an immersive learning environment. The topics require complex 3D visualizations. Hence, the gameplay will require significant number of features for 3D object interactions. It will be a single player, third person actor game which will mostly follow adventure game genre. The game will be developed using Unreal Engine using Blueprints scripting. The game will be played using VR (Meta Quest 2 and/or the latest Quest 3) headsets.
 
-2. 
+2. The Cyprus Institute and NCSA are developing a VR experience of the history of the Nicosia airport, an example of modernisation of the post-colonial society of Cyprus, built by German companies, to expand the new touristic development of the island after the establishment of the Republic. This is an important infrastructure of the city that lies in the buffer zone under the control of the UN. They have been processing 3D reality capture data and collecting historical information about the airport for the last couple of years, and want to developing a VR exeprience.
  
 
 
