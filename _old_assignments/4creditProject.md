@@ -15,9 +15,9 @@ rubric:
     points: 40
     description: A 3D environment that the user can navigate in 
   - 
-    name: Teleportable and Walkable Areas
+    name: Teleportable and Walkable and Blocked Areas
     points: 10
-    description: Implement a teleportation mechanic in addition to a walking mechanic
+    description: Implement a teleportation mechanic in addition to a walking mechanic and blocked areas
   - 
     name: Grabbable Object
     points: 10
