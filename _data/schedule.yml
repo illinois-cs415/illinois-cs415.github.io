@@ -169,7 +169,10 @@
   date: "Week 10: Oct 24"
   materials: "[Video](https://classtranscribe.illinois.edu/video?id=97c067fb-ae72-450a-91ee-02cf42666c78&from=sharedlink)<br/>
                Euler Angles [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-EulerAngles.pdf)<br/>
-               Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf)"
+               Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf)
+                 **Optional Reading:**<br/>
+              Real-Time Rendering Section 4.2 and 4.3<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing) ""
   title: "Animation"
 - 
   date: "Week 10: Oct 26"
