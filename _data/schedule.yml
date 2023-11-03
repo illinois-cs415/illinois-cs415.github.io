@@ -194,7 +194,8 @@
   title: "Game Physics"
 - 
   date: "Week 12: Nov 7"
-  materials: ""
+  materials: "Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
+              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)"
   title: "Game Physics"
 - 
   date: "Week 12: Nov 9"
