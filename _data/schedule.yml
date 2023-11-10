@@ -197,7 +197,8 @@
   title: "Game Physics"
 - 
   date: "Week 12: Nov 7"
-  materials: "Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
+  materials: " [Video](https://classtranscribe.illinois.edu/video?id=85be571c-8e19-45cf-a742-2d7d3f2192d7&from=sharedlink)<br/>
+              Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
               Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)"
   title: "Game Physics"
 - 
