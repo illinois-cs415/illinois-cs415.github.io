@@ -203,16 +203,19 @@
   title: "Game Physics"
 - 
   date: "Week 12: Nov 9"
-  materials: "Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf) <br/>"
-  title: "Animation"
+  materials: "Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)"
+  title: "Game Physics"
 - 
   date: "Week 13: Nov 14"
-  materials: "**PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**"
-  title: "Game AI"
+  materials: "**PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**<br/>
+             Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf) <br/>   
+             Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)"
+  title: "Game AI & Animation"
 - 
   date: "Week 13: Nov 16"
-  materials: ""
-  title: "Game AI"
+  materials: "Rules of the Game: Five Techniques from Quite Inventive Designers 2016 [YouTube](https://youtu.be/d8QAVGeEj-U?si=Fk8f2ovx1zX7_cEQ)<br/>
+              Designing Games for Game Designers 2012 [YouTube](https://youtu.be/ke_kOD2D-bs?si=FazHhxS2jCf3Q6LL)"
+  title: "GDC Talks on Game Design"
 - 
   date: "Week 14: Nov 21"
   materials: ""
