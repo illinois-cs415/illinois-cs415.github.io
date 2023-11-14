@@ -207,9 +207,10 @@
   title: "Game Physics"
 - 
   date: "Week 13: Nov 14"
-  materials: "**PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**<br/>
+  materials: [Video](https://classtranscribe.illinois.edu/video?id=bbfda1c0-6448-4f16-89da-0c61dd678fb1&from=sharedlink)<br/>
              Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf) <br/>   
-             Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)"
+             Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/>
+             "**PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**<br/>"
   title: "Game AI & Animation"
 - 
   date: "Week 13: Nov 16"
