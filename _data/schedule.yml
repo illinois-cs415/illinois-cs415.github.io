@@ -227,12 +227,14 @@
   title: "**No Class - Fall Break**"
 - 
   date: "Week 15: Nov 28"
-  materials: ""
-  title: "UE 5 Substrate"
+  materials: "[Video]()<br/>
+               Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
+               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)"
+  title: "Real-Time Ray Tracing"
 - 
   date: "Week 15: Nov 30"
   materials: ""
-  title: "UE5 Lumen"
+  title: "Generative AI"
 - 
   date: "Week 16: Dec 5"
   materials: "**[Exam Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359387)**"
