@@ -2,7 +2,7 @@
 layout: assignment
 title: "4 Credit Assignment"
 index: 10
-due: "Dec. 6, 2023 @ 11:59 PM"
+due: "Dec. 8, 2023 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
@@ -172,4 +172,4 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
  
 **Oct 27 11:59 PM submit proposal on canvas.**
 
-**Nov 30 11:59 PM submit project on canvas**
+**Dec 8 11:59 PM submit project on canvas**
