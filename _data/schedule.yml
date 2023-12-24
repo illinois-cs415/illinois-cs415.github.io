@@ -200,9 +200,10 @@
   materials: " [Video](https://classtranscribe.illinois.edu/video?id=85be571c-8e19-45cf-a742-2d7d3f2192d7&from=sharedlink)<br/>
               Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
               Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)
-               FIX **Optional Reading:**<br/>
-              Real-Time Rendering Section 4.2 and 4.3<br/>
-              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)
+               **Optional Reading:**<br/>
+              <br/>
+              Game Physics Engine Development Chapters 2 to 4, 12<br/>
+              [PDF]()
               "
   title: "Game Physics"
 - 
@@ -215,9 +216,11 @@
              Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/>   
              Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/><br/>
              **PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**<br/><br/>
-              FIX **Optional Reading:**<br/>
-              Real-Time Rendering Section 4.2 and 4.3<br/>
-              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
+             **Optional Reading:**<br/>
+              Real-Time Rendering Chapter 16<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)<br/>
+              AI for Games 3rd Edition by Ian Millington Chapter 6<br/>
+              [PDF]()<br/>"
   title: "Game AI & Animation"
 - 
   date: "Week 13: Nov 16"
@@ -239,8 +242,8 @@
                Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
                Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/><br/>
                **PrairieLearn HW 6 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359391)**<br/><br/>
-                FIX**Optional Reading:**<br/>
-              Real-Time Rendering Section 4.2 and 4.3<br/>
+              **Optional Reading:**<br/>
+              Fundamentals of Computer Graphics Chapter 4<br/>
               [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Real-Time Ray Tracing"
 - 
