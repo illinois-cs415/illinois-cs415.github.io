@@ -24,6 +24,7 @@
   materials: "Art: Bezier Curves [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier1.pdf) [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)<br/>
               Art: Bezier Patches [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier2.pdf) [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)<br/>
               Art: Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/8ce066af72ca09b815c6c753c550127ea1b118bd/img/slides/415-MeshAssets-2023.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4d38fc4f-e140-4d60-ae7b-77fd2811b5dc&from=sharedlink)<br/>
+               <br/><br/>
                **Optional Reading:**<br/>
               Real-Time Rendering Section 17.1.1-17.1.3, 17.2.1-17.2.3 <br/>
               [PDF](https://drive.google.com/file/d/1EPESnk8Lh3j68csYFnNSwDOINlwTWdsJ/view?usp=sharing) "
@@ -153,7 +154,8 @@
   date: "Week 9: Oct 17"
   materials: " Game Design: Stardew Valley [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-StardewValley.pdf)<br/>
                Transformations [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-GeometricTransformations.pdf) <br/>
-               [Video](https://classtranscribe.illinois.edu/video?id=196bd69e-b778-4473-9eee-f3d627f3d77f&from=sharedlink)<br/>
+               [Video](https://classtranscribe.illinois.edu/video?id=196bd69e-b778-4473-9eee-f3d627f3d77f&from=sharedlink)<br/><br/>
+               **PrairieLearn HW 3 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**<br/><br/>
                **Optional Reading:**<br/>
                Real-Time Rendering Section 4.1 [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing) <br/>
                Blood, Sweat, and Pixels [Amazon Link](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
@@ -197,7 +199,11 @@
   date: "Week 12: Nov 7"
   materials: " [Video](https://classtranscribe.illinois.edu/video?id=85be571c-8e19-45cf-a742-2d7d3f2192d7&from=sharedlink)<br/>
               Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
-              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)"
+              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)
+               FIX **Optional Reading:**<br/>
+              Real-Time Rendering Section 4.2 and 4.3<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)
+              "
   title: "Game Physics"
 - 
   date: "Week 12: Nov 9"
@@ -207,8 +213,11 @@
   date: "Week 13: Nov 14"
   materials: "[Video](https://classtranscribe.illinois.edu/video?id=bbfda1c0-6448-4f16-89da-0c61dd678fb1&from=sharedlink)<br/>
              Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/>   
-             Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/>
-             **PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**"
+             Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/><br/>
+             **PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**<br/><br/>
+              FIX **Optional Reading:**<br/>
+              Real-Time Rendering Section 4.2 and 4.3<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Game AI & Animation"
 - 
   date: "Week 13: Nov 16"
@@ -228,8 +237,11 @@
   materials: "[Video](https://classtranscribe.illinois.edu/video?id=d03d7291-761b-4a14-b462-fa2f7319bae6&from=sharedlink)<br/>
                GDC/GTC 2022 NVIDIA Real-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)<br/>
                Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
-               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/>
-               **PrairieLearn HW 6 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359391)**"
+               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/><br/>
+               **PrairieLearn HW 6 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359391)**<br/><br/>
+                FIX**Optional Reading:**<br/>
+              Real-Time Rendering Section 4.2 and 4.3<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Real-Time Ray Tracing"
 - 
   date: "Week 15: Nov 30"
