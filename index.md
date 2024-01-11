@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ![UE5](/img/Unreal_Engine_5_18.jpg){:class="img-responsive" style="display:block; margin:auto" width="800px"}
-## Fall 2023
+## Spring 2024
 ## Overview ##
 
 This is a team and project-based course on video game design and development using Unreal Engine. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central focus of the course will be the design and development of a game by teams of 3 to 5 students. 
@@ -26,14 +26,13 @@ This is a team and project-based course on video game design and development usi
 #### [CampusWire](https://campuswire.com/p/G3A6B49EE) ####
 
 We will use CampusWire for answering questions and administering the course.
-+ Click **[this link](https://campuswire.com/p/G3A6B49EE)** to join/view the forum.<br/> 
-+ Use the passcode 0571. 
++ Click **[this link](https://campuswire.com/p/G5EAEC10C)** to join/view the forum.<br/> 
++ Use the passcode **6781**. 
 + For any question involving a grade you should select the tag `Post to instructors and TAs`.
 
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* Professor Luciano Soares (teaching the 4 Credit Material)
 * Janelle Domantay TA
 * Jason Situ TA
 * Qiyuan Li	TA
@@ -48,7 +47,6 @@ We will use CampusWire for answering questions and administering the course.
 * Timor Averbuch CA
 * Violetta Dabros CA
 * Jingyang Ye CA
-* Shalin Mehta CA
 * Anish Jampana CA
 * Elio Lin CA
 * Nan Kang CA
@@ -59,7 +57,7 @@ The course will be taught using online lectures along with additional reading ma
 
 #### Lectures ####
 + Live discussion on Zoom will be held **Tu at 11am Central Time**.<br/><br/>
-**[ZOOM LINK](https://illinois.zoom.us/j/82924476336?pwd=Y28rUVVLT0V1eEdvZk54a1ZqMHNnQT09)**<br/><br/>
+**[ZOOM LINK](https://illinois.zoom.us/j/81716326474?pwd=NjcxV2JWVVNTdkppaCtpTGx6SnRrUT09)**<br/><br/>
 + If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
@@ -72,7 +70,7 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 ## Assessments ##
 
-Assigned work will include 10 homework assignments, 2 exams, 2 programming assignments, and a final project.
+Assigned work will include 6 homework assignments, 2 exams, 2 programming assignments, and a final project.
 
 #### Homework ####
 There will be 6 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
@@ -88,13 +86,13 @@ There will be two exams. They will:
 + Be on PrairieLearn
 + Be very much like the homework...sometimes will even have the same questions!
 + Have a strict time limit of an hour 
-+ Can be taken anywhere, at anytime during a 16 hour period.
++ **Will be scheduled for a morning and evening (conflict) session on the exam date**.
 + Are open web
 + The questions are randomized...no two exams will be the same.
 + **You should not collaborate or share information about the exams.**<br/>
   **The sanction for doing so will be failure in the course**  
 
- **The exam dates will be Oct 13 and Dec 5**
+ **The exam dates will be...announced later**
  
  The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
  There's really no need to cheat.
