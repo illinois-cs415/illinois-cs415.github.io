@@ -102,6 +102,7 @@ Complete this [tutorial on making a simple game by Kodeco](https://www.kodeco.co
 - Get faster over time, either directly based on time, the player score, etc
   - It's up to you if you want the speed to increase forever, or cap at some threshold.
 - Increase at a rate that is noticeable but does not ramp up the difficulty too fast
+- Reset back to the initial speed at the start of the game when the game restarts
 
 ### 8. Add one creative modification that is unique to your game. Some ideas:
 - Health bar decreases along a gradient of colors
@@ -151,11 +152,11 @@ The steps to adding a score are relatively similar to a health bar:
 #### Hints
 
 One tricky thing about updating the score is when to figure out when the score should actually updated (i.e. the score should only be updated when the player successfully passes through the hole). There are probably multiple ways to do this, but this is how I did it:
-- If the player hits the WallMesh, the score is decremented
-- When the player passes through the TriggerZone, the score gets incremented
+- If the player hits the WallMesh, the score does not change
+- When the player overlapps with the TriggerZone, the score gets incremented
 - The "Score" text widget in the HUD is only updated after the player passes the TriggerZone
 
-This way, when a player collides through the wall and then passes the TriggerZone, the score is simultaneously incremented and decremented, so the score display does not change at all.
+This way, when a player collides through the wall, the score does not change. But when the player successfully passes through the TriggerZone, the score gets incremented.
 
 ### Adding Healthpacks
 
