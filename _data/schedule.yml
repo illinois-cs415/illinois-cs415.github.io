@@ -55,7 +55,7 @@
 -
   date: "Week 5: Feb 15"
   materials: ""
-  title: "Game AI"
+  title: "Game Design"
 - 
   date: "Week 5: 4 Credit Section"
   materials: ""
@@ -63,11 +63,11 @@
 -
   date: "Week 6: Feb 20"
   materials: ""
-  title: "Rendering"
+  title: "Game AI"
 - 
   date: "Week 6: Feb 22"
   materials: ""
-  title: "Rendering"
+  title: "Game AI"
 - 
   date: "Week 7: Feb 27"
   materials: ""
@@ -75,7 +75,7 @@
 - 
   date: "Week 7: Feb 29"
   materials: ""
-  title: "Rendering"
+  title: "Game AI"
 - 
   date: "Week 8: March 5"
   materials: "**[Exam Link]()**"
@@ -83,7 +83,7 @@
 - 
   date: "Week 8: March 7"
   materials: ""
-  title: "Game Design"
+  title: "Game AI"
 -
   date: "Week 9: March 12"
   materials: "**No Lecture**"
@@ -95,7 +95,7 @@
 - 
   date: "Week 10: March 19"
   materials: "**No Live Lecture**"
-  title: ""
+  title: "Animation"
 - 
   date: "Week 10: March 21"
   materials: ""
@@ -103,11 +103,11 @@
 - 
   date: "Week 11: April 2"
   materials: ""
-  title: ""
+  title: "Animation"
 - 
   date: "Week 11: April 4"
   materials: ""
-  title: "Game Physics"
+  title: "Animation"
 - 
   date: "Week 12: April 9"
   materials: ""
@@ -119,23 +119,23 @@
 - 
   date: "Week 13: April 16"
   materials: ""
-  title: "Game AI & Animation"
+  title: "Game Physics"
 - 
   date: "Week 13: April 18"
   materials: ""
-  title: "GDC Talks on Design"
+  title: "Game Physics"
 - 
   date: "Week 14: April 23"
   materials: ""
-  title: ""
+  title: "Guest Lecture: Game Industry"
 - 
   date: "Week 14: April 25"
   materials: ""
-  title: ""
+  title: "Audio"
 - 
   date: "Week 15: April 30"
   materials: ""
-  title: "Real-Time Ray Tracing"
+  title: "Neural Rendering"
 - 
   date: "Week 15: May 2"
   materials: ""
