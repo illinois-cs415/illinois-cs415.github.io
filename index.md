@@ -35,9 +35,7 @@ We will use CampusWire for answering questions and administering the course.
 * Professor Eric Shaffer, shaffer1@illinois.edu
 * Janelle Domantay TA
 * Jason Situ TA
-* Qiyuan Li	TA
 * Tyler Lee TA
-* Zijian Huang TA
 * Alex Stettner CA
 * Abdul Maaieh CA
 * Chen Yang CA
@@ -92,7 +90,7 @@ There will be two exams. They will:
 + **You should not collaborate or share information about the exams.**<br/>
   **The sanction for doing so will be failure in the course**  
 
- **The exam dates will be...announced later**
+ **The exam dates will be March 5 and May 2**
  
  The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
  There's really no need to cheat.
