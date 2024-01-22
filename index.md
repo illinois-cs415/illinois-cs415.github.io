@@ -39,6 +39,7 @@ We will use CampusWire for answering questions and administering the course.
 * Archna Sobti TA
 * Bohan Liu TA
 * Kyo Hyun Kim TA
+* Eunice Leung TA
 * Alex Stettner CA
 * Abdul Maaieh CA
 * Chen Yang CA
@@ -51,6 +52,17 @@ We will use CampusWire for answering questions and administering the course.
 * Anish Jampana CA
 * Elio Lin CA
 * Nan Kang CA
+* Adnan Noorullah CA
+* Yousef Dardir CA
+* Zhengqi Hou CA
+* Rachel Huang CA
+* Atharva Jain CA
+* Zhao Li CA
+* Victor Lu CA
+* Nisha Prasad CA
+* Boyao Wang CA
+* Encheng Xie CA
+  
 
 ## Instructional Content ##
 
