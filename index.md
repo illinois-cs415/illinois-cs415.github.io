@@ -36,6 +36,9 @@ We will use CampusWire for answering questions and administering the course.
 * Janelle Domantay TA
 * Jason Situ TA
 * Tyler Lee TA
+* Archna Sobti TA
+* Bohan Liu TA
+* Kyo Hyun Kim TA
 * Alex Stettner CA
 * Abdul Maaieh CA
 * Chen Yang CA
