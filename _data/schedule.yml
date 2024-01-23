@@ -10,9 +10,8 @@
 - 
   date: "Week 2: Jan 23"
   materials: "Art: Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
-  Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
               UE5 Features [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)<br/>
-              Lecture [Video]() <br/><br/>
+              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_7xxe5143) <br/><br/>
               **MP1 Due Jan 31** [Link](https://illinois-cs415.github.io/assignments/mp1.html)<br/><br/>
               **Optional Reading:**<br/>
                Fundamentals of Computer Graphics Ch 12<br/>
@@ -43,7 +42,7 @@
   title: "VR/XR"
 - 
   date: "Week 4: Feb 6"
-  materials: ""
+  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>"
   title: "Rendering"
 -
   date: "Week 4: Feb 8"
