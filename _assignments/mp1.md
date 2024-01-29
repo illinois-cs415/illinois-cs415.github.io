@@ -2,7 +2,7 @@
 layout: assignment
 title: "Your First Game: An Infinite Matrix"
 index: 1
-due: "Jan 31, 2024 @ 11:59 PM"
+due: "Feb 3, 2024 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
