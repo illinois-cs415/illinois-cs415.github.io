@@ -89,9 +89,31 @@ The Pursuer should:
 -	Run at the player when they get within a moderate distance of each other, and they have line of sight with each other
 -	Within reason, return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
 
-Here is a tutorial to help get you started on the Pursuer enemy type:
-[Tutorial Link](https://drive.google.com/file/d/1zoJnzQR6WuSpxx6g3fdB4aDGg7fbOIke/view?usp=sharing)
-<br/>
+<details><summary markdown="span">Here is a tutorial to help get you started on the Pursuer enemy type:</summary>
+    
+*NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the chaser. Use intuition, creativity, and other online tutorials to aid in completing all the requirements!*
+
+### **Step 1: Create the AI Controller**
+*Unlike the player character that is controlled by an input device (i.e. keyboard and mouse, Xbox controller, etc.), the Pursuer will be controlled by an 'AI controller'. This allows us to specify in code how we wish the Pursuer to behave. To do this, we will create an 'AI Controller' object to control the actions of the Pursuer enemy.*
+
+In the Content Drawer (Bottom left), click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name 'Pursuer_AIController'. 
+
+![img/assignments/mp2/pursuer tutorial/step1.png](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step1.png)
+### **Step 2: Create the AI Character**
+### **Step 3: Add Pawn Sensing**
+### **Step 4: Add random movement to the AI Character**
+### **Step 5: Add the Nav Mesh**
+### **Step 6: Create a Chase Player Event**
+### **(OPTIONAL) Step 7: Add Enemy Functionality Upon Chase Event**
+### **(OPTIONAL) Step 8: Apply Damage**
+### **Step 9: Create an Enumerator Class**
+### **Additional Resources**
+
+* If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel.
+* If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/).
+* If you are having trouble with character knockback, [check out this thread](https://forums.unrealengine.com/t/character-knockback/300225/3).
+    
+</details>
 
 #### **The Mortar**
 The Mortar should:
