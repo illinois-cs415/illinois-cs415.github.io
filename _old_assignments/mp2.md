@@ -187,12 +187,13 @@ In the viewport, click on your AI Character and specify the default "AIState" as
 ### **Additional Resources**
 
 In addition to the instructions above, the following set of tutorials may be helpful to you: 
-* https://www.youtube.com/watch?v=eBjtKsgurLU 
-* https://www.youtube.com/watch?v=HK3FAbIkJ-g 
-* https://www.youtube.com/watch?v=4UsaiOEr6Bw 
-* https://youtu.be/IDZh0epFTRY?si=iQheKNeQNEnvbBNG 
-* https://youtu.be/z8VJhDmAyx4?si=uqPSXPP6DdsUaoSF
-* https://youtu.be/bx7taRBjJgM?si=DT60SXgnf7HEUUYt
+* [Unreal Engine 4 - AI Roam](https://www.youtube.com/watch?v=eBjtKsgurLU) 
+* [Unreal Engine 4 - AI Chase Player](https://www.youtube.com/watch?v=HK3FAbIkJ-g)
+* [Create A Platformer Pt 4: Chasing Knockback Enemy! UE4 Tutorial](https://www.youtube.com/watch?v=4UsaiOEr6Bw)
+* [Unreal Engine 5 Tutorial - AI Part 1: Character Setup](https://youtu.be/IDZh0epFTRY?si=iQheKNeQNEnvbBNG)
+* [Using AI in Unreal](https://docs.google.com/presentation/d/1tsbdJHC0r5w-sF30vuK8PuOIJsRZvvv3xJhFrFzT600/edit?usp=sharing)
+
+**End of Pursuer tutorial.**
     
 </details>
 
