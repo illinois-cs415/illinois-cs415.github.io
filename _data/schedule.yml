@@ -30,7 +30,14 @@
   title: "Geometric Modeling"
 -
   date: "Week 3: Jan 30"
-  materials: ""
+  materials: "UE5 Nanite Example [YouTube](https://youtu.be/DKvA7NZRUcg)<br/>
+              UE5 Nanite Introduction [YouTube](https://www.youtube.com/watch?v=-50MJf7hyOw&t=19s)<br/>
+              Rendering: Introduction [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rendering.pdf) <br/>
+              Rendering: Perspective Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf)<br/>
+              Lecture [Video]()<br/><br/>
+               **Optional Reading:**<br/>
+              Fundamentals of Computer Graphics (4th Ed) Ch 7 [PDF](https://drive.google.com/file/d/1xzDXdAFBlrIISfhpTRMlDwAZDG1wXsrX/view?usp=drive_link) <br/>
+              Real-Time Rendering Chapter 2 [PDF](https://drive.google.com/file/d/1nT2M0aXeWmp2y5_HZSAi2azcYlsgB_F2/view?usp=sharing)<br/>"
   title: "Rendering"
 - 
   date: "Week 3: Feb 1"
