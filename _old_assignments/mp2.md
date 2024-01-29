@@ -105,6 +105,15 @@ Create an enemy of your own design. It should have similar complexity to the oth
 
 You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
 
+### **Hints for Common Bugs**
+<details><summary markdown="span">Show hints</summary>
+    
+* If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel.
+* If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/).
+* If you are having trouble with character knockback, [check out this thread](https://forums.unrealengine.com/t/character-knockback/300225/3).
+    
+</details>
+
 ## Part 3: Putting It All Together
 The last step of the MP is to put it all together and make a platforming level.
 
