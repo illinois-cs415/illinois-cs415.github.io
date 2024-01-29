@@ -99,19 +99,100 @@ The Pursuer should:
 In the Content Drawer (Bottom left), click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name 'Pursuer_AIController'. 
 
 ![img/assignments/mp2/pursuer tutorial/step1.png](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step1.png)
+
 ### **Step 2: Create the AI Character**
+*Both the player characters and the AI character use the 'Character' blueprint. As explained above, the main difference is that it will be controlled by the 'AI Controller'. This 'Character' blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
+
+In the Content Drawer, go to Add > Blueprint Class > Character and save the AI character with the name 'BP_Pursuer'. Open its blueprint editor. Inside the "Components" panel (top left), select the "Mesh" component. For starters, set the following properties in the Details panel (right):
+* Skeletal Mesh: SK_EpicCharacter
+* Anim Class: EpicCharacter_AnimBP_C
+
+![img/assignments/mp2/pursuer tutorial/step2a.png](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2.png)
+
+This can be changed later to whatever mesh/animations you like later!
+
+Add a "CapsuleComponent" in the Components panel (top left). By default, the mesh will not be inside of the capsule. Adjust the Z position and scale of the character mesh so that it fits right within the borders of the capsule. This can be done using the arrow gizmos (the 3 red, blue, and green perpendicular arrows) or adjusting the transform values in the details panel (right)  to roughly -80 for Z position and 0.85 for scale.
+
+![img/assignments/mp2/pursuer tutorial/step2b.png](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2b.png)
+
+Finally, select "AICharacter (self)" on the Components panel (left), then in the Details panel (right) set its "AI Controller Class" to the AI controller ('Pursuer_AIController') you created in step 1.
+
+![img/assignments/mp2/pursuer tutorial/step2c.png](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2c.png)
+
 ### **Step 3: Add Pawn Sensing**
+*For the Pursuer to start chasing the player when it is nearby, we will add Pawn Sensing to the enemy so that it can sense the location of the player.*
+
+Remaining in the 'BP_Pursuer' blueprint, select Add > PawnSensing in the Components tab on the top left. See below for how the component hierarchy should look in 'BP_Pursuer' after this step.
+
 ### **Step 4: Add random movement to the AI Character**
+*Now we will add the code into our Pursuers blueprint to move. This will create the behavior of continuously roaming the map.*
+
+In the Event Graph of 'BP_Pursuer', add a custom event titled 'Roam' and use the "AI MoveTo" method to move the character to a random location. 
+
+To create a custom event, right-click on the event graph, search and select "Add Custom Event" in the pop-up tab and name the event "Roam". This custom event will be called within the BP_Pursuer event graph whenever we want the Pursuer to roam.
+
+Add an "AI MoveTo" block to the event and use the method "GetRandomReachablePointInRadius" to set the destination. 
+
+Since we want the AI Character to keep roaming, add a slight delay after the custom method and call Roam again to create a loop. Here is how the event graph should look: 
+
+Call the custom Roam event from Event BeginPlay. 
+
 ### **Step 5: Add the Nav Mesh**
+*The pursuer needs to know what places in the level it can and cannot walk on. To do this, we define the area our AI Character can roam in by adding a navigation mesh bounds volume to the level.*
+
+Return to the level map window. From the Content Drawer, drag and drop 'BP_Pursuer' into the level map. Then, navigate to the + icon on the top left and select Volumes > NavMeshBoundsVolume.
+
+A Nav Mesh indicates the area where AIs can be activated, so make sure the Nav Mesh is large enough to encapsulate the area you want the enemies to move around in. To visualize the navigable area inside of the NavMeshBoundsVolume, press "P" on your keyboard. This will highlight all surfaces that the AI character can be navigated to in green.
+
 ### **Step 6: Create a Chase Player Event**
+*We will use the same logic from “Roam” to initiate a "Chase Player" event.*
+
+Create a new custom event titled "Chase Player".
+
+From the Chase Player event, add an "AI MoveTo" block and set the Target Actor to the Player Character. Like in the Roam event, add a "Delay" block from "On Success" and call "Chase Player" again after the delay has completed. 
+
+To test, replace "Roam" in "Event Begin Play" with "Chase Player", compile the file, and run the game.
+
 ### **(OPTIONAL) Step 7: Add Enemy Functionality Upon Chase Event**
+*We will show you how to cause the enemy to blow up with a sound and particle effect upon collision with the player character.*
+
+Break the link between "AI MoveTo" and "Delay". Insert a "Spawn Emitter at Location" block on success of the "AI MoveTo". Next, connect a "Play Sound at Location" block and a "Destroy Actor" block. 
+
+Connect "Get Actor Location" to the "Location" node for both "Spawn Emitter at Location" and "Play Sound at Location".
+
+You will need to add particle effects and sounds to your project. Select your desired particle effect asset in the dropdown menu under "Emitter Template" on the "Spawn Emitter at Location" block. Select your desired sound asset under "Sound" on the "Play Sound at Location" block.
+
 ### **(OPTIONAL) Step 8: Apply Damage**
+Insert an "Apply Damage" block between the "AI MoveTo" and "Spawn Emitter at Location" blocks.
+
+Set the "Damaged Actor" node to "Get Player Character". Play around with the different damage parameters to get your desired effect.
+
+[Check out this tutorial on how to use the damage system/events](https://www.youtube.com/watch?v=vO1i9Wcx4Xc)
+
 ### **Step 9: Create an Enumerator Class**
+*We can create an enumerator class to help us control the behaviors of our AI Character.*
+
+In the Content Drawer, within the AI folder, create a Blueprint Enumeration class. This class will define what state our AI is in (ChasePlayer or Roam). Name this class "EAIState".
+
+Add three enumerators: 'Default', 'Roam', and 'Chase Player'. 
+
+In the AICharacter class, create a variable called "AIState" of type "EAIState". Make the variable public by clicking on the eye icon on the right. 
+
+Remove the connection between "Event BeginPlay" and "ChasePlayer". Drag from "Event BeginPlay" and type "Switch on EAIState". The AIState variable will be connected to the "Selection" node on "Switch on EAIState". 
+
+Attach a 'Roam' event block to the 'Roam' node and a 'Chase Player' block to 'Chase Player'.
+
+In the viewport, click on your AI Character and specify the default "AIState" as 'Roam'. Default states are unique to each character, so you can create multiple AI characters, some with the default set to Roam and some with the default set to Chase Player.
+
 ### **Additional Resources**
 
-* If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel.
-* If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/).
-* If you are having trouble with character knockback, [check out this thread](https://forums.unrealengine.com/t/character-knockback/300225/3).
+In addition to the instructions above, the following set of tutorials may be helpful to you: 
+* https://www.youtube.com/watch?v=eBjtKsgurLU 
+* https://www.youtube.com/watch?v=HK3FAbIkJ-g 
+* https://www.youtube.com/watch?v=4UsaiOEr6Bw 
+* https://youtu.be/IDZh0epFTRY?si=iQheKNeQNEnvbBNG 
+* https://youtu.be/z8VJhDmAyx4?si=uqPSXPP6DdsUaoSF
+* https://youtu.be/bx7taRBjJgM?si=DT60SXgnf7HEUUYt
     
 </details>
 
