@@ -212,6 +212,9 @@ In the viewport, click on your AI Character and specify the default "AIState" as
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step9e.png" alt="drawing" width="800"/>
 
+#### Note on Behavior Trees
+Alternatively, students may implement the AI Character using Behavior Trees in Unreal. There are many resources available online for how to use Behavior Trees. And here are a few slides on [Using AI in Unreal](https://docs.google.com/presentation/d/1tsbdJHC0r5w-sF30vuK8PuOIJsRZvvv3xJhFrFzT600/edit?usp=sharing). However, this feature is more high-level and may be tougher to debug, so if you feel more comfortable working with blueprints, we recommend simply calling the Roam and Chase events from within the Pursuer blueprint.
+
 ### **Additional Resources**
 
 In addition to the instructions above, the following set of tutorials may be helpful to you: 
