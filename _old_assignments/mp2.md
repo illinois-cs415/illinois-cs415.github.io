@@ -45,7 +45,9 @@ rubric:
 ---
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/platform.PNG){:width="800px"}
 # MP 2: Level Design
-Your second MP is all about level design and all the important factors that go in to it. In this MP we will touch on player abilities, level layouts, and enemy AI.
+Your second MP is all about level design and all the important factors that go into it. In this MP we will touch on player abilities, level layouts, and enemy AI. 
+
+This MP is split into two parts: Part 1 covers creating the map, health system, collectibles, and Pursuer enemy type, and Part 2 covers creating the Mortar and custom enemy types and adding enemy destruction and player knockback upon collisions.
 
 **Please pay close attention to the guidelines about recording the video for submission:<br/>
  [Video Guidelines Link](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing)<br/>
@@ -58,25 +60,28 @@ Once you have done that you can continue on to the main assignment. Please read 
 
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
 
+## Part 1: Player Character, Health System, Collectibles, and Pursuer
+
+### Step 1: Level and Character Setup
 The basic player controller along with a large number of assets you may want to use are found here:
 [Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit)<br/>
 
 The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
-## Part 1: Update Your Character
-The first thing you need to do is update your character as follows.
+### Step 2: Add a Health System
+This should be very similar to the system you created in the MP1. There should be a health bar displayed somewhere on the screen and a Game Over screen should be displayed when the player's health reaches 0. 
 
-### **Add a Health System**
-This should be very similar to the system used in the first MP. It should have a bar displayed somewhere on the screen, and a game over screen should be displayed if it reaches 0. You should also make an item that can be placed in the level editor and picked up by the player during the game to restore health. This item should be destroyed on collection. There are several given assets that could work well for this but you can use whatever you want.
+### Step 3: Create Collectible Health Packs
+Next, you will need to create collectible items that can be picked up by the player during the game to restore their health. These items should be placed across the map and should be destroyed upon collection by the player. The Unreal Learning Kit includes several assets that could work well as a collectible but feel free to also upload or create your own.
 
 ## Part 2: Make Some Enemies
-We need obstacles to fill our level. So lets make some enemies. You will be making 3 distinctly different enemy types.
+We need obstacles to fill our level. So let's make some enemies. You will be making 3 distinctly different enemy types.
 <br/>
 ### **Enemy Behavior**
 
 All enemies should do the following:
--	Be destroyed when the players collides with their “head” (the top of whatever model you decide to use)
--	Reduce the players health on collision with any part that is not the head
+-	Be destroyed when the player collides with their “head” (the top of whatever model you decide to use)
+-	Reduce the player's health on collision with any part that is not the head
 -	Knock the player back and remove player control for a short duration after a health reducing collision
 
 ### **Enemy Types**
@@ -85,7 +90,7 @@ You will implement all three types of enemies
 
 #### **The Pursuer**
 The Pursuer should:
--	Have a patrol path of random locations around the staring point that it follows
+-	Have a patrol path of random locations around the starting point that it follows
 -	Run at the player when they get within a moderate distance of each other, and they have line of sight with each other
 -	Within reason, return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
 
