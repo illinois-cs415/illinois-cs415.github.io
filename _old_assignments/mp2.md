@@ -71,7 +71,7 @@ The Health System for this MP should be very similar to the one you created in t
 Your Health System should include:
 * a Health Bar displayed somewhere on the screen
 * a Game Over screen when the player's health reaches 0
-* several Health Packs placed in the level that the player can collect to increase their health
+* health packs scattered around the level that upon collection will be destroyed and increase the player's health
 
 ### Step 3: Create Collectible Items
 Next, you will need to place floating collectible items across the map to guide the player and encourage them to explore. To represent being collected, the collectibles should be destroyed when the player collides with them. You should add a Score system to your game, so that upon collection of a collectible, the player's score increases. The Unreal Learning Kit includes several assets that could work well as a collectible but feel free to also upload or create your own asset.
