@@ -61,8 +61,7 @@ To start, you should get familiar with the basics of how the level editor works 
 ## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy
 
 ### Step 1: Setup the Map and Player Character
-The basic player controller along with a large number of assets you may want to use are found here:
-[Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit)<br/>
+To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. You will find that the basic player controller along with a large number of assets you may want to use are already included and preset in the kit. Construct a new platform level. Leave the map relatively blank for now, as you will gradually add components later on.
 
 The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
@@ -75,7 +74,7 @@ Your Health System should include:
 * several Health Packs placed in the level that the player can collect to increase their health
 
 ### Step 3: Create Collectible Items
-Next, you will need to place collectible items across the map that can be "picked up" by the player when the player collides with it. You should add a Score system, so that upon colliding with a collectible, the player's score increases, and the collectible is destroyed. The Unreal Learning Kit includes several assets that could work well as a collectible but feel free to also upload or create your own asset.
+Next, you will need to place floating collectible items across the map to guide the player and encourage them to explore. To represent being collected, the collectibles should be destroyed when the player collides with them. You should add a Score system to your game, so that upon collection of a collectible, the player's score increases. The Unreal Learning Kit includes several assets that could work well as a collectible but feel free to also upload or create your own asset.
 
 ### Step 4: Create a Pursuer enemy
 The Pursuer should:
@@ -248,28 +247,25 @@ There will be two different types of collision behaviors:
     * Remove player control for a short duration of time
 
 ### Step 4: Putting It All Together
-The last step of the MP is to put it all together and make a platforming level.
+The last step of the MP is to put it all together and make a platforming level. Your level should present some degree of challenge for the player and **take around 5 to 10 minutes to complete**. 
 
 Your final level should:
-- **Take around 5 to 10 minutes to play completely**
-- Present some degree of challenge
-- Return the player to their starting location and reset their score to 0 when their health is reduced to 0 or if they fall off the map
-- Display a level complete screen upon reaching the end of the level
-- Utilize both the created enemies in a way that contributes to the design
-    - The design of the level should specifically take into account your enemy design.
-- Have health packs scattered around the level
-- Have floating collectibles scattered around the level to guide the player and encourage them to explore
-    - You can use any asset you want for these, and there are several included in the given assets
-    - These objects should be destroyed on collection and should affect the player's score
+- Have health packs scattered around the level that increase the player's health when collected
+- Have floating collectibles scattered around the level that are destroyed when collected and increase the player's score
+- Integrate all three enemy types into the design of the level
+- Display a Game Over screen when the player's health is reduced to 0 or the character falls off the map
+- Display a Level Complete screen when the player reaches the end of the level
+- Allow the player to restart the level after a win/loss, which returns the player to the starting location and resets all the level's components
 
 As far as environmental and visual assets go, you may use any of the provided, built-in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project. **The level layout, enemies, and collectibles portions of the rubric are all a part of the level design. Your level should be somewhat challenging, the player should have to interact with enemies, and there should be some exploring required to find the collectibles.** If any of these things aren't the case, you'll lose significant points from those portions of the rubric. Make sure that your level isn't just the tutorial level!
 
 ### **Hints for Common Bugs**
 <details><summary markdown="span">Show hints</summary>
     
-* If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel.
-* If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/).
-* If you are having trouble with character knockback, [check out this thread](https://forums.unrealengine.com/t/character-knockback/300225/3).
+* If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel
+* If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/)
+* If you are having trouble with character knockback, [check out this thread](https://forums.unrealengine.com/t/character-knockback/300225/3)
+* If you are having trouble with importing your own character and animations into UE5, [check out this tutorial](https://youtu.be/PyXeB1QtC0A?si=9W59r_W1Gn40cJfo)
     
 </details>
 
