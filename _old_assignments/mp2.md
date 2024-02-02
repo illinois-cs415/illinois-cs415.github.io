@@ -47,7 +47,7 @@ rubric:
 # MP 2: Level Design
 MP2 is all about level design and all the important factors that go into it. In this MP we will touch on player abilities, level layouts, and enemy AI. The objective of this assignment is to allow students to design and create their own 3D platformer level. You will be provided with a player character, and you will need to place assets, add mechanics, and create enemies for the player character to interact with.
 
-**This MP is split into two parts**: Part 1 covers creating the map, health system, collectibles, and Pursuer enemy type. Part 2 covers creating the Mortar and a custom enemies, as well as adding enemy destructions and player knockbacks upon collisions.
+**This MP is split into two parts**: Part 1 covers creating the map, health system, collectibles, and Pursuer enemy type. Part 2 covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
 
 **Please pay close attention to the guidelines about recording the video for submission:
 [Video Guidelines Link](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing)<br/>
