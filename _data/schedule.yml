@@ -42,7 +42,6 @@
 - 
   date: "Week 3: Feb 1"
   materials: "Rendering: Rendering Pipeline [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-RenderingPipeline.pdf) [Video](https://classtranscribe.illinois.edu/video?id=11cfb825-9815-4ba3-92c9-4ab0880eb32d&from=sharedlink)<br/>
-              Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
               **PrairieLearn HW 1 Assigned [Link](https://us.prairielearn.com/pl/course_instance/148981/assessment/2390706)**"
   title: "Rendering"
 -
@@ -51,7 +50,9 @@
   title: "VR/XR"
 - 
   date: "Week 4: Feb 6"
-  materials: ""
+  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
+               Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
+               Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>"
   title: "Rendering"
 -
   date: "Week 4: Feb 8"
