@@ -48,7 +48,10 @@ rubric:
 # MP 2: Level Design
 MP2 is all about level design and all the important factors that go into it. In this MP we will touch on player abilities, level layouts, and enemy AI. The objective of this assignment is to allow students to design and create their own 3D platformer level. You will be provided with a player character, and you will need to place assets, add mechanics, and create enemies for the player character to interact with.
 
-**This MP is split into two parts**: Part 1 covers creating the map, health system, collectibles, and Pursuer enemy type. Part 2 covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
+**This MP is split into two parts**: Part 1 covers creating the map, health system, collectibles, and Pursuer enemy type.
+**It is due Feb. 14 at 5pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
+Part 2 covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
+**It is due Feb. 24 at 5pm. It will be graded according to the MP rubric with partial credit.** 
 
 **Please pay close attention to the guidelines about recording the video for submission:
 [Video Guidelines Link](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing)<br/>
@@ -59,8 +62,7 @@ To start, you should get familiar with the basics of how the level editor works 
 
 **Please read through the entire assignment spec before starting to get a better understanding of all the requirements.**
 
-## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy
-
+## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy (Due Feb. 14)
 ### Step 1: Setup the Map and Player Character
 To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. You will find that the basic player controller along with a large number of assets you may want to use are already included and preset in the kit. Construct a new platform level. Leave the map relatively blank for now, as you will gradually add components later on.
 
@@ -83,7 +85,7 @@ The Pursuer should:
 -	Run at the player when the player is at a moderate distance within the line of sight of the Purser
 -	Return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
 
-<details><summary markdown="span">Here is a tutorial to help get you started on the Pursuer enemy type:</summary>
+<details><summary markdown="span">Click the arrow to see a tutorial to help get you started on the Pursuer enemy type:</summary>
     
 *NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the chaser. Use intuition, creativity, and other online tutorials to aid in completing all the requirements!*
 
@@ -222,7 +224,7 @@ In addition to the instructions above, the following set of tutorials may be hel
     
 </details>
 
-## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level
+## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level (Due Feb. 24)
 
 ### Step 1: Create a Mortar enemy
 The Mortar should:
@@ -261,7 +263,7 @@ Your final level should:
 As far as environmental and visual assets go, you may use any of the provided, built-in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project. **The level layout, enemies, and collectibles portions of the rubric are all a part of the level design. Your level should be somewhat challenging, the player should have to interact with enemies, and there should be some exploring required to find the collectibles.** If any of these things aren't the case, you'll lose significant points from those portions of the rubric. Make sure that your level isn't just the tutorial level!
 
 ### **Hints for Common Bugs**
-<details><summary markdown="span">Show hints</summary>
+<details><summary markdown="span">Click the arrow to see hints</summary>
     
 * If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel
 * If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/)
@@ -271,4 +273,9 @@ As far as environmental and visual assets go, you may use any of the provided, b
 </details>
 
 # Additional Submission Instructions
-In addition to the usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the level design process and how your level design had to accommodate the new mechanic and enemy you created. For example, you could talk about why you placed your custom enemy or collectibles in certain parts of the level. Please also record your video according to [this guideline](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).
+## For Part 1
+Submit a demo video and link to repo/ drive folder containing your code. **
+
+## For Part 2 
+Submit a demo video and link to repo/ drive folder containing your code.
+In addition, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the level design process and how your level design had to accommodate the new mechanic and enemy you created. For example, you could talk about why you placed your custom enemy or collectibles in certain parts of the level. Please also record your video according to [this guideline](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).
