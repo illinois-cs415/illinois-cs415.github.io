@@ -56,7 +56,11 @@
   title: "Rendering"
 -
   date: "Week 4: Feb 8"
-  materials: ""
+  materials: "Rendering: LOD the Math [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LODQEM.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4975fca7-4a44-42fc-a4a3-c29c471c8cfa&from=sharedlink)<br/>
+              <br/>
+              **Optional Reading and Viewing**<br/>
+              SIGGRAPH 2021: A Deep Dive into Nanite Slides [PDF](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)<br/>
+              SIGGRAPH 2021 Talk by Epic Engineer Brian Kariss [YouTube](https://youtu.be/eviSykqSUUw?si=itB6ry5OjlipMcPG)"
   title: "Rendering" 
 -
   date: "Week 5: Feb 13"
