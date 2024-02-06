@@ -2,7 +2,8 @@
 layout: assignment
 title: "Level Design"
 index: 10
-due: "Oct 6, 2023 @ 11:59 PM"
+due: "Part 1: Feb 14, 2023 @  5PM<br/>
+      Part 2: Feb 24, 2023 @  5PM"
 material: ~
 points: 100
 rubric:
