@@ -48,10 +48,12 @@ rubric:
 # MP 2: Level Design
 MP2 is all about level design and all the important factors that go into it. In this MP we will touch on player abilities, level layouts, and enemy AI. The objective of this assignment is to allow students to design and create their own 3D platformer level. You will be provided with a player character, and you will need to place assets, add mechanics, and create enemies for the player character to interact with.
 
-**This MP is split into two parts**: Part 1 covers creating the map, health system, collectibles, and Pursuer enemy type.
+**This MP is split into two parts**:<br/><br/>
+
+**Part 1** covers creating the map, health system, collectibles, and Pursuer enemy type.
 **It is due Feb. 14 at 5pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
 <br/><br/>
-Part 2 covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
+**Part 2** covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
 **It is due Feb. 24 at 5pm. It will be graded according to the MP rubric with partial credit.** 
 <br/><br/>
 **Please pay close attention to the guidelines about recording the video for submission:
@@ -85,8 +87,8 @@ The Pursuer should:
 -	Follow a patrol path between random locations around the starting point
 -	Run at the player when the player is at a moderate distance within the line of sight of the Purser
 -	Return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
-<!--
-<details><summary markdown="span">Click the arrow to see a tutorial to help get you started on the Pursuer enemy type:</summary>-->
+
+## Tutorial to help get you started on the Pursuer enemy type:
     
 *NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the chaser. Use intuition, creativity, and other online tutorials to aid in completing all the requirements!*
 
@@ -222,8 +224,6 @@ In addition to the instructions above, the following set of tutorials may be hel
 * [Using AI in Unreal](https://docs.google.com/presentation/d/1tsbdJHC0r5w-sF30vuK8PuOIJsRZvvv3xJhFrFzT600/edit?usp=sharing)
 
 **End of Pursuer tutorial.**
-    
-</details>
 
 ## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level (Due Feb. 24)
 
@@ -264,14 +264,12 @@ Your final level should:
 As far as environmental and visual assets go, you may use any of the provided, built-in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project. **The level layout, enemies, and collectibles portions of the rubric are all a part of the level design. Your level should be somewhat challenging, the player should have to interact with enemies, and there should be some exploring required to find the collectibles.** If any of these things aren't the case, you'll lose significant points from those portions of the rubric. Make sure that your level isn't just the tutorial level!
 
 ### **Hints for Common Bugs**
-<details><summary markdown="span">Click the arrow to see hints</summary>
-    
+
 * If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel
 * If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/)
 * If you are having trouble with character knockback, [check out this thread](https://forums.unrealengine.com/t/character-knockback/300225/3)
 * If you are having trouble with importing your own character and animations into UE5, [check out this tutorial](https://youtu.be/PyXeB1QtC0A?si=9W59r_W1Gn40cJfo)
     
-</details>
 
 # Additional Submission Instructions
 ## For Part 1
