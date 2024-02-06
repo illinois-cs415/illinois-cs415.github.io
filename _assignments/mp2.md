@@ -150,7 +150,7 @@ Call the custom Roam event from Event BeginPlay.
 
 Return to the level map window. From the Content Drawer, drag and drop 'BP_Pursuer' into the level map. Then, navigate to the + icon on the top left and select Volumes > NavMeshBoundsVolume.
 
-<img src="../img/assignments/mp2/pursuer tutorial/pursuer%20tutorial/step5a.png" alt="drawing" width="800"/>
+<img src="../img/assignments/mp2/pursuer tutorial/step5a.png" alt="drawing" width="800"/>
 
 A Nav Mesh indicates the area where AIs can be activated, so make sure the Nav Mesh is large enough to encapsulate the area you want the enemies to move around in. To visualize the navigable area inside of the NavMeshBoundsVolume, press "P" on your keyboard. This will highlight all surfaces that the AI character can be navigated to in green.
 
