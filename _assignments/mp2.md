@@ -97,7 +97,7 @@ The Pursuer should:
 
 In the Content Drawer (Bottom left), click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name 'Pursuer_AIController'. 
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
+<img src="/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
 
 ### **Step 2: Create the AI Character**
 *Both the player characters and the AI character use the 'Character' blueprint. As explained above, the main difference is that it will be controlled by the 'AI Controller'. This 'Character' blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
@@ -273,8 +273,8 @@ As far as environmental and visual assets go, you may use any of the provided, b
 
 # Additional Submission Instructions
 ## For Part 1
-Submit a demo video and link to repo/ drive folder containing your code. **
+**Just submit a demo video and link to repo/ drive folder containing your code.**
 
 ## For Part 2 
-Submit a demo video and link to repo/ drive folder containing your code.
+Submit a demo video and link to repo/ drive folder containing your code.<br/><br/>
 In addition, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the level design process and how your level design had to accommodate the new mechanic and enemy you created. For example, you could talk about why you placed your custom enemy or collectibles in certain parts of the level. Please also record your video according to [this guideline](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing).
