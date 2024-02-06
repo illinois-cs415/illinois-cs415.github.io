@@ -97,7 +97,7 @@ The Pursuer should:
 
 In the Content Drawer (Bottom left), click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name 'Pursuer_AIController'. 
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/98f4b0468e26149e724f5a34430bf720f6d3f782/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
+<img src="../img/assignments/mp2/pursuer tutorial/step2b.png" alt="drawing" width="800"/>
 
 ### **Step 2: Create the AI Character**
 *Both the player characters and the AI character use the 'Character' blueprint. As explained above, the main difference is that it will be controlled by the 'AI Controller'. This 'Character' blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
