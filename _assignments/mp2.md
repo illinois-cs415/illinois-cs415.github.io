@@ -97,7 +97,7 @@ The Pursuer should:
 
 In the Content Drawer (Bottom left), click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name 'Pursuer_AIController'. 
 
-<img src="https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
+<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/98f4b0468e26149e724f5a34430bf720f6d3f782/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
 
 ### **Step 2: Create the AI Character**
 *Both the player characters and the AI character use the 'Character' blueprint. As explained above, the main difference is that it will be controlled by the 'AI Controller'. This 'Character' blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
@@ -106,15 +106,13 @@ In the Content Drawer, go to Add > Blueprint Class > Character and save the AI c
 * Skeletal Mesh: SK_EpicCharacter
 * Anim Class: EpicCharacter_AnimBP_C
 
-<img src="https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/assignments/mp2/pursuer%20tutorial
-/step2.png" alt="drawing" width="400"/>
+<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/98f4b0468e26149e724f5a34430bf720f6d3f782/img/assignments/mp2/pursuer%20tutorial/step2.png" alt="drawing" width="400"/>
 
 This can be changed later to whatever mesh/animations you like later!
 
 Add a "CapsuleComponent" in the Components panel (top left). By default, the mesh will not be inside of the capsule. Adjust the Z position and scale of the character mesh so that it fits right within the borders of the capsule. This can be done using the arrow gizmos (the 3 red, blue, and green perpendicular arrows) or adjusting the transform values in the details panel (right)  to roughly -80 for Z position and 0.85 for scale.
 
-<img src="https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/assignments/mp2/pursuer%20tutorial
-/step2b.png" alt="drawing" width="200"/>
+<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/98f4b0468e26149e724f5a34430bf720f6d3f782/img/assignments/mp2/pursuer%20tutorial/step2b.png" alt="drawing" width="200"/>
 
 Finally, select "AICharacter (self)" on the Components panel (left), then in the Details panel (right) set its "AI Controller Class" to the AI controller ('Pursuer_AIController') you created in step 1.
 
