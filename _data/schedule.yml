@@ -50,13 +50,14 @@
   title: "VR/XR"
 - 
   date: "Week 4: Feb 6"
-  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
-               Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
-               Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>"
+  materials: " Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
+               Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>
+               Lecture [Video](https://mediaspace.illinois.edu/media/t/1_c2pcxu9m)"
   title: "Rendering"
 -
   date: "Week 4: Feb 8"
   materials: "Rendering: LOD the Math [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LODQEM.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4975fca7-4a44-42fc-a4a3-c29c471c8cfa&from=sharedlink)<br/>
+              Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
               <br/>
               **Optional Reading and Viewing**<br/>
               SIGGRAPH 2021: A Deep Dive into Nanite Slides [PDF](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)<br/>
