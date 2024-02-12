@@ -71,12 +71,8 @@
   title: "Game Design"
 -
   date: "Week 5: Feb 15"
-  materials: "Rasterization [2022 Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
-              Nanite Rasterization [Video](https://classtranscribe.illinois.edu/video?id=ad3810ad-af3b-4e57-9f4c-3582a1901a00&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
-              <br/> <br/>
-               **Optional Reading**<br/>
-               Real-Time Rendering Chapter 23 [PDF](https://drive.google.com/file/d/1rqzUDmTSvfhJFhAfYvcwifew7ApHp5ve/view?usp=sharing)"
-  title: "Rendering"
+  materials: ""
+  title: "Game AI"
 - 
   date: "Week 5: 4 Credit Section"
   materials: "Intro to VR [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/b98e7175dd01989d9fd221e8dd18ed4a926a1462/img/slides/415-VR-Intro.pdf) [Video](https://classtranscribe.illinois.edu/video?id=3f8213d0-487a-4414-99f7-ebafca954453&from=sharedlink)<br/><br/>
@@ -88,11 +84,15 @@
 -
   date: "Week 6: Feb 20"
   materials: ""
-  title: "Geometric Modeling"
+  title: "Game AI"
 - 
   date: "Week 6: Feb 22"
-  materials: ""
-  title: "Game AI"
+  materials: "Rasterization [2022 Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
+              Nanite Rasterization [Video](https://classtranscribe.illinois.edu/video?id=ad3810ad-af3b-4e57-9f4c-3582a1901a00&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
+              <br/> <br/>
+               **Optional Reading**<br/>
+               Real-Time Rendering Chapter 23 [PDF](https://drive.google.com/file/d/1rqzUDmTSvfhJFhAfYvcwifew7ApHp5ve/view?usp=sharing)"
+  title: "Rendering"
 - 
   date: "Week 7: Feb 27"
   materials: ""
