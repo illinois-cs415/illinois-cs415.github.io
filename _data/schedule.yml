@@ -44,10 +44,6 @@
   materials: "Rendering: Rendering Pipeline [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-RenderingPipeline.pdf) [Video](https://classtranscribe.illinois.edu/video?id=11cfb825-9815-4ba3-92c9-4ab0880eb32d&from=sharedlink)<br/>
               **PrairieLearn HW 1 Assigned [Link](https://us.prairielearn.com/pl/course_instance/148981/assessment/2390706)**"
   title: "Rendering"
--
-  date: "Week 4: 4 Credit Section"
-  materials: ""
-  title: "VR/XR"
 - 
   date: "Week 4: Feb 6"
   materials: " Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
@@ -75,11 +71,15 @@
   title: "Game Design"
 -
   date: "Week 5: Feb 15"
-  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>"
-  title: "Animation: Transformations"
+  materials: ""
+  title: ""
 - 
   date: "Week 5: 4 Credit Section"
-  materials: "Intro to VR [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/b98e7175dd01989d9fd221e8dd18ed4a926a1462/img/slides/415-VR-Intro.pdf) [Video](https://classtranscribe.illinois.edu/video?id=3f8213d0-487a-4414-99f7-ebafca954453&from=sharedlink)"
+  materials: "Intro to VR [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/b98e7175dd01989d9fd221e8dd18ed4a926a1462/img/slides/415-VR-Intro.pdf) [Video](https://classtranscribe.illinois.edu/video?id=3f8213d0-487a-4414-99f7-ebafca954453&from=sharedlink)<br/>
+              **Guest Lectures by Professor Luciano Soares**<br/>
+              HMDs [Video](https://classtranscribe.illinois.edu/video?id=408d2cf8-0132-4b70-8d07-d5b18d1471fe&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-02-HMDs.pdf)
+              Tracking [Video](https://mediaspace.illinois.edu/media/t/1_ea4z48rl) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-03-Tracking.pdf)<br/>
+              Development [Video](https://mediaspace.illinois.edu/media/t/1_qhlbq0aa) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-04-Development.pdf)"
   title: "VR/XR"
 -
   date: "Week 6: Feb 20"
