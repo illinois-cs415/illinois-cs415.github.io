@@ -57,7 +57,6 @@
 -
   date: "Week 4: Feb 8"
   materials: "Rendering: LOD the Math [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LODQEM.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4975fca7-4a44-42fc-a4a3-c29c471c8cfa&from=sharedlink)<br/>
-              Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
               <br/>
               **Optional Reading and Viewing**<br/>
               SIGGRAPH 2021: A Deep Dive into Nanite Slides [PDF](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)<br/>
@@ -65,12 +64,18 @@
   title: "Rendering" 
 -
   date: "Week 5: Feb 13"
-  materials: ""
+  materials: "Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
+              Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)<br/>
+              Stardew Valley [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-StardewValley.pdf)<br/><br/>
+              Rules of the Game:<br/> Five Techniques from Quite Inventive Designers (2016) [YouTube](https://youtu.be/d8QAVGeEj-U?si=Fk8f2ovx1zX7_cEQ)<br/>
+              Designing Games for Game Designers (2012) [YouTube](https://youtu.be/ke_kOD2D-bs?si=FazHhxS2jCf3Q6LL)<br/><br/>
+              **Optional Reading:**<br/>
+              Blood, Sweat, and Pixels [Amazon Link](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)"
   title: "Game Design"
 -
   date: "Week 5: Feb 15"
-  materials: ""
-  title: "Game Design"
+  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>"
+  title: "Animation: Transformations"
 - 
   date: "Week 5: 4 Credit Section"
   materials: ""
