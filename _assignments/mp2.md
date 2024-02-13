@@ -3,7 +3,7 @@ layout: assignment
 title: "Level Design"
 index: 10
 due: "<br/>
-      Part 1: Feb 14, 2023 @  5PM<br/>
+      Part 1: Feb 15, 2023 @  5PM<br/>
       Part 2: Feb 24, 2023 @  5PM"
 material: ~
 points: 100
@@ -52,7 +52,7 @@ MP2 is all about level design and all the important factors that go into it. In 
 **This MP is split into two parts**:<br/><br/>
 
 **Part 1** covers creating the map, health system, collectibles, and Pursuer enemy type.
-**It is due Feb. 14 at 5pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
+**It is due Feb. 15 at 5pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
 <br/><br/>
 **Part 2** covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
 **It is due Feb. 24 at 5pm. It will be graded according to the MP rubric with partial credit.** 
