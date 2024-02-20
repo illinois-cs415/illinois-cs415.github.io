@@ -18,15 +18,15 @@ rubric:
     name: Alpha
     points: 30
     description: The alpha should be a version of your game with at least the core gameplay completed and playable.
-    -
+-
     name: Final Submission
     points: 40
     description: A version of your game with at least all the high priority features done and in a fully playable state.
-    -
+-
     name: Peer Evaluation
     points: 10
     description: You need to submit peer evaluations of your teammates. In addition, if you do not actively and equitably participate in the project work your total project grade will be significantly reduced.
-     -
+-
     name: Demonstration
     points: 5
     description: Perform an in-person demonstration of your project.
