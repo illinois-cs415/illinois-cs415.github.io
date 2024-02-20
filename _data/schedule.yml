@@ -94,8 +94,13 @@
   title: "VR/XR"
 -
   date: "Week 6: Feb 20"
-  materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)"
-  title: "Rendering"
+  materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
+              AI: Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/><br/>
+             **Optional Reading:**<br/>
+              AI for Games 3rd Edition by Ian Millington Chapter 6<br/>
+              [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955033014505899)<br/>""
+  title: "Rendering<br/>
+          Game AI"
 - 
   date: "Week 6: Feb 22"
   materials: "Rasterization [2022 Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
