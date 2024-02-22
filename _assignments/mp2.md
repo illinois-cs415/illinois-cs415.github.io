@@ -4,7 +4,7 @@ title: "Level Design"
 index: 10
 due: "<br/>
       Part 1: Feb 15, 2023 @  5PM<br/>
-      Part 2: Feb 24, 2023 @  5PM"
+      Part 2: Feb 27, 2023 @  5PM"
 material: ~
 points: 100
 rubric:
