@@ -95,10 +95,8 @@
 -
   date: "Week 6: Feb 20"
   materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
-              AI: Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/><br/>
-             **Optional Reading:**<br/>
-              AI for Games 3rd Edition by Ian Millington Chapter 6<br/>
-              [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955033014505899)<br/>"
+              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_cu95lpof) <br/>
+              "
   title: "Rendering<br/>
           Game AI"
 - 
@@ -111,7 +109,10 @@
   title: "Rendering"
 - 
   date: "Week 7: Feb 27"
-  materials: ""
+  materials: "AI: Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/><br/>
+             **Optional Reading:**<br/>
+              AI for Games 3rd Edition by Ian Millington Chapter 6<br/>
+              [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955033014505899)<br/>"
   title: "Game AI"
 - 
   date: "Week 7: Feb 29"
