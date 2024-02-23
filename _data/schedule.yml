@@ -90,9 +90,14 @@
               **Guest Lectures by Professor Luciano Soares**<br/><br/>
               HMDs [Video](https://classtranscribe.illinois.edu/video?id=408d2cf8-0132-4b70-8d07-d5b18d1471fe&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-02-HMDs.pdf)<br/>
               Tracking [Video](https://mediaspace.illinois.edu/media/t/1_ea4z48rl) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-03-Tracking.pdf)<br/>
-              Development [Video](https://mediaspace.illinois.edu/media/t/1_qhlbq0aa) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-04-Development.pdf)"
+              Development [Video](https://mediaspace.illinois.edu/media/t/1_qhlbq0aa) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/CS415VR-04-Development.pdf)<br/><br/>
+              **Reading**<br/>
+              From the book Virtual Reality by Steve LaValle<br/>
+              Chapter 1: Introduction [pdf](https://lavalle.pl/vr/vrch1.pdf)<br/>
+              Chapter 2: Bird's Eye View [pdf](https://lavalle.pl/vr/vrch2.pdf)<br/>
+              Courtesy of Steve LaValle [https://lavalle.pl/vr/]"
   title: "VR/XR"
--
+- 
   date: "Week 6: Feb 20"
   materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
               Lecture [Video](https://mediaspace.illinois.edu/media/t/1_cu95lpof) <br/>
