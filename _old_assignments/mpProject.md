@@ -98,7 +98,7 @@ To reiterate, submission requirements for the Mid-Project milestone:
 
 
 ## Alpha (30 points)
-**Due date: April 17 11:59 PM **
+**Due date: April 17 11:59 PM**
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
 
@@ -116,7 +116,7 @@ To reiterate, submission requirements for the Alpha milestone:
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
 
-Each team member must individually fill out the final peer evaluation form, found [LINK RELEAESD NOV 28](). The form will be due on May 1 by 11:59 PM CT. 
+**Each team member must individually fill out the final peer evaluation form. The form will be due on May 1 by 11:59 PM CT.** 
 
 Make sure to look over the detailed rubric, which has been linked on this page, before turning in your final submission. 
 
