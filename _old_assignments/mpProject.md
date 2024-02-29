@@ -51,7 +51,7 @@ You can find all document templates needed for the project at the [Course Google
 The final project is worth a total of **100 points**. Please see the [detailed rubric](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a better understanding of which portion of these points is graded *per group* and which portion is an *individual score*. The final submission section is subject to course staff discretion based on peer evaluation results. 
 
 ## Discovery (10 of points)
-**Due date: 11:59 PM March 7**
+**Due date: 11:59 PM March 8**
 
 This is the first project milestone. You will submit completed versions of the project documents in the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing).
 
@@ -75,16 +75,16 @@ To reiterate, submission requirements for the Discovery milestone:
 
 
 ## Mid-Project Meeting (10 points)
-**Due date: 11:59 PM March 22**
-Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. Groups will be graded on:
+**Due date: by 11:59 PM March 22**
+Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. **The meeting is expected to last up to 30 minutes and happen the week of March 18-22.** It can be in person or on Zoom.  Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
-2. **Feedback.** For the meeting, groups should take into consideration feedback given for their Discovery grade. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design. 
+2. **Feedback.** For the meeting, groups should take into consideration feedback given for their Discovery grade. Groups should have updated their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design. **You do not have to have completed any coding yet. But we would urge you to have started.**
 
 **Week of meetings: March 18 - March 22**
 
 To reiterate, submission requirements for the Mid-Project milestone: 
-* Schedule a Mid-Project meeting with the course staff to receive initial feedback. 
+* Schedule a Mid-Project meeting with the course staff to discuss initial feedback. 
 * Any project code through a repository or drive/box link
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
