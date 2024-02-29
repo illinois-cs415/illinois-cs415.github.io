@@ -22,11 +22,6 @@ rubric:
     description: Zoom or in-person meeting with project mentor to answer question and describe progress since design submission.
     details: Attendance = 8 points; Some progress since discovery = 2 points; Graded per team. 
   - 
-    name: Alpha peer evaluation form
-    points: 2
-    description: Graded for completion. 
-    details: Graded individually. 
-  - 
     name: Alpha
     points: 30
     description: The Alpha should be a version of your game with at least the core gameplay completed and playable.
@@ -38,7 +33,7 @@ rubric:
     details: Demo video submission = 2 points; Code submission = 1 point; Updated documents submission = 1 point; Updated collaboration plan = 1 point; Functioning game = 5 points; High priority features implementation = 15 points; Low priority features implementation = 5 points; Visual elements = 10 points; Audio elements = 5 points. Graded individually, depends on peer evaluation. 
   - 
     name: Final peer evaluation form
-    points: 2
+    points: 5
     description: Graded for completion. 
     details: Graded individually. 
 ---
@@ -47,7 +42,7 @@ rubric:
 
 
 # Final Project
-Your task is to as a team create a video game. Your grade for this project is made up of three major deliverables and team meetings with your assigned project mentor every two weeks. The details, dates, and list of documents to be turned in for each are below.
+Your task is to as a team create a video game. Your grade for this project is made up of three major deliverables. The details, dates, and list of documents to be turned in for each are below.
 
 
 You can find all document templates needed for the project at the [Course Google Drive folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing)
