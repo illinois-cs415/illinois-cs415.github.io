@@ -6,11 +6,7 @@ due: "May 1, 2024 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
-  -
-    name: Initial Check-in
-    points: 1
-    description: A short description/summary of your project, a high level vision canvas, and a technical design document.
-    details: Graded individually. 
+  
   -
     name: Discovery
     points: 10
@@ -93,9 +89,17 @@ To reiterate, submission requirements for the Mid-Project milestone:
 
 
 ## Alpha (30 points)
-**Due date: April 17 11:59 PM**
+**Due date: April 19 11:59 PM**
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
+
+**The meeting is expected to last up to 30 minutes and happen the week of April 18-22.** It can be in person or on Zoom.  Groups will be graded on:
+
+1. **Attendance.** A majority of group members must attend.
+2. **Game Demo.** For the meeting, groups should be able to demo a substantially complete game.
+3. **Updated Project Documents** Any changes to the game should result in updated discovery documents.
+
+**Week of meetings: April 15 - March 19**
 
 To reiterate, submission requirements for the Alpha milestone: 
 * **Schedule an Alpha milestone meeting with the course staff to live demo your progress and receive feedback.** 
@@ -111,7 +115,7 @@ To reiterate, submission requirements for the Alpha milestone:
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
 
-**Each team member must individually fill out the final peer evaluation form. The form will be due on May 1 by 11:59 PM CT.** 
+**Each team member must individually fill out the final peer evaluation form. The form will be published on CampusWire and due on May 1 by 11:59 PM CT.** 
 
 Make sure to look over the detailed rubric, which has been linked on this page, before turning in your final submission. 
 
