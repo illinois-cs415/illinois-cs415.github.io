@@ -6,7 +6,11 @@ due: "May 1, 2024 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
-  
+  -
+    name: Individual Check-in
+    points: 2
+    description: You must respond to the initial contact email from your project mentor before the Discovery documents are due
+    details: 2 points for completion if individual has responded to the initial contact email on time
   -
     name: Discovery
     points: 10
@@ -29,9 +33,9 @@ rubric:
     details: Demo video submission = 2 points; Code submission = 1 point; Updated documents submission = 1 point; Updated collaboration plan = 1 point; Functioning game = 5 points; High priority features implementation = 15 points; Low priority features implementation = 5 points; Visual elements = 10 points; Audio elements = 5 points. Graded individually, depends on peer evaluation. 
   - 
     name: Final peer evaluation form
-    points: 5
+    points: 3
     description: Graded for completion. 
-    details: Graded individually. 
+    details: Survey will be posted on CampusWire. Graded individually 
 ---
 
 ![Boss](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/dh.jpg){:width="1024px"}
@@ -45,6 +49,9 @@ You can find all document templates needed for the project at the [Course Google
 
 
 The final project is worth a total of **100 points**. Please see the [detailed rubric](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a better understanding of which portion of these points is graded *per group* and which portion is an *individual score*. The final submission section is subject to course staff discretion based on peer evaluation results. 
+
+## Initial Check-in (2 points)
+Each student will recive and e-mail from their project mentor and must respond before March 8.
 
 ## Discovery (10 of points)
 **Due date: 11:59 PM March 8**
@@ -115,7 +122,7 @@ To reiterate, submission requirements for the Alpha milestone:
 
 Your final project submission. A version of your game with at least all the high priority features done and in a fully playable state. The deliverables for your final submission are the code for the project and a video walking us through the work you have completed. You should also submit an updated version of your discovery documents with any changes you might have made since alpha.
 
-**Each team member must individually fill out the final peer evaluation form. The form will be published on CampusWire and due on May 1 by 11:59 PM CT.** 
+**The final submission game must have clear instructions for how to play the game...you will lose points for gameplay if you do not inlcude a screen or other mechanism telling people how to play**
 
 Make sure to look over the detailed rubric, which has been linked on this page, before turning in your final submission. 
 
@@ -126,7 +133,11 @@ To reiterate, submission requirements for the Final Submission milestone:
 * Updated project summary (if applicable based on Alpha milestone feedback) 
 * Updated vision canvas (if applicable based on Alpha milestone feedback) 
 * Updated technical design document (if applicable based on Alpha milestone feedback) 
-* Updated collaboration plan, including details on each team member's contribution so far. See template collaboration plan for more specifications. 
+* Updated collaboration plan, including details on each team member's contribution so far. See template collaboration plan for more specifications.
+
+## Peer Evaluation (3 points)
+**Due date: 11:59 PM May 1**
+**Each team member must individually fill out the final peer evaluation form. The form will be published on CampusWire and due on May 1 by 11:59 PM CT.** 
 
 
 **See [here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
