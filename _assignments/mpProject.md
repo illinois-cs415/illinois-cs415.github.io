@@ -100,13 +100,11 @@ To reiterate, submission requirements for the Mid-Project milestone:
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
 
-**The meeting is expected to last up to 30 minutes and happen the week of April 18-22.** It can be in person or on Zoom.  Groups will be graded on:
+**The meeting is expected to last up to 30 minutes and happen the week of April 15-19.** It can be in person or on Zoom.  Groups will be graded on:
 
 1. **Attendance.** A majority of group members must attend.
 2. **Game Demo.** For the meeting, groups should be able to demo a substantially complete game.
 3. **Updated Project Documents** Any changes to the game should result in updated discovery documents.
-
-**Week of meetings: April 15 - March 19**
 
 To reiterate, submission requirements for the Alpha milestone: 
 * **Schedule an Alpha milestone meeting with the course staff to live demo your progress and receive feedback.** 
