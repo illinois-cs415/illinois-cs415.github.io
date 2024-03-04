@@ -64,7 +64,9 @@ To start, you should get familiar with the basics of how the level editor works 
 
 ## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy (Due Feb. 14)
 ### Step 1: Setup the Map and Player Character
-To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. You will find that the basic player controller along with a large number of assets you may want to use are already included and preset in the kit. Construct a new platform level. Leave the map relatively blank for now, as you will gradually add components later on.
+To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. You will find that the basic player controller along with a large number of assets you may want to use are already included and preset in the kit. 
+
+Next, create a new map and construct your level layout. The map should involve some platform(s) suspended in the air, where players may fall off (you will need to implement a game over screen later if they do). You may either build the level from scratch or use the provided showcase map as a template and modify it to fit the complexity of your final game.
 
 The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
@@ -81,22 +83,31 @@ Next, you will need to place floating collectible items across the map to guide 
 
 ### Step 4: Create a Pursuer enemy
 The Pursuer should:
--	Follow a patrol path between random locations around the starting point
+-	Follow a patrol path between multiple locations on the map
 -	Run at the player when the player is at a moderate distance within the line of sight of the Purser
 -	Return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
 
 <details><summary markdown="span">Click the arrow to see a tutorial to help get you started on the Pursuer enemy type:</summary>
     
-*NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the chaser. Use intuition, creativity, and other online tutorials to aid in completing all the requirements!*
+***NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the Pursuer. Use intuition, creativity, and other online tutorials to aid in completing all the requirements!***
 
-### **Step 1: Create the AI Controller**
+### Step 1: Add a Nav Mesh
+In the level map window, navigate to the + icon on the top left and select Volumes > NavMeshBoundsVolume.
+
+<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5a.png" alt="drawing" width="800"/>
+
+The Nav Mesh indicates the area where AIs can be activated, so make sure the Nav Mesh is large enough to encapsulate the area you want the enemies to move around in. To visualize the navigable area inside of the NavMeshBoundsVolume, press "P" on your keyboard. This will highlight all surfaces that the AI character can be navigated to in green.
+
+<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5b.png" alt="drawing" width="600"/>
+
+### Step 2: Create the AI Controller
 *Unlike the player character that is controlled by an input device (i.e. keyboard and mouse, Xbox controller, etc.), the Pursuer will be controlled by an 'AI controller'. This allows us to specify in code how we wish the Pursuer to behave. To do this, we will create an 'AI Controller' object to control the actions of the Pursuer enemy.*
 
 In the Content Drawer (Bottom left), click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name 'Pursuer_AIController'. 
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
 
-### **Step 2: Create the AI Character**
+### Step 3: Create the Pursuer AI Character
 *Both the player characters and the AI character use the 'Character' blueprint. As explained above, the main difference is that it will be controlled by the 'AI Controller'. This 'Character' blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
 
 In the Content Drawer, go to Add > Blueprint Class > Character and save the AI character with the name 'BP_Pursuer'. Open its blueprint editor. Inside the "Components" panel (top left), select the "Mesh" component. For starters, set the following properties in the Details panel (right):
@@ -107,7 +118,7 @@ In the Content Drawer, go to Add > Blueprint Class > Character and save the AI c
 
 This can be changed later to whatever mesh/animations you like later!
 
-Add a "CapsuleComponent" in the Components panel (top left). By default, the mesh will not be inside of the capsule. Adjust the Z position and scale of the character mesh so that it fits right within the borders of the capsule. This can be done using the arrow gizmos (the 3 red, blue, and green perpendicular arrows) or adjusting the transform values in the details panel (right)  to roughly -80 for Z position and 0.85 for scale.
+Add a "CapsuleComponent" in the Components panel (top left). By default, the mesh will not be inside of the capsule. Adjust the Z position and scale of the components so that the character mesh fits right within the borders of the capsule. This can be done using the arrow gizmos (the 3 red, blue, and green perpendicular arrows) or adjusting the transform values in the details panel (right). In addition, adjust the rotation of the character mesh so that it faces the direction of the light blue arrow (which specifies the movement direction) pointing out of the middle of the capsule.
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2b.png" alt="drawing" width="200"/>
 
@@ -115,19 +126,16 @@ Finally, select "AICharacter (self)" on the Components panel (left), then in the
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2c.png" alt="drawing" width="400"/>
 
-### **Step 3: Add Pawn Sensing**
-*For the Pursuer to start chasing the player when it is nearby, we will add Pawn Sensing to the enemy so that it can sense the location of the player.*
+Return to the level map window. From the Content Drawer, drag and drop 'BP_Pursuer' into the viewport to add it to your level.
 
-Remaining in the 'BP_Pursuer' blueprint, select Add > PawnSensing in the Components tab on the top left. See below for how the component hierarchy should look in 'BP_Pursuer' after this step.
-
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step3.png" alt="drawing" width="400"/>
-
-### **Step 4: Add random movement to the AI Character**
+### Step 4: Add random movement to the AI Character
 *Now we will add the code into our Pursuers blueprint to move. This will create the behavior of continuously roaming the map.*
+
+**Note: The Roam event was created to show how to move the AI Character. You will need to modify this and make a Patrol event for the final product.**
 
 In the Event Graph of 'BP_Pursuer', add a custom event titled 'Roam' and use the "AI MoveTo" method to move the character to a random location. 
 
-To create a custom event, right-click on the event graph, search and select "Add Custom Event" in the pop-up tab and name the event "Roam". This custom event will be called within the BP_Pursuer event graph whenever we want the Pursuer to roam.
+In the Event Graph of 'BP_Pursuer', right-click and search for "Add Custom Event" in the pop-up tab. Name the new custom event "Roam". We can call this custom event within the BP_Pursuer event graph whenever we want the Pursuer to roam.
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step4a.png" alt="drawing" width="400"/>
 
@@ -137,24 +145,11 @@ Since we want the AI Character to keep roaming, add a slight delay after the cus
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step4b.png" alt="drawing" width="800"/>
 
-Call the custom Roam event from Event BeginPlay. 
+Call the custom Roam event from Event BeginPlay. Compile the file and play your game to test.
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step4c.png" alt="drawing" width="400"/>
 
-### **Step 5: Add the Nav Mesh**
-*The pursuer needs to know what places in the level it can and cannot walk on. To do this, we define the area our AI Character can roam in by adding a navigation mesh bounds volume to the level.*
-
-Return to the level map window. From the Content Drawer, drag and drop 'BP_Pursuer' into the level map. Then, navigate to the + icon on the top left and select Volumes > NavMeshBoundsVolume.
-
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5a.png" alt="drawing" width="800"/>
-
-A Nav Mesh indicates the area where AIs can be activated, so make sure the Nav Mesh is large enough to encapsulate the area you want the enemies to move around in. To visualize the navigable area inside of the NavMeshBoundsVolume, press "P" on your keyboard. This will highlight all surfaces that the AI character can be navigated to in green.
-
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5b.png" alt="drawing" width="600"/>
-
-### **Step 6: Create a Chase Player Event**
-*We will use the same logic from “Roam” to initiate a "Chase Player" event.*
-
+### Step 5: Create a Chase Player Event
 Create a new custom event titled "Chase Player".
 
 From the Chase Player event, add an "AI MoveTo" block and set the Target Actor to the Player Character. Like in the Roam event, add a "Delay" block from "On Success" and call "Chase Player" again after the delay has completed. 
@@ -163,10 +158,8 @@ From the Chase Player event, add an "AI MoveTo" block and set the Target Actor t
 
 To test, replace "Roam" in "Event Begin Play" with "Chase Player", compile the file, and run the game.
 
-### **(OPTIONAL) Step 7: Add Enemy Functionality Upon Chase Event**
-*We will show you how to cause the enemy to blow up with a sound and particle effect upon collision with the player character.*
-
-Break the link between "AI MoveTo" and "Delay". Insert a "Spawn Emitter at Location" block on success of the "AI MoveTo". Next, connect a "Play Sound at Location" block and a "Destroy Actor" block. 
+### (OPTIONAL) Step 6: Add Sound and Visual Effects Upon Successful Chase Event
+Break the link between "AI MoveTo" and "Delay". Insert a "Spawn Emitter at Location" block On Success of the "AI MoveTo". Next, connect a "Play Sound at Location" block and a "Destroy Actor" block. 
 
 Connect "Get Actor Location" to the "Location" node for both "Spawn Emitter at Location" and "Play Sound at Location".
 
@@ -174,7 +167,7 @@ You will need to add particle effects and sounds to your project. Select your de
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step7.png" alt="drawing" width="800"/>
 
-### **(OPTIONAL) Step 8: Apply Damage**
+### (OPTIONAL) Step 7: Apply Damage
 Insert an "Apply Damage" block between the "AI MoveTo" and "Spawn Emitter at Location" blocks.
 
 Set the "Damaged Actor" node to "Get Player Character". Play around with the different damage parameters to get your desired effect.
@@ -183,14 +176,14 @@ Set the "Damaged Actor" node to "Get Player Character". Play around with the dif
 
 [Check out this tutorial on how to use the damage system/events](https://www.youtube.com/watch?v=vO1i9Wcx4Xc)
 
-### **Step 9: Create an Enumerator Class**
-*We can create an enumerator class to help us control the behaviors of our AI Character.*
+### Step 8: Create an Enumerator Class
+*We can create an enumerator class to help us keep track of the state of the Pursuer. Note that updating the value of AI State only changes the variable value. To make the character actions update, you will still need to call the event.*
 
 In the Content Drawer, within the AI folder, create a Blueprint Enumeration class. This class will define what state our AI is in (ChasePlayer or Roam). Name this class "EAIState".
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step9a.png" alt="drawing" width="400"/>
 
-Add three enumerators: 'Default', 'Roam', and 'Chase Player'. 
+Add two enumerators: 'Roam' and 'Chase Player'. 
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step9b.png" alt="drawing" width="600"/>
 
@@ -208,10 +201,17 @@ In the viewport, click on your AI Character and specify the default "AIState" as
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step9e.png" alt="drawing" width="800"/>
 
-#### Note on Behavior Trees
-Alternatively, students may implement the AI Character using Behavior Trees in Unreal. There are many resources available online for how to use Behavior Trees. And here are a few slides on [Using AI in Unreal](https://docs.google.com/presentation/d/1tsbdJHC0r5w-sF30vuK8PuOIJsRZvvv3xJhFrFzT600/edit?usp=sharing). However, this feature is more high-level and may be tougher to debug, so if you feel more comfortable working with blueprints, we recommend simply calling the Roam and Chase events from within the Pursuer blueprint.
+### Step 9: Add Pawn Sensing
+In the 'BP_Pursuer' blueprint, select Add > PawnSensing in the Components tab on the top left. See below for how the component hierarchy should look in 'BP_Pursuer' after this step.
 
-### **Additional Resources**
+<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step3.png" alt="drawing" width="400"/>
+
+Pawn sensing allows the character to see and hear within a specified radius and angle. Look at the events that can be triggered with Pawn Sensing and see which one can be used to trigger a chase event when the Pursuer sees the player.
+
+### Note on Behavior Trees
+Alternatively, students may implement AI Characters using Behavior Trees in Unreal. There are many resources available online for how to use Behavior Trees. And here are a few slides on [Using AI in Unreal](https://docs.google.com/presentation/d/1tsbdJHC0r5w-sF30vuK8PuOIJsRZvvv3xJhFrFzT600/edit?usp=sharing). However, this feature is more high-level and may be tougher to debug, so if you feel more comfortable working with blueprints, we recommend simply calling the Roam and Chase events from within the Pursuer blueprint.
+
+### Additional Resources
 
 In addition to the instructions above, the following set of tutorials may be helpful to you: 
 * [Unreal Engine 4 - AI Roam](https://www.youtube.com/watch?v=eBjtKsgurLU) 
@@ -227,11 +227,13 @@ In addition to the instructions above, the following set of tutorials may be hel
 ## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level (Due Feb. 24)
 
 ### Step 1: Create a Mortar enemy
-The Mortar should:
--	Be an unmoving enemy placed on the ground
--	Randomly launch projectiles above and around it in an arc **affected by gravity**
--	The projectiles should cause a small explosion on collision with other objects
--	The explosions should knock back and reduce the player's health on collision (**the explosion does not need to have any other effect...e.g. it does not affect the terrain**)
+The Mortar should be a stationary enemy placed in the level. The Mortar will launch projectiles above and around it in random directions.
+
+The projectiles launched by the Mortar should:
+- be affected by gravity (have an arc shaped path)
+- collide with other objects in the level, including the player and ground
+- produce small explosions after any collision
+- knockback and reduce the player's health if the player is hit by the projectile or its explosion (hint: radial damage)
 
 ### Step 2: Create your own enemy
 Create an enemy of your own design. It should have a similar complexity to the other two enemies and also be distinct and take on a different role. Please discuss your design in your design document.
@@ -247,7 +249,7 @@ There will be two different types of collision behaviors:
 * Collision with any other part of the enemy
     * Reduce the player's health
     * Knock the player back a small but noticeable distance
-    * Remove player control for a short duration of time
+    * Remove player control (key inputs ignored) for a short duration of time
 
 ### Step 4: Putting It All Together
 The last step of the MP is to put it all together and make a platforming level. Your level should present some degree of challenge for the player and **take around 5 to 10 minutes to complete**. 
