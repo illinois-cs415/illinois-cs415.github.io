@@ -153,7 +153,6 @@
 - 
   date: "Week 10: March 19"
   materials: "**No Live Lecture**<br/><br/>
-      <br/><br/>
                Transformations [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-GeometricTransformations.pdf) <br/>
                [Video](https://mediaspace.illinois.edu/media/t/1_h2vec8c5)<br/><br/>
                **Optional Reading:**<br/>
@@ -170,12 +169,19 @@
   title: "Animation"
 - 
   date: "Week 11: April 2"
-  materials: ""
-  title: "Game AI"
+  materials: "Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
+              Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
+              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
+               **Optional Reading:**<br/>
+              <br/>
+              Game Physics Engine Development Chapters 2 to 4, 12<br/>
+              [PDF](http://www.r-5.org/files/books/computers/algo-list/realtime-3d/Ian_Millington-Game_Physics_Engine_Development-EN.pdf)
+  "
+  title: "Game Physics"
 - 
   date: "Week 11: April 4"
-  materials: ""
-  title: "Game AI"
+  materials: "Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>"
+  title: "Game Physics"
 - 
   date: "Week 12: April 9"
   materials: ""
