@@ -169,7 +169,9 @@
   title: "Animation"
 - 
   date: "Week 11: April 2"
-  materials: "Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
+  materials: "Lecture [Video](https://mediaspace.illinois.edu/media/t/1_01at4qr4)<br/>
+              GDC 2024 Talk Marvel Spider-Man 2 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/cb8a37c12757db0978013a5e50148ee9944d3965/img/slides/gdc2024.pdf)<br/>
+              Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
               Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
              
                **Optional Reading:**<br/>
