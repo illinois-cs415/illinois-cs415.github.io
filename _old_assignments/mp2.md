@@ -46,7 +46,7 @@ rubric:
 ---
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/platform.PNG){:width="800px"}
 # MP 2: Level Design
-MP2 is all about level design and all the important factors that go into it. In this MP we will touch on player abilities, level layouts, and enemy AI. The objective of this assignment is to allow students to design and create their own 3D platformer level. You will be provided with a player character, and you will need to place assets, add mechanics, and create enemies for the player character to interact with.
+MP2 is all about level design and all the important factors that go into it. In this MP we will touch on player abilities, level layouts, and enemy AIs. The objective of this assignment is to allow students to design and create their own 3D platformer level. You will be provided with a player character, and you will need to place assets, add mechanics, and create enemies for the player character to interact with.
 
 **This MP is split into two parts**: Part 1 covers creating the map, health system, collectibles, and Pursuer enemy type.
 **It is due Feb. 14 at 5pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
@@ -64,11 +64,9 @@ To start, you should get familiar with the basics of how the level editor works 
 
 ## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy (Due Feb. 14)
 ### Step 1: Setup the Map and Player Character
-To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. You will find that the basic player controller along with a large number of assets you may want to use are already included and preset in the kit. 
+To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. The kit contains a basic player character controller `BP_LearningKit_PlayerCharacter` along with a large number of assets you may want to use to construct your level. 
 
-Next, create a new map and construct your level layout. The map should involve some platform(s) suspended in the air, where players may fall off (you will need to implement a game over screen later if they do). You may either build the level from scratch or use the provided showcase map as a template and modify it to fit the complexity of your final game.
-
-The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
+Next, setup the map for your platformer level. You may either create a new blank map and build from scratch or use the provided showcase map as a template and modify it to fit the complexity of your final game. The map should involve some platform(s) suspended in the air (game over if the player falls off).
 
 ### Step 2: Add a Health System
 The Health System for this MP should be very similar to the one you created in the MP1. 
@@ -78,8 +76,10 @@ Your Health System should include:
 * a Game Over screen when the player's health reaches 0
 * health packs scattered around the level that upon collection will be destroyed and increase the player's health
 
-### Step 3: Create Collectible Items
-Next, you will need to place floating collectible items across the map to guide the player and encourage them to explore. To represent being collected, the collectibles should be destroyed when the player collides with them. You should add a Score system to your game, so that upon collection of a collectible, the player's score increases. The Unreal Learning Kit includes several assets that could work well as a collectible but feel free to also upload or create your own asset.
+### Step 3: Add Collectible Items and a Score system
+Next, place floating collectible items across the map to guide the player and encourage them to explore. The collectibles should be destroyed when the player collects (collides) them. The Unreal Learning Kit includes several assets that could work well as a collectible but feel free to upload or create your own asset.
+
+In addition, add a Score system to your game so that the player's score increases when collectibles are collected.
 
 ### Step 4: Create a Pursuer enemy
 The Pursuer should:
@@ -89,26 +89,26 @@ The Pursuer should:
 
 <details><summary markdown="span">Click the arrow to see a tutorial to help get you started on the Pursuer enemy type:</summary>
     
-***NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the Pursuer. Use intuition, creativity, and other online tutorials to aid in completing all the requirements!***
+***NOTE: This tutorial covers the basics for implementing the Pursuer with the Unreal Learning Kit. It DOES NOT cover all the requirements for the Pursuer! Use intuition, creativity, and other online tutorials to aid in completing all the requirements!***
 
 ### Step 1: Add a Nav Mesh
 In the level map window, navigate to the + icon on the top left and select Volumes > NavMeshBoundsVolume.
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5a.png" alt="drawing" width="800"/>
 
-The Nav Mesh indicates the area where AIs can be activated, so make sure the Nav Mesh is large enough to encapsulate the area you want the enemies to move around in. To visualize the navigable area inside of the NavMeshBoundsVolume, press "P" on your keyboard. This will highlight all surfaces that the AI character can be navigated to in green.
+The Nav Mesh indicates the area where AIs can be activated, so make sure the Nav Mesh is large enough to encapsulate the area you want the enemies to move around in. To visualize the navigable area inside of the NavMeshBoundsVolume, press "P" on your keyboard. This will highlight in green all surfaces that the AI character can be navigated to.
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5b.png" alt="drawing" width="600"/>
 
 ### Step 2: Create the AI Controller
-*Unlike the player character that is controlled by an input device (i.e. keyboard and mouse, Xbox controller, etc.), the Pursuer will be controlled by an 'AI controller'. This allows us to specify in code how we wish the Pursuer to behave. To do this, we will create an 'AI Controller' object to control the actions of the Pursuer enemy.*
+*Unlike the player character which is controlled by an input device (i.e. keyboard and mouse, Xbox controller, etc.), the Pursuer will be controlled by an 'AI controller'. This allows us to specify in code how we wish the Pursuer to behave. To do this, we will create an 'AI Controller' object to control the actions of the Pursuer enemy.*
 
 In the Content Drawer (Bottom left), click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name 'Pursuer_AIController'. 
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
 
 ### Step 3: Create the Pursuer AI Character
-*Both the player characters and the AI character use the 'Character' blueprint. As explained above, the main difference is that it will be controlled by the 'AI Controller'. This 'Character' blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
+*Both the player characters and the AI character use the 'Character' blueprint. As explained above, the main difference is that the AI character will be controlled by the 'AI Controller'. This 'Character' blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
 
 In the Content Drawer, go to Add > Blueprint Class > Character and save the AI character with the name 'BP_Pursuer'. Open its blueprint editor. Inside the "Components" panel (top left), select the "Mesh" component. For starters, set the following properties in the Details panel (right):
 * Skeletal Mesh: SK_EpicCharacter
@@ -116,13 +116,13 @@ In the Content Drawer, go to Add > Blueprint Class > Character and save the AI c
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2.png" alt="drawing" width="400"/>
 
-This can be changed later to whatever mesh/animations you like later!
+Feel free to customize the mesh and animations later! If you do not see the Details panel, select Window > Details near the top of your screen.
 
-Add a "CapsuleComponent" in the Components panel (top left). By default, the mesh will not be inside of the capsule. Adjust the Z position and scale of the components so that the character mesh fits right within the borders of the capsule. This can be done using the arrow gizmos (the 3 red, blue, and green perpendicular arrows) or adjusting the transform values in the details panel (right). In addition, adjust the rotation of the character mesh so that it faces the direction of the light blue arrow (which specifies the movement direction) pointing out of the middle of the capsule.
+Again, navigate to the components panel and add a "CapsuleComponent". By default, the mesh will not be inside of the capsule. Adjust the Z position and scale of the components so that the character mesh fits right within the borders of the capsule. This can be done using the arrow gizmos (the 3 red, blue, and green perpendicular arrows) or adjusting the transform values in the Details panel. In addition, adjust the rotation of the character mesh so that it faces the direction of the light blue arrow (specifies the movement direction) pointing out from the middle of the capsule.
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2b.png" alt="drawing" width="200"/>
 
-Finally, select "AICharacter (self)" on the Components panel (left), then in the Details panel (right) set its "AI Controller Class" to the AI controller ('Pursuer_AIController') you created in step 1.
+Finally, select "AICharacter (self)" on the Components panel, then in the Details panel, set "AI Controller Class" to the AI controller `Pursuer_AIController` you created in step 1.
 
 <img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2c.png" alt="drawing" width="400"/>
 
@@ -264,7 +264,7 @@ Your final level should:
 
 As far as environmental and visual assets go, you may use any of the provided, built-in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project. **The level layout, enemies, and collectibles portions of the rubric are all a part of the level design. Your level should be somewhat challenging, the player should have to interact with enemies, and there should be some exploring required to find the collectibles.** If any of these things aren't the case, you'll lose significant points from those portions of the rubric. Make sure that your level isn't just the tutorial level!
 
-### **Hints for Common Bugs**
+### **Hints for Common Issues**
 <details><summary markdown="span">Click the arrow to see hints</summary>
     
 * If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel
