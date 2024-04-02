@@ -1,5 +1,4 @@
 ---
-
 layout: assignment
 title: "4 Credit Assignment"
 index: 10
@@ -7,11 +6,9 @@ due: "May 4, 2023 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
-  -
-    name: Proposal
-    points: 10
-    description: Submit a description of your project
-
+- name: Proposal
+  points: 10
+  description: Submit a description of your project
 - name: Create an Environment
   points: 40
   description: A 3D environment that the user can navigate in 
@@ -24,8 +21,9 @@ rubric:
 - name: Button
   points: 10
   description: Implemenment a touchable button with feedback
-- 
-
+- name: Creativity
+  points: 20
+  description: Have something unique or quirky in the environment or gameplay that shows you made the game yourself
 --- 
 
 ![Breath of the Wild](https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FirIOIA243mp1aEMOHqPkxc4rsKQ%3D%2F0x0%3A950x534%2F2000x1333%2Ffilters%3Afocal(475x267%3A476x268)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16193538%2FCI_News_TheLegendOfZeldaBreathOfTheWild_LaboCVR_Zelda_01_image950w.jpg&w=2400&q=75)
@@ -34,7 +32,6 @@ rubric:
 
 Taking the course for an extra credit hour requires the completion of a extra project in addition to the course project done by the entire class. 
 The main focus of the 4 Credit Project will be to implement something using the VR capabilities of Unreal Engine. But there are other options as well.
-This is an opportunity to learn a new thing or implement something you always wanted to...so long as it is related to the course in some way. 
 
 ## Frequently Asked Questions
 
@@ -163,6 +160,7 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 + One page or less
 + List all group members by name and netid
 + One paragraph that gives an overview of the project (e.g. "We will implement a VR game in which the player searches for their phone which has fallen next to their car seat while driving.").
++ **For a Godot proposal you must include your own rubric. Make a list of 5 features the game will have with each feature worth 18 points in grading** 
 
 **You DO NOT need to wait until you proposal is graded before starting the project!**
 
