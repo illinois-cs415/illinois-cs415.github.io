@@ -26,8 +26,7 @@ rubric:
   description: Have something unique or quirky in the environment or gameplay that shows you made the game yourself
 --- 
 
-![Breath of the Wild]([img//CI_News_TheLegendOfZeldaBreathOfTheWild_LaboCVR_Zelda_01_image950w.jpg
-])
+![Breath fo the Wild VR](![Boss](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/CI_News_TheLegendOfZeldaBreathOfTheWild_LaboCVR_Zelda_01_image950w.jpg){:width="1024px"}
 
 ## What is the 4 Credit Project About?
 
