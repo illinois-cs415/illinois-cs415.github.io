@@ -27,7 +27,7 @@ rubric:
 --- 
 
 ![Breath fo the Wild VR](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/zelda.jpg){:width="1024px"}
-![wild](img/zelda.jpg)
+![wild](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/6d5ea0df845d4cab0682f823c776a68c9d91b3be/img/zelda.jpg)
 
 
 
