@@ -168,7 +168,7 @@
               [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Animation"
 - 
-  date: "Week 11: April 2"
+  date: "Week 11: March 26"
   materials: "Lecture [Video](https://mediaspace.illinois.edu/media/t/1_01at4qr4)<br/>
               GDC 2024 Talk Marvel Spider-Man 2 [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/cb8a37c12757db0978013a5e50148ee9944d3965/img/slides/gdc2024.pdf)<br/>
               Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
@@ -181,27 +181,36 @@
   "
   title: "Game Physics"
 - 
-  date: "Week 11: April 4"
+  date: "Week 11: March 28"
   materials: "Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>"
   title: "Game Physics"
 - 
-  date: "Week 12: April 9"
+  date: "Week 12: April 2"
   materials: " Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
-               Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>"
+              <br/>"
   title: "Game Physics"
 - 
-  date: "Week 12: April 11"
-  materials: "Art: What is the USD File Type? [YouTube](https://www.youtube.com/watch?v=GOdyx-oSs2M)<br/>
+  date: "Week 12: April 4"
+  materials: " Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)
+              Art: What is the USD File Type? [YouTube](https://www.youtube.com/watch?v=GOdyx-oSs2M)<br/>
               Art: USD Primer [YouTube](https://youtu.be/Yp_TRVD3wjQ?si=j6KjeFqaLY4UoBhL)<br/><br/>"
-  title: "Art"
+  title: "Art"  
 - 
-  date: "Week 13: April 16"
+  date: "Week 13: April 9"
   materials: ""
-  title: "Game Physics"
+  title: "Animation"
 - 
-  date: "Week 13: April 18"
+  date: "Week 13: April 11"
   materials: ""
-  title: "Game Physics"
+  title: "UE5 Lumen"
+- 
+  date: "Week 14: April 16"
+  materials: ""
+  title: "Game AI"
+- 
+  date: "Week 14: April 18"
+  materials: ""
+  title: "Generative AI"
 - 
   date: "Week 14: April 23"
   materials: ""
@@ -209,9 +218,9 @@
 - 
   date: "Week 14: April 25"
   materials: ""
-  title: "Generative AI"
+  title: "Generative AI"  
 - 
-  date: "Week 15: April 30"
+  date: "Week 16: April 30"
   materials: "**[Exam Link]()**"
   title: "**EXAM 2**"
 -
