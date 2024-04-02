@@ -26,8 +26,6 @@ rubric:
   description: Have something unique or quirky in the environment or gameplay that shows you made the game yourself
 --- 
 
-![wild](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/6d5ea0df845d4cab0682f823c776a68c9d91b3be/img/zelda.jpg){:width="800px"}
-
 ![Matrix](https://duet-cdn.vox-cdn.com/thumbor/0x0:950x534/640x427/filters:focal(475x267:476x268):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/16193538/CI_News_TheLegendOfZeldaBreathOfTheWild_LaboCVR_Zelda_01_image950w.jpg){:width="800px"}
 
 ## What is the 4 Credit Project About?
