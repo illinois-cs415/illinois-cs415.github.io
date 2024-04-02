@@ -168,6 +168,6 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 
 **April 10 11:59 PM submit proposal on canvas.**
 
-**May 8 11:59 PM submit project on canvas**
+**May 4 11:59 PM submit project on canvas**
 
 
