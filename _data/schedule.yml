@@ -182,17 +182,18 @@
   title: "Game Physics"
 - 
   date: "Week 11: April 4"
-  materials: "  Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
-  Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>"
+  materials: "Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>"
   title: "Game Physics"
 - 
   date: "Week 12: April 9"
-  materials: ""
+  materials: " Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
+               Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>"
   title: "Game Physics"
 - 
   date: "Week 12: April 11"
-  materials: ""
-  title: "Game Physics"
+  materials: "Art: What is the USD File Type? [YouTube](https://www.youtube.com/watch?v=GOdyx-oSs2M)<br/>
+              Art: USD Primer [YouTube](https://youtu.be/Yp_TRVD3wjQ?si=j6KjeFqaLY4UoBhL)<br/><br/>"
+  title: "Art"
 - 
   date: "Week 13: April 16"
   materials: ""
