@@ -28,7 +28,7 @@ rubric:
 
 ![wild](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/6d5ea0df845d4cab0682f823c776a68c9d91b3be/img/zelda.jpg)
 
-
+![wild](img/zelda.jpg)
 
 ## What is the 4 Credit Project About?
 
