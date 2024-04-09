@@ -102,8 +102,7 @@
   materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
               Lecture [Video](https://mediaspace.illinois.edu/media/t/1_cu95lpof) <br/>
               "
-  title: "Rendering<br/>
-          Game AI"
+  title: "Rendering"
 - 
   date: "Week 6: Feb 22"
   materials: "Rasterization [2022 Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
@@ -198,8 +197,16 @@
   title: "Art"  
 - 
   date: "Week 13: April 9"
-  materials: ""
-  title: "Animation"
+  materials: "Lecture [Video]()<br/>
+             Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/>   
+             Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-AI-5.pptx.pdf)<br/><br/>
+             **PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/140468/assessment/2359392)**<br/><br/>
+             **Optional Reading:**<br/>
+              Real-Time Rendering Chapter 16<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)<br/>
+              AI for Games 3rd Edition by Ian Millington Chapter 6<br/>
+              [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955033014505899)<br/>"
+  title: "Animation and AI"
 - 
   date: "Week 13: April 11"
   materials: ""
