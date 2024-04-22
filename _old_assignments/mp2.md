@@ -68,6 +68,8 @@ To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketpl
 
 Next, setup the map for your platformer level. You may either create a new blank map and build from scratch or use the provided showcase map as a template and modify it to fit the complexity of your final game. The map should involve some platform(s) suspended in the air (game over if the player falls off).
 
+Finally, add code to prompt a Game Over screen when the player falls off the map. For example, you can add a box collision component at some z position below the platform that will trigger the Game Over screen when the player collides with it.
+
 ### Step 2: Add a Health System
 The Health System for this MP should be very similar to the one you created in the MP1. 
 
@@ -101,18 +103,18 @@ In addition, implement the following for collisions between the player and Pursu
 ### Step 1: Add a Nav Mesh
 In the level map window, navigate to the + icon on the top left and select Volumes > NavMeshBoundsVolume.
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5a.png" alt="drawing" width="800"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step5a.png" alt="drawing" width="800"/>
 
 The Nav Mesh indicates the area where AIs can be activated, so make sure the Nav Mesh is large enough to encapsulate the area you want the enemies to move around in. To visualize the navigable area inside of the NavMeshBoundsVolume, press "P" on your keyboard. This will highlight in green all surfaces that the AI character can be navigated to.
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step5b.png" alt="drawing" width="600"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step5b.png" alt="drawing" width="600"/>
 
 ### Step 2: Create the AI Controller
 *Unlike the player character which is controlled by an input device (i.e. keyboard and mouse, Xbox controller, etc.), the Pursuer will be controlled by an AI controller. This allows us to specify in code how we wish the Pursuer to behave. To do this, we will create an AI Controller object to control the actions of the Pursuer enemy.*
 
 In the Content Drawer (Bottom left), create a new folder "AI", which will contain all the files related to the AI Enemies. Once within the folder, click Add > Blueprint Class > (type into "All Classes") > AIController and save the controller with the name `Pursuer_AIController`. 
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step1.png" alt="drawing" width="800"/>
 
 ### Step 3: Create the Pursuer AI Character
 *Both the player character and AI character use the Character blueprint, but the main difference is that the AI character is controlled by the AI Controller. The Character blueprint will connect the model geometry, animations, code for the behaviors, senses, and more.*
@@ -125,17 +127,17 @@ Scroll through the Details to find and set the following properties:
 * Skeletal Mesh: SK_EpicCharacter
 * Anim Class: EpicCharacter_AnimBP_C
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2.png" alt="drawing" width="400"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step2.png" alt="drawing" width="400"/>
 
 You may also use your own mesh and animations for the Pursuer.
 
 Again, navigate to the Components panel and add a "CapsuleComponent". By default, the mesh will not be inside the capsule. Adjust the Z position and scale of the components so that the character mesh fits right within the borders of the capsule. This can be done using the arrow gizmos (the 3 red, blue, and green perpendicular arrows) or adjusting the transform values in the Details panel. In addition, adjust the rotation of the character mesh so that it faces the direction of the light blue arrow (specifies the movement direction) pointing out from the middle of the capsule.
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2b.png" alt="drawing" width="200"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step2b.png" alt="drawing" width="200"/>
 
 Finally, select "AICharacter (self)" on the Components panel, then in the Details panel, set "AI Controller Class" to the AI controller `Pursuer_AIController` you created in step 1.
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step2c.png" alt="drawing" width="400"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step2c.png" alt="drawing" width="400"/>
 
 To add the Pursuer to your game, return to the main window, and from the Content Drawer, drag and drop `BP_Pursuer` into the viewport and adjust its position accordingly.
 
@@ -145,15 +147,15 @@ To add the Pursuer to your game, return to the main window, and from the Content
 
 First, we will need to create a new Roam event. In the Event Graph of `BP_Pursuer`, right-click and search for "Add Custom Event" in the pop-up tab. Name the new custom event "Roam". We will call "Roam" within the `BP_Pursuer` event graph whenever we want the Pursuer to roam.
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step4a.png" alt="drawing" width="400"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step4a.png" alt="drawing" width="400"/>
 
 Add an "AI MoveTo" block to the event and use the method "GetRandomReachablePointInRadius" to set the destination. This will move the Pursuer to the randomly selected location. Add a slight delay and call Roam again to create a continuous loop of roaming. The final Roam event graph should look: 
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step4b.png" alt="drawing" width="800"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step4b.png" alt="drawing" width="800"/>
 
 Call the custom Roam event from Event BeginPlay. Compile the file and play your game test that the Pursuer now roams.
 
-<img src="https://github.com/illinois-cs415/illinois-cs415.github.io/blob/mp2-sp24-update/img/assignments/mp2/pursuer%20tutorial/step4c.png" alt="drawing" width="400"/>
+<img src="../img/assignments/mp2/pursuer%20tutorial/step4c.png" alt="drawing" width="400"/>
 
 ### Step 5: Create a Chase Player Event
 Create a new custom event titled "Chase Player". Like before, add an "AI MoveTo" block to the event, but this time instead of setting the destination to a random location, set the "Target Actor" to the Player Character. Again, add a delay from "On Success" and call "Chase Player" after the delay has completed to make the Pursuer continuously chase the player.
