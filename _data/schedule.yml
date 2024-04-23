@@ -229,7 +229,10 @@
   title: "4 Credit Lectures "
 - 
   date: "Week 15: April 23"
-  materials: ""
+  materials: "Ray Tracing [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-RayTracingShort.pdf)<br/>
+              UE5 Lumen [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Lumen.pdf)
+  
+  "
   title: "UE5 Lumen"
 - 
   date: "Week 15: April 25"
