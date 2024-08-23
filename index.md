@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ![UE5](/img/Unreal_Engine_5_18.jpg){:class="img-responsive" style="display:block; margin:auto" width="800px"}
-## Spring 2024
+## Fall 2024
 ## Overview ##
 
 This is a team and project-based course on video game design and development using Unreal Engine. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central focus of the course will be the design and development of a game by teams of 3 to 5 students. 
@@ -26,7 +26,7 @@ This is a team and project-based course on video game design and development usi
 #### [CampusWire](https://campuswire.com/p/G3A6B49EE) ####
 
 We will use CampusWire for answering questions and administering the course.
-+ Click **[this link](https://campuswire.com/p/G5EAEC10C)** to join/view the forum.<br/> 
++ Click **[this link]()** to join/view the forum.<br/> 
 + Use the passcode **6781**. 
 + For any question involving a grade you should select the tag `Post to instructors and TAs`.
 
@@ -35,33 +35,7 @@ We will use CampusWire for answering questions and administering the course.
 * Professor Eric Shaffer, shaffer1@illinois.edu
 * Janelle Domantay TA
 * Jason Situ TA
-* Tyler Lee TA
-* Archna Sobti TA
-* Bohan Liu TA
-* Kyo Hyun Kim TA
-* Eunice Leung TA
-* Alex Stettner CA
-* Abdul Maaieh CA
-* Chen Yang CA
-* Jeff Liu CA
-* Ruchika Biswas CA
-* Sambhav Gupta  CA
-* Timor Averbuch CA
-* Violetta Dabros CA
-* Jingyang Ye CA
-* Anish Jampana CA
-* Elio Lin CA
-* Nan Kang CA
-* Adnan Noorullah CA
-* Yousef Dardir CA
-* Zhengqi Hou CA
-* Rachel Huang CA
-* Atharva Jain CA
-* Zhao Li CA
-* Victor Lu CA
-* Nisha Prasad CA
-* Boyao Wang CA
-* Encheng Xie CA
+  
   
 
 ## Instructional Content ##
@@ -70,7 +44,7 @@ The course will be taught using online lectures along with additional reading ma
 
 #### Lectures ####
 + Live discussion on Zoom will be held **Tu at 11am Central Time**.<br/><br/>
-**[ZOOM LINK](https://illinois.zoom.us/j/81716326474?pwd=NjcxV2JWVVNTdkppaCtpTGx6SnRrUT09)**<br/><br/>
+**[ZOOM LINK]()**<br/><br/>
 + If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
@@ -89,7 +63,7 @@ Assigned work will include 6 homework assignments, 2 exams, 2 programming assign
 There will be 6 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
 + You should budget an hour to complete a homework assignment.
 + Each homework can be retaken as many times as you wish for full credit.
-+ The homwork is open web. 
++ The homework is open web. 
 + Each homework will be available for 2 weeks at full credit. 
 + After that week, the homework can be submitted for half credit.
 
@@ -105,7 +79,7 @@ There will be two exams. They will:
 + **You should not collaborate or share information about the exams.**<br/>
   **The sanction for doing so will be failure in the course**  
 
- **The exam dates will be March 5 and April 30**
+ **The exam dates are TBD**
  
  The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
  There's really no need to cheat.
@@ -118,14 +92,7 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 #### 4 Credit Option ####
 
-Students taking the course for 4 credits will complete the following additional work:
-1. Watch a set of pre-recorded lectures on Virtual Reality 
-2. Complete 2 additional homework assignments on PrairieLearn
-3. Complete 1 additional programming assignment focused on Virtual or Augmented Reality
-
-**The Material on VR will start being available during week 3**
-
-The additional programming assignment is typically a VR game, but you can propose your own project instead. Any proposal will need to be reviewed by the course staff and you will be notfied if it acceptable. Full details of the procedure will be available on the Assignments page when the assignment is released. 
+Students taking the course for 4 credits will complete an extra programming assignment using an alternative game engine such as Unity or Godot.
 
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
@@ -136,11 +103,10 @@ We weight grades as follows:
 | ----- | ------ | ----- |  
 | MP 1 | 10% | 5% | 
 | MP 2 | 15% | 10% |   
-| Homework|15%| 5%|
+| Homework|15%| 10%|
 | Exams | 24% | 24%|
 | Project | 36% | 36% |
-| 4 Credit Homework| NA | 5%|
-| 4 Credit MPs | NA | 15% |
+| 4 Credit MP | NA | 15% |
 
 The course grade cutoffs can be expected to be:
 
