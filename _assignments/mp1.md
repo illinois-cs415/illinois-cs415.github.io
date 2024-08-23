@@ -2,7 +2,7 @@
 layout: assignment
 title: "Your First Game: An Infinite Matrix"
 index: 1
-due: "Feb 3, 2024 @ 11:59 PM"
+due: "Sept 12, 2024 @ 11:59 PM"
 material: ~
 points: 100
 rubric:
@@ -43,7 +43,7 @@ rubric:
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix.PNG){:width="800px"}
 
 ## Specification
-For your first programming assignment, in honor of Keanu Reeves turning 59 years old on September 2nd, you will implement a simple Matrix-themed game.  The goal here isn't to build a AAA game...it's probably not going to look amazing and that's fine. The goal is to learn to build an Unreal project from nothing and make an actual working game that expresses some creativity. And in any case, your game will likely be more entertaining than the Matrix sequel movies.
+For your first programming assignment, in honor of Keanu Reeves turning 60 years old on September 2nd, you will implement a simple Matrix-themed game.  The goal here isn't to build a AAA game...it's probably not going to look amazing and that's fine. The goal is to learn to build an Unreal project from nothing and make an actual working game that expresses some creativity. And in any case, your game will likely be more entertaining than the Matrix sequel movies.
 
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix-4-5.png){:width="800px"}
 
