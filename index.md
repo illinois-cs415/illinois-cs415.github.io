@@ -26,7 +26,7 @@ This is a team and project-based course on video game design and development usi
 #### [CampusWire](https://campuswire.com/p/GD8317729) ####
 
 We will use CampusWire for answering questions and administering the course.
-+ Click **[this link]()** to join/view the forum.<br/> 
++ Click **[this link](https://campuswire.com/p/GD8317729)** to join/view the forum.<br/> 
 + Use the passcode **6936**. 
 + For any question involving a grade you should select the tag `Post to instructors and TAs`.
 
@@ -36,21 +36,19 @@ We will use CampusWire for answering questions and administering the course.
 * Janelle Domantay TA
 * Jason Situ TA
   
-  
-
 ## Instructional Content ##
 
 The course will be taught using online lectures along with additional reading materials. Everything you need to attend, read or watch will be linked on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Lectures ####
 + Live discussion on Zoom will be held **Tu at 11am Central Time**.<br/><br/>
-**[ZOOM LINK]()**<br/><br/>
+**[ZOOM LINK](https://illinois.zoom.us/j/89441530187?pwd=BlwTMKigRs05NCya0lnGAb3VD40SdZ.1)**<br/><br/>
 + If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-+ You can test your computer by downloading and installing Unreal vesion 5.X from [here](https://www.unrealengine.com/en-US/download) <br/>
++ You can test your computer by downloading and installing Unreal vesion 5.4.3 from [here](https://www.unrealengine.com/en-US/download) <br/>
 + You should choose the publishing license. 
 
 If your computer is not capable of running Unreal, see the [Resources page](https://illinois-cs415.github.io/resources) for ways you can find a computer on campus running Unreal Engine.
