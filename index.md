@@ -23,11 +23,11 @@ This is a team and project-based course on video game design and development usi
   You should also attend the live discussions...but we understand that conflicts come up and will not make attendance mandatory. 
   You definitely should watch all the posted videos in order to successfully complete the Homework and Exams. 
 
-#### [CampusWire](https://campuswire.com/p/G3A6B49EE) ####
+#### [CampusWire](https://campuswire.com/p/GD8317729) ####
 
 We will use CampusWire for answering questions and administering the course.
 + Click **[this link]()** to join/view the forum.<br/> 
-+ Use the passcode **6781**. 
++ Use the passcode **6936**. 
 + For any question involving a grade you should select the tag `Post to instructors and TAs`.
 
 #### Course Staff ####
@@ -127,10 +127,6 @@ The course grade cutoffs can be expected to be:
 
 ### How to get an A+ ###
 To earn an A+, you must earn an A numerically and do something that stands out as exceptional to the course staff. For example, you could do an exceptional job at answering questions on Campuswire or you could do a great job at asking good questions on Campuswire or your submitted game could truly exceptional in terms of creativity or gameplay.
-
-### Extra Credit ###
-
-We will have 2 guest lectures this semester, attendance on zoom during these lectures is worth 0.25% of the total course grade. If you have a time conflict which can be verified (e.g. you have another class at the same time), you will be given an alternative option for obtaining the extra credit.  
 
 ## Mental Health ##
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
