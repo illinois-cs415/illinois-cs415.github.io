@@ -11,6 +11,8 @@ You have two options on the University of Illinois campus: the Grainger Library 
 
 ### Immersive Computing Lab: Room 1104 NCSA
 
+**This lab will be available starting in Week 2 of the course. To gain access you will need to register with NCSA. Details of how to do this will be posted on CampusWire at the start of Week 2**
+ 
 The EWS computers and associated VR equipment in NCSA room 1104 are available for your use in the course. 
 
 #### Equipment 
