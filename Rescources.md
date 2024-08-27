@@ -10,21 +10,21 @@ You have several options on the University of Illinois campus, as detailed below
 **In all cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain your work after you leave.**
 
 ## The Armory Lab
-**Location: 505 E. Armory Ave. Room 329**\\
-**After October 1 (or thereabouts) it will move to its permanent space in Armory 146**\\
-**Hours: M-Th 8:00am - 9:00pm, Friday 8:00am - 6:00pm, Su 1:00pm - 9:00pm**\\ 
-**Equipment:**\\
-Precision 3680 Tower CTO Base\\
-Intel® Core™ i9 14th Gen 14900K\\
-NVIDIA GeForce RTX 4070\\
+**Location: 505 E. Armory Ave. Room 329**\
+**After October 1 (or thereabouts) it will move to its permanent space in Armory 146**\
+**Hours: M-Th 8:00am - 9:00pm, Friday 8:00am - 6:00pm, Su 1:00pm - 9:00pm**\ 
+**Equipment:**\
+Precision 3680 Tower CTO Base\
+Intel® Core™ i9 14th Gen 14900K\
+NVIDIA GeForce RTX 4070\
 
 ## Siebel Center for Design Lab
-**Location: 1208 S 4th St, Room 0060** \
-**Hours: 5pm to 10pm Sunday through Thursday** \
-**Equipment:** \
-Precision 3680 Tower CTO Base \
-Intel® Core™ i9 14th Gen 14900K \ 
-NVIDIA GeForce RTX 4070\\
+**Location: 1208 S 4th St, Room 0060**  
+**Hours: 5pm to 10pm Sunday through Thursday**  
+**Equipment:**  
+Precision 3680 Tower CTO Base  
+Intel® Core™ i9 14th Gen 14900K  
+NVIDIA GeForce RTX 4070  
 
 ## Immersive Computing Lab: Room 1104 NCSA
 
