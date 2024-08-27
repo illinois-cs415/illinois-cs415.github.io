@@ -19,7 +19,7 @@ Intel® Core™ i9 14th Gen 14900K
 NVIDIA GeForce RTX 4070, 12GB GDDR6X, HDMI, 3 DP
 
 ## Siebel Center for Design Lab
-**Location: Room 0060**
+**Location: 1208 S 4th St, Room 0060**
 **Hours: 5pm to 10pm Sunday through Thursday**
 **Equipment:** 
 Precision 3680 Tower CTO Base
