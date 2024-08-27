@@ -6,10 +6,27 @@ permalink: /resources
 
 # Where Can I Find a Computer Running Unreal Engine?
 
-You have two options on the University of Illinois campus: the Grainger Library Idea Lab and the Immersive Computing Lab in 1104 NCSA.
-**In both cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain your work after you leave.**
+You have several options on the University of Illinois campus, as detailed below.
+**In all cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain your work after you leave.**
 
-### Immersive Computing Lab: Room 1104 NCSA
+## The Armory Lab
+**Location: 505 E. Armory Ave. Room 329** 
+**After October 1 (or thereabouts) it will move to its permanent space in Armory 146**
+**Hours: M-Th 8:00am - 9:00pm, Friday 8:00am - 6:00pm, Su 1:00pm - 9:00pm** 
+**Equipment:**
+Precision 3680 Tower CTO Base
+Intel® Core™ i9 14th Gen 14900K 
+NVIDIA GeForce RTX 4070, 12GB GDDR6X, HDMI, 3 DP
+
+## Siebel Center for Design Lab
+**Location: Room 0060**
+**Hours: 5pm to 10pm Sunday through Thursday**
+**Equipment:** 
+Precision 3680 Tower CTO Base
+Intel® Core™ i9 14th Gen 14900K 
+NVIDIA GeForce RTX 4070, 12GB GDDR6X, HDMI, 3 DP
+
+## Immersive Computing Lab: Room 1104 NCSA
 
 **This lab will be available starting in Week 2 of the course. To gain access you will need to register with NCSA. Details of how to do this will be posted on CampusWire at the start of Week 2**
  
@@ -31,7 +48,7 @@ The EWS computers and associated VR equipment in NCSA room 1104 are available fo
 
 The 8 remote machines can be accessed through [Engineering IT LabCheck](https://answers.uillinois.edu/illinois.engineering/105329)
 
-### Grainger Library Idea Lab
+## Grainger Library Idea Lab
 
 The computers in the Idea Lab should be reserved ahead of time. Students can reserve them 24 hours in advance from the website: [idealab.illinois.edu](idealab.illinois.edu). **Lab hours are 10am to 10pm Monday through Friday** 
 
