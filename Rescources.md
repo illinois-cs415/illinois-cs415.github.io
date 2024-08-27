@@ -7,6 +7,8 @@ permalink: /resources
 # Where Can I Find a Computer Running Unreal Engine?
 
 You have several options on the University of Illinois campus, as detailed below.
+
+
 **In all cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain your work after you leave.**
 
 ## The Armory Lab
