@@ -15,13 +15,13 @@ You have several options on the University of Illinois campus, as detailed below
 **Location: 505 E. Armory Ave. Room 329 (After October 1 it will move to its permanent space in Armory 146)**  
 **Hours: M-Th 8:00am - 9:00pm, Friday 8:00am - 6:00pm, Su 1:00pm - 9:00pm**  
 **Equipment:**  
-Precision 3680 Tower  
+18 Precision 3680 Towers  
 Intel® Core™ i9 14th Gen 14900K  
 NVIDIA GeForce RTX 4070  
 
 ## Siebel Center for Design Lab
 **Location: 1208 S 4th St, Room 0060**  
-**Hours: 5pm to 10pm Sunday through Thursday**  
+**Hours: TBD**  
 **Equipment:**  
 Precision 3680 Tower  
 Intel® Core™ i9 14th Gen 14900K  
