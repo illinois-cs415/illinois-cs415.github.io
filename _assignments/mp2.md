@@ -3,8 +3,8 @@ layout: assignment
 title: "Level Design"
 index: 10
 due: "<br/>
-      Part 1: Feb 15, 2023 @  5PM<br/>
-      Part 2: Feb 27, 2023 @  5PM"
+      Part 1: TBD<br/>
+      Part 2: TBD"
 material: ~
 points: 100
 rubric:
@@ -45,6 +45,10 @@ rubric:
     points: 5
     description: Submit a link to a video demo of your game
 ---
+
+# **DO NOT START THIS MP YET - THE SPECIFICATION IS UNDER REVISION AND WILL BE FINALIZED BY SEPT 16**
+
+
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/platform.PNG){:width="800px"}
 # MP 2: Level Design
 MP2 is all about level design and all the important factors that go into it. In this MP we will touch on player abilities, level layouts, and enemy AI. The objective of this assignment is to allow students to design and create their own 3D platformer level. You will be provided with a player character, and you will need to place assets, add mechanics, and create enemies for the player character to interact with.
