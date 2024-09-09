@@ -30,3 +30,19 @@
               [PDF](https://drive.google.com/file/d/1EPESnk8Lh3j68csYFnNSwDOINlwTWdsJ/view?usp=sharing) "
   title: "Geometric Modeling"
 -
+-
+  date: "Week 3: Sep 10"
+  materials: "UE5 Nanite Example [YouTube](https://youtu.be/DKvA7NZRUcg)<br/>
+              UE5 Nanite Introduction [YouTube](https://www.youtube.com/watch?v=-50MJf7hyOw&t=19s)<br/>
+              Rendering: Introduction [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rendering.pdf) <br/>
+              Rendering: Perspective Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf)<br/>
+              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_ifd5scsk)<br/><br/>
+               **Optional Reading:**<br/>
+              Fundamentals of Computer Graphics (4th Ed) Ch 7 [PDF](https://drive.google.com/file/d/1xzDXdAFBlrIISfhpTRMlDwAZDG1wXsrX/view?usp=drive_link) <br/>
+              Real-Time Rendering Chapter 2 [PDF](https://drive.google.com/file/d/1nT2M0aXeWmp2y5_HZSAi2azcYlsgB_F2/view?usp=sharing)<br/>"
+  title: "Rendering"
+- 
+  date: "Week 3: Sep 12"
+  materials: "Rendering: Rendering Pipeline [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-RenderingPipeline.pdf) [Video](https://classtranscribe.illinois.edu/video?id=11cfb825-9815-4ba3-92c9-4ab0880eb32d&from=sharedlink)<br/>
+              **PrairieLearn HW 1 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443569)**"
+  title: "Rendering"
