@@ -77,7 +77,9 @@ There will be two exams. They will:
 + **You should not collaborate or share information about the exams.**<br/>
   **The sanction for doing so will be failure in the course**  
 
- **The exam dates are TBD**
+ **The exam dates are:<br/>**
+ **+ Oct 8 11am to noon (conflict at Oct 8 8pm to 9pm)**
+ **+ Dec 10 11am to noon (conflict at Dec 10 8pm to 9pm)**
  
  The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
  There's really no need to cheat.
