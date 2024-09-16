@@ -46,7 +46,7 @@ rubric:
     description: Submit a link to a video demo of your game
 ---
 
-# **DO NOT START THIS MP YET - THE SPECIFICATION IS UNDER REVISION AND WILL BE FINALIZED BY SEPT 16**
+# **DO NOT START THIS MP YET - THE SPECIFICATION IS UNDER REVISION AND WILL BE FINALIZED BY SEPT 17**
 
 
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/platform.PNG){:width="800px"}
