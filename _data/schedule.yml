@@ -46,7 +46,7 @@
               **PrairieLearn HW 1 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443569)**"
   title: "Rendering"
 -
- date: "Week 4: Sep 17"
+  date: "Week 4: Sep 17"
   materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
                Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
                Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>
@@ -60,3 +60,4 @@
               SIGGRAPH 2021: A Deep Dive into Nanite Slides [PDF](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)<br/>
               SIGGRAPH 2021 Talk by Epic Engineer Brian Kariss [YouTube](https://youtu.be/eviSykqSUUw?si=itB6ry5OjlipMcPG)"
   title: "Rendering" 
+-
