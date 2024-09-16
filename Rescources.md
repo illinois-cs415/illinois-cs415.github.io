@@ -21,9 +21,9 @@ NVIDIA GeForce RTX 4070
 
 ## Siebel Center for Design Lab
 **Location: 1208 S 4th St, Room 0060**  
-**Hours: TBD**  
+**Hours: 5-10pm Sunday-Thursday**  
 **Equipment:**  
-Precision 3680 Tower  
+18 Precision 3680 Towers  
 Intel® Core™ i9 14th Gen 14900K  
 NVIDIA GeForce RTX 4070  
 
