@@ -66,13 +66,15 @@ MP2 is all about level design and all the important factors that go into it. In 
  If you do not follow the guidelines and your submission is hard to grade you may lose points.**
 
 To start, you should get familiar with the basics of how the level editor works in Unreal. We recommend you complete the tutorial found here:
-[Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/). Once you have familiarized yourself with the level editor in Unreal, you may continue onto the main assignment. 
+[Tutorial Link](https://dev.epicgames.com/documentation/en-us/unreal-engine/level-designer-quick-start-in-unreal-engine). Once you have familiarized yourself with the level editor in Unreal, you may continue onto the main assignment. 
 
 **Please read through the entire assignment spec before starting to get a better understanding of all the requirements.**
 
-## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy (Due Feb. 14)
+## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy (Due Sep. 26)
 ### Step 1: Setup the Map and Player Character
 To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. You will find that the basic player controller along with a large number of assets you may want to use are already included and preset in the kit. Construct a new platform level. Leave the map relatively blank for now, as you will gradually add components later on.
+
+You may notice that the Unreal Learning Kit states it only is supported by Engine Versions 4.26 - 4.27, 5.0 - 5.1. However, this content can be used with Unreal Engine 5.4. After downloading the kit, it will ask you to create a new project where you can select Engine Version 5.1. When you attempt to run the project with an updated engine you may receive a notification about making a copy of the project as the newest engine may have compatibility issues, but you can just open without making a copy. On Windows, I received two notifications about missing project settings (Shader Model 6). You can enable these by navigating to the Project Settings (Edit -> Project Settings) and checking the corresponding box under 'Platforms - Windows'. [If images are helpful, they can be viewed here.](https://docs.google.com/document/d/1vWs0X8TYyQ6ruOyY34rtjjSEjHN6JKXzvkdNRriysG0/edit?usp=sharing)
 
 The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
@@ -95,7 +97,7 @@ The Pursuer should:
 
 ## Tutorial to help get you started on the Pursuer enemy type:
     
-*NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the chaser. Use intuition, creativity, and other online tutorials to aid in completing all the requirements!*
+*NOTE: This tutorial covers the basics for implementing the Pursuer starting from the UnrealLearningKit starter project. It does not cover all the requirements for the chaser. Use intuition, creativity, and other online tutorials to aid in completing all the requirements! You are also able to use behavior trees when implementing your Pursuer. More information on behavior trees can be found under this tutorial.*
 
 ### **Step 1: Create the AI Controller**
 *Unlike the player character that is controlled by an input device (i.e. keyboard and mouse, Xbox controller, etc.), the Pursuer will be controlled by an 'AI controller'. This allows us to specify in code how we wish the Pursuer to behave. To do this, we will create an 'AI Controller' object to control the actions of the Pursuer enemy.*
@@ -217,7 +219,7 @@ In the viewport, click on your AI Character and specify the default "AIState" as
 <img src="../img/assignments/mp2/pursuer tutorial/step9e.png" alt="drawing" width="800"/>
 
 #### Note on Behavior Trees
-Alternatively, students may implement the AI Character using Behavior Trees in Unreal. There are many resources available online for how to use Behavior Trees. And here are a few slides on [Using AI in Unreal](https://docs.google.com/presentation/d/1tsbdJHC0r5w-sF30vuK8PuOIJsRZvvv3xJhFrFzT600/edit?usp=sharing). However, this feature is more high-level and may be tougher to debug, so if you feel more comfortable working with blueprints, we recommend simply calling the Roam and Chase events from within the Pursuer blueprint.
+Alternatively, students may implement the AI Character using Behavior Trees in Unreal. There are many resources available online for how to use Behavior Trees. And here are a few slides on [Using AI in Unreal](https://docs.google.com/presentation/d/1ahw_zbzeWTmfbWdwVE8AdatabGkyGzVQHc-F-Hm5uSs/edit?usp=sharing). However, this feature is more high-level and may be tougher to debug, so if you feel more comfortable working with blueprints, we recommend simply calling the Roam and Chase events from within the Pursuer blueprint.
 
 ### **Additional Resources**
 
@@ -226,11 +228,11 @@ In addition to the instructions above, the following set of tutorials may be hel
 * [Unreal Engine 4 - AI Chase Player](https://www.youtube.com/watch?v=HK3FAbIkJ-g)
 * [Create A Platformer Pt 4: Chasing Knockback Enemy! UE4 Tutorial](https://www.youtube.com/watch?v=4UsaiOEr6Bw)
 * [Unreal Engine 5 Tutorial - AI Part 1: Character Setup](https://youtu.be/IDZh0epFTRY?si=iQheKNeQNEnvbBNG)
-* [Using AI in Unreal](https://docs.google.com/presentation/d/1tsbdJHC0r5w-sF30vuK8PuOIJsRZvvv3xJhFrFzT600/edit?usp=sharing)
+* [Using AI in Unreal](https://docs.google.com/presentation/d/1ahw_zbzeWTmfbWdwVE8AdatabGkyGzVQHc-F-Hm5uSs/edit?usp=sharing)
 
 **End of Pursuer tutorial.**
 
-## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level (Due Feb. 24)
+## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level (Due Oct. 7)
 
 ### Step 1: Create a Mortar enemy
 The Mortar should:
