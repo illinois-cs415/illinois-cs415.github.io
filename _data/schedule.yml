@@ -23,7 +23,7 @@
   date: "Week 2: Sep 5"
   materials: "Art: Bezier Curves [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier1.pdf) [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)<br/>
               Art: Bezier Patches [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier2.pdf) [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)<br/>
-              Art: Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/8ce066af72ca09b815c6c753c550127ea1b118bd/img/slides/415-MeshAssets-2023.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4d38fc4f-e140-4d60-ae7b-77fd2811b5dc&from=sharedlink)<br/>
+              Art: Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets-2023.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4d38fc4f-e140-4d60-ae7b-77fd2811b5dc&from=sharedlink)<br/>
                <br/>
                **Optional Reading:**<br/>
               Real-Time Rendering Section 17.1.1-17.1.3, 17.2.1-17.2.3 <br/>
@@ -47,7 +47,7 @@
   title: "Rendering"
 -
   date: "Week 4: Sep 17"
-  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
+  materials: " Design: Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)<br/>
                Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
                Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>
                Lecture [Video]()"
@@ -62,7 +62,7 @@
   title: "Rendering" 
 -
   date: "Week 5: Sep 24"
-  materials: ""
+  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>"
   title: "" 
 -
   date: "Week 5: Sep 26"
