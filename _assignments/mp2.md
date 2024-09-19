@@ -269,7 +269,7 @@ As far as environmental and visual assets go, you may use any of the provided, b
 
 ### **Hints for Common Bugs**
 
-* If the projectile is going through instead of colliding with the ground, make sure that both the projectile and map collisions are set to `BlockAllDynamic` in their Details panel
+* If the projectile is going through instead of colliding with the ground, replace `DefaultSceneRoot` with your Projectile's Mesh by dragging, this allows you to handle more events for the projectile actor as an unit, and make sure it is set to `BlockAllDynamic` in Details panel
 * If you are having trouble setting up collisions with static meshes, [check out this tutorial](https://docs.unrealengine.com/5.0/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/)
 * If you are having trouble with character knockback, [check out this thread](https://forums.unrealengine.com/t/character-knockback/300225/3)
 * If you are having trouble with importing your own character and animations into UE5, [check out this tutorial](https://youtu.be/PyXeB1QtC0A?si=9W59r_W1Gn40cJfo)
