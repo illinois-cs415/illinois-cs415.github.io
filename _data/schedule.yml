@@ -61,14 +61,30 @@
               SIGGRAPH 2021 Talk by Epic Engineer Brian Kariss [YouTube](https://youtu.be/eviSykqSUUw?si=itB6ry5OjlipMcPG)"
   title: "Rendering" 
 -
-  date: "Week 5: Sep 24"
-  materials: "Art: FBX Files [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>"
-  title: "" 
+ date: "Week 5: Sep 24"
+  materials: "Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
+              Stardew Valley [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-StardewValley.pdf)<br/>
+              Game AI History [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-1.pdf) <br/><br/>
+              Lecture [Video]()<br/>
+               **Optional Viewing:**<br/>
+              Rules of the Game:<br/> Five Techniques from Quite Inventive Designers (2016) [YouTube](https://youtu.be/d8QAVGeEj-U?si=Fk8f2ovx1zX7_cEQ)<br/>
+              Designing Games for Game Designers (2012) [YouTube](https://youtu.be/ke_kOD2D-bs?si=FazHhxS2jCf3Q6LL)<br/><br/>
+              **Optional Reading:**<br/>
+              Blood, Sweat, and Pixels [Amazon Link](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)"
+  title: "Game Design"
 -
   date: "Week 5: Sep 26"
-  materials: ""
-  title: "" 
--
+  materials:  
+   Pathfinding [Video](https://classtranscribe.illinois.edu/video?id=1fe9cc72-35da-4c92-beaf-90dabec2d268&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-3.pdf)
+   <br/>A* in Games [Video](https://classtranscribe.illinois.edu/video?id=9464b539-b000-4df0-bc81-398c9935b5ad&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-4.pdf) <br/>
+    **PrairieLearn HW 2 [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443570)**
+   <br/><br/>
+    **Optional Reading**<br/>
+    AI for Games 3rd Edition by Ian Millington Sections 4.1 to 4.3<br/>
+    [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955033014505899)
+    "
+  title: "Game AI"
+- 
   date: "Week 6: Oct 1"
   materials: ""
   title: "" 
