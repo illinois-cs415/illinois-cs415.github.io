@@ -86,8 +86,10 @@
   title: "Game AI"
 - 
   date: "Week 6: Oct 1"
-  materials: ""
-  title: "" 
+  materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
+              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_cu95lpof) <br/>
+              "
+  title: "Rendering"
 -
   date: "Week 6: Oct 3"
   materials: ""
