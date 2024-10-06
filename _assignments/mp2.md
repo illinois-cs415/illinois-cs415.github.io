@@ -4,7 +4,7 @@ title: "Level Design"
 index: 10
 due: "<br/>
       Part 1: Sep 26 11:59PM CT<br/>
-      Part 2: Oct 7 11:59PM CT"
+      Part 2: Oct 9 11:59PM CT"
 material: ~
 points: 100
 rubric:
