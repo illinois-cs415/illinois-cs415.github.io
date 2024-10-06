@@ -56,7 +56,7 @@ MP2 is all about level design and all the important factors that go into it. In 
 **It is due Sep 26 at 11:59pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
 <br/><br/>
 **Part 2** covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
-**It is due Oct 7 at 11:59pm. It will be graded according to the MP rubric with partial credit.** 
+**It is due Oct 9 at 11:59pm. It will be graded according to the MP rubric with partial credit.** 
 <br/><br/>
 **Please pay close attention to the guidelines about recording the video for submission:
 [Video Guidelines Link](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing)<br/>
