@@ -51,12 +51,12 @@ You can find all document templates needed for the project at the [Course Google
 The final project is worth a total of **100 points**. Please see the [detailed rubric](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a better understanding of which portion of these points is graded *per group* and which portion is an *individual score*. The final submission section is subject to course staff discretion based on peer evaluation results. 
 
 ## Initial Check-in (2 points)
-Each student will recive and e-mail from their project mentor and must respond before March 8.
+Each student will receive an e-mail from their project mentor and must respond before March 8.
 
 ## Discovery (10 of points)
 **Due date: 11:59 PM March 8**
 
-This is the first project milestone. You will submit completed versions of the project documents in the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing).
+This is the first project milestone. You will need to complete the project documents contained within the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing) as a group.
 
 The Discovery section is graded on completeness and correctness. Points will be taken off for incorrect submissions (such as missing documents) or for incorrectly filled sections. In particular:
 1. Note that each vision canvas section has specific meanings and phrasings. 
@@ -92,7 +92,7 @@ To reiterate, submission requirements for the Mid-Project milestone:
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
 * Updated technical design document (if applicable based on Discovery milestone feedback) 
-* Updated collaboration plan, including details on each team member's contribution so far. See template collaboration plan for more specifications. 
+* Updated collaboration plan, including details on each team member's contribution so far. 
 
 
 ## Alpha (30 points)
@@ -112,7 +112,7 @@ To reiterate, submission requirements for the Alpha milestone:
 * Updated project summary (if applicable based on Discovery milestone feedback) 
 * Updated vision canvas (if applicable based on Discovery milestone feedback) 
 * Updated technical design document (if applicable based on Discovery milestone feedback) 
-* Updated collaboration plan, including details on each team member's contribution so far. See template collaboration plan for more specifications. 
+* Updated collaboration plan, including details on each team member's contribution so far. 
 
 
 ## Final Submission (45 points)
@@ -127,14 +127,15 @@ Make sure to look over the detailed rubric, which has been linked on this page, 
 To reiterate, submission requirements for the Final Submission milestone: 
 * Video demo of game features
 * Project code through a repository or drive/box link
-* Final peer evaluation form, linked above, required per individual. 
+* Final peer evaluation form, discussed below, required per individual. 
 * Updated project summary (if applicable based on Alpha milestone feedback) 
 * Updated vision canvas (if applicable based on Alpha milestone feedback) 
 * Updated technical design document (if applicable based on Alpha milestone feedback) 
-* Updated collaboration plan, including details on each team member's contribution so far. See template collaboration plan for more specifications.
+* Updated collaboration plan, including details on each team member's contributions so far.
 
 ## Peer Evaluation (3 points)
 **Due date: 11:59 PM May 1**
+
 **Each team member must individually fill out the final peer evaluation form. The form will be published on CampusWire and due on May 1 by 11:59 PM CT.** 
 
 
