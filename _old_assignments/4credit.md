@@ -19,7 +19,7 @@ rubric:
     points: 20
     description: Submit a short video demonstrating your game
 --- 
-![UE5](/img/zeldavr.png){:class="img-responsive" style="display:block; margin:auto" width="600px"}
+![UE5](/img/retrogames.jpg){:class="img-responsive" style="display:block; margin:auto" width="600px"}
 ## What is the 4 Credit Assignment About?
 Taking the course for an extra credit hour requires the completion of an extra project in addition to the course project done by the entire class. 
 This semester, the 4 credit is to design and make a simple game **NOT** using Unreal. We suggest using either Unity or Godot but
