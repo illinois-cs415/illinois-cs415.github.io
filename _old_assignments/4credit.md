@@ -22,7 +22,7 @@ rubric:
 ![UE5](/img/retrogames.jpg){:class="img-responsive" style="display:block; margin:auto" width="600px"}
 ## What is the 4 Credit Assignment About?
 Taking the course for an extra credit hour requires the completion of an extra project in addition to the course project done by the entire class. 
-This semester, the 4 credit is to design and make a simple game **NOT** using Unreal. We suggest using either Unity or Godot but
+This semester, the 4 credit is to design and make a simple game **NOT** using Unreal. We suggest using either **[Unity](https://unity.com/learn)** or **[Godot](https://godotengine.org/)** but
 you can use another technology if you wish. If you are not familiar with those other two engines, take some time to look over the documentation for each 
 and then decide what you want to use. There are other options as well. This is an opportunity to learn a new thing or implement something you always wanted to...so long as it is related to the course in some way. 
 
@@ -52,26 +52,26 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 The proposal and video are graded for completion...the proposal must include all the elements listed above and the video must adequately demonstrate the elements of you game.
 
 The game itself will be graded as follows:
-+ 40 points for implmenting a functional game that is demonstrably **your own work**
-+ 10 points for creativity...is game not just a copy of an existing game or tutorial
++ 30 points for implmenting a functional game that is demonstrably **your own work**
++ 20 points for creativity...the gameplay is more than just a copy of a tutorial or an existing game
 + 10 points for implementing all the actors listed in the proposal
 + 10 points for implementing all the mechanics in the proposal 
 
 ## Sponsored Projects
 
 ### Sponsored Project Request Process
-To request to work on a sponsored project, post to [CampusWire]() visible only to course staff and using the `Sponsor Request` category. Include the following information:
-1. Name and netid of everyone asking to work on the project
+To request to work on a sponsored project, post to CampusWire visible only to course staff and using the title `Sponsor Request`. Include the following information:
+1. Name and netid of everyone asking to work on the project(if you want to work with a friend(s))
 2. Which sponsored project you are requesting
 
 We will contact you within a few days of the request to let you know the result of the request.
 
 ### List of Sponsored Projects
 
-1. We're offering an opportunity to work on the XR+AI for Empathy Training project at The Grainger College of Medicine as your group project option. This initiative involves developing an XR simulation using Unreal Engine 5 and creating AI-driven characters using GPT models. Even though this project is not a game, it's a fantastic opportunity to be involved in a real-world project for academic research. You'll gain hands-on experience in game development and push the boundaries of XR and AI for empathy training in healthcare and law enforcement.
-Learn more about the project: https://grainger.illinois.edu/research/sri/XR-AI-empathy-training
+1. We're offering an opportunity to work on the XR+AI for Empathy Training project at The Grainger College of Medicine as your project option. This initiative involves developing an XR simulation using Unreal Engine 5 and creating AI-driven characters using GPT models. Even though this project is not a game, it's a fantastic opportunity to be involved in a real-world project for academic research. You'll gain hands-on experience in game development and push the boundaries of XR and AI for empathy training in healthcare and law enforcement.
+Learn more about the project: [https://grainger.illinois.edu/research/sri/XR-AI-empathy-training](https://grainger.illinois.edu/research/sri/XR-AI-empathy-training)
 
-2. 
+2. Develop a web app for Scientific Visualization using [VTK, Web Assembly and Trame](https://www.kitware.com/vtk-wasm-and-its-trame-integration/) Data will be provided by the Grainger College of Medicine, but the goal of the project is just to explore the capibilities of VTK on the web so the project sponsors can determine if the technology is suitable for them. 
 
 ## Proposing a Non-Game Project ##
 
