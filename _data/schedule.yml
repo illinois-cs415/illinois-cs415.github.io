@@ -142,12 +142,18 @@
   title: "GDC Talks on Design"
 -
   date: "Week 10: Oct 29"
-  materials: ""
-  title: "" 
+  materials: "[Video]()<br/>
+               Euler Angles [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-EulerAngles.pdf)<br/>
+               Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf) <br/><br/>
+                 **Optional Reading:**<br/>
+              Real-Time Rendering Section 4.2 and 4.3<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
+  title: "Animation"
 -
   date: "Week 10: Oct 31"
-  materials: ""
-  title: "" 
+  materials: "Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/> 
+              GDC 2021 Talk: 2D Animation for Games: A Primer[YouTube] (https://youtu.be/PKZJmHrG4Yw?si=FAHo4VYXrNQjllpa)"
+  title: "Animation" 
 -
   date: "Week 11: Nov 5"
   materials: ""
