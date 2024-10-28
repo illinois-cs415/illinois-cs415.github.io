@@ -54,7 +54,7 @@ The final project is worth a total of **100 points**. Please see the [detailed r
 Each student will receive an e-mail from their project mentor and must respond by Oct 30.
 
 ## Discovery (10 of points)
-**Due date: 11:59 PM Nov 1**
+**Due date: 11:59 PM Nov 3**
 
 This is the first project milestone. You will need to complete the project documents contained within the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing) as a group.
 
