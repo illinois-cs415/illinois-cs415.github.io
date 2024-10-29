@@ -52,7 +52,7 @@ The project proposal should be submitted as a link to a Google Doc. That doc lin
 The proposal and video are graded for completion...the proposal must include all the elements listed above and the video must adequately demonstrate the elements of you game.
 
 The game itself will be graded as follows:
-+ 30 points for implmenting a functional game that is demonstrably **your own work**
++ 30 points for implementing a functional game that is demonstrably **your own work**
 + 20 points for creativity...the gameplay is more than just a copy of a tutorial or an existing game
 + 10 points for implementing all the actors listed in the proposal
 + 10 points for implementing all the mechanics in the proposal 
