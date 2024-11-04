@@ -159,10 +159,14 @@
   materials: Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
              Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
              Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
+             [Video]()<br/><br/>
                **Optional Reading:**<br/>
               <br/>
-              Game Physics Engine Development Chapters 2 to 4, 12<br/>
-              [PDF]()"
+              Game Physics Engine Development <br/>
+              [Chapter 2](https://drive.google.com/file/d/15rbVjENuzwyIsyxTz7fdXmYbgVmLLBRv/view?usp=drive_link), 
+              [Chapter 3](https://drive.google.com/file/d/1c3wBNYdKwgASDmvMMGfg2htjLAihdre3/view?usp=drive_link), 
+              [Chapter 4](https://drive.google.com/file/d/1oVBVU13JhvpmbzU1rP2iBJ80VJOQ7jQs/view?usp=drive_link),
+              [Chapter 12](https://drive.google.com/file/d/1iv8PNEcSJYzK7UvCVrunSizJUH2ZiEd_/view?usp=drive_link) <br/>"
   title: "Game Physics" 
 -
   date: "Week 11: Nov 7"
