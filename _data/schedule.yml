@@ -156,11 +156,17 @@
   title: "Animation" 
 -
   date: "Week 11: Nov 5"
-  materials: ""
+  materials: Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
+             Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
+             Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
+               **Optional Reading:**<br/>
+              <br/>
+              Game Physics Engine Development Chapters 2 to 4, 12<br/>
+              [PDF]()"
   title: "Game Physics" 
 -
   date: "Week 11: Nov 7"
-  materials: ""
+  materials: "Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)"
   title: "Game Physics" 
 -
   date: "Week 12: Nov 12"
