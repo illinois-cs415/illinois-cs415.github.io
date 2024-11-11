@@ -151,8 +151,7 @@
   title: "Animation"
 -
   date: "Week 10: Oct 31"
-  materials: "Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/> 
-              GDC 2021 Talk: 2D Animation for Games: A Primer [YouTube](https://youtu.be/PKZJmHrG4Yw?si=FAHo4VYXrNQjllpa)"
+  materials: "GDC 2021 Talk: 2D Animation for Games: A Primer [YouTube](https://youtu.be/PKZJmHrG4Yw?si=FAHo4VYXrNQjllpa)"
   title: "Animation" 
 -
   date: "Week 11: Nov 5"
@@ -177,12 +176,19 @@
   title: "Game Physics" 
 -
   date: "Week 12: Nov 12"
-  materials: "Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>"
+  materials: "Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
+              Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/> "
   title: "Game Physics" 
 -
   date: "Week 12: Nov 14"
-  materials: ""
-  title: "Game Physics" 
+  materials: "Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
+               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/>
+               **PrairieLearn HW 5 Assigned [Link]()**<br/><br/>
+              **Optional Reading:**<br/>
+              Fundamentals of Computer Graphics Chapter 4<br/>
+              [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
+  title: "Real-Time Ray Tracing""
+  title: "Graphics: Ray Tracing" 
 -
   date: "Week 13: Nov 19"
   materials: ""
