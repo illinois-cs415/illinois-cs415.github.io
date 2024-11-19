@@ -182,8 +182,7 @@
   title: "Game Physics" 
 -
   date: "Week 12: Nov 14"
-  materials: "Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
-               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/>
+  materials: " Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/>
                **PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443574)**<br/><br/>
               **Optional Reading:**<br/>
               Fundamentals of Computer Graphics Chapter 4<br/>
@@ -191,11 +190,12 @@
   title: "Graphics: Ray Tracing" 
 -
   date: "Week 13: Nov 19"
-  materials: ""
+  materials: "Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
+              "
   title: "Graphics: UE5 Lumen" 
 -
   date: "Week 13: Nov 21"
-  materials: ""
+  materials: "GDC/GTC 2022 NVIDIA Real-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)<br/>"
   title: "Graphics: Real-Time Ray Tracing" 
 -
   date: "Week 14: Nov 26"
@@ -211,7 +211,7 @@
   title: "Game AI" 
 -
   date: "Week 15: Dec 5"
-  materials: ""
+  materials: "[Creative Future with Artificial Intelligence - GDC 2023 Talk](https://youtu.be/fOqLuWml0UY?si=wXWE04Opl8HpHvVs)"
   title: "Game AI" 
 -
   date: "Week 16: Dec 10"
