@@ -131,9 +131,9 @@ To reiterate, submission requirements for the Final Submission milestone:
 * Updated collaboration plan, including details on each team member's contributions so far.
 
 ## Peer Evaluation (3 points)
-**Due date: 11:59 PM Dec 11**
+**Due date: 11:59 PM Dec 13**
 
-**Each team member must individually fill out the final peer evaluation form. The form will be published on CampusWire and due on Dec 111 by 11:59 PM CT.** 
+**Each team member must individually fill out the final peer evaluation form. The form will be published on CampusWire and due on Dec 13 by 11:59 PM CT.** 
 
 
 **See [here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
