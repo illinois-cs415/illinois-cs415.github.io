@@ -1,15 +1,15 @@
 - 
-  date: "Week 1: Aug 27"
+  date: "Week 1: Jan 21"
   materials: "Course Overview and Game Genres [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)<br/>
               Lecture [Video](https://mediaspace.illinois.edu/media/t/1_4qx12q24) <br/>"
   title: "Course Introduction"
 - 
-  date: "Week 1: Aug 29"
+  date: "Week 1: Jan 23"
   materials: "Your First Hour in UE 5.2 [Epic Link](https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2/vvdk/your-first-hour-in-unreal-engine-5-2-overview)<br/>
               [UE 5 Basics](https://dev.epicgames.com/documentation/en-us/unreal-engine/understanding-the-basics-of-unreal-engine)"
   title: "Intro to Unreal Engine"
 - 
-  date: "Week 2: Sep 3"
+  date: "Week 2: Jan 28"
   materials: "Art: Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
               UE5 Features [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)<br/>
               Lecture [Video](https://mediaspace.illinois.edu/media/t/1_gh7qtwf8) <br/><br/>
@@ -20,7 +20,7 @@
                [PDF](https://drive.google.com/file/d/1EB97gdVEuQ8uoUJ4TS8Esng7bdtxCVWa/view?usp=sharing)"
   title: "Art Assets"
 - 
-  date: "Week 2: Sep 5"
+  date: "Week 2: Jan 30"
   materials: "Art: Bezier Curves [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier1.pdf) [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)<br/>
               Art: Bezier Patches [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GeometryBezier2.pdf) [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)<br/>
               Art: Static Meshes [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-MeshAssets-2023.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4d38fc4f-e140-4d60-ae7b-77fd2811b5dc&from=sharedlink)<br/>
@@ -30,7 +30,7 @@
               [PDF](https://drive.google.com/file/d/1EPESnk8Lh3j68csYFnNSwDOINlwTWdsJ/view?usp=sharing) "
   title: "Geometric Modeling"
 -
-  date: "Week 3: Sep 10"
+  date: "Week 3: Feb 4"
   materials: "UE5 Nanite Example [YouTube](https://youtu.be/DKvA7NZRUcg)<br/>
               UE5 Nanite Introduction [YouTube](https://www.youtube.com/watch?v=-50MJf7hyOw&t=19s)<br/>
               Rendering: Introduction [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rendering.pdf) <br/>
@@ -41,19 +41,19 @@
               Real-Time Rendering Chapter 2 [PDF](https://drive.google.com/file/d/1nT2M0aXeWmp2y5_HZSAi2azcYlsgB_F2/view?usp=sharing)<br/>"
   title: "Rendering"
 - 
-  date: "Week 3: Sep 12"
+  date: "Week 3: Feb 6"
   materials: "Rendering: Rendering Pipeline [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-RenderingPipeline.pdf) [Video](https://classtranscribe.illinois.edu/video?id=11cfb825-9815-4ba3-92c9-4ab0880eb32d&from=sharedlink)<br/>
               **PrairieLearn HW 1 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443569)**"
   title: "Rendering"
 -
-  date: "Week 4: Sep 17"
+  date: "Week 4: Feb 11"
   materials: " Design: Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)<br/>
                Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
                Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>
                Lecture [Video](https://mediaspace.illinois.edu/media/t/1_yg23sun3)"
   title: "Rendering"
 -
-  date: "Week 4: Sep 19"
+  date: "Week 4: Feb 13"
   materials: "Rendering: LOD the Math [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LODQEM.pdf) [Video](https://classtranscribe.illinois.edu/video?id=4975fca7-4a44-42fc-a4a3-c29c471c8cfa&from=sharedlink)<br/>
               <br/>
               **Optional Reading and Viewing**<br/>
@@ -61,7 +61,7 @@
               SIGGRAPH 2021 Talk by Epic Engineer Brian Kariss [YouTube](https://youtu.be/eviSykqSUUw?si=itB6ry5OjlipMcPG)"
   title: "Rendering" 
 -
-  date: "Week 5: Sep 24"
+  date: "Week 5: Feb 18"
   materials: "Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
               Stardew Valley [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-StardewValley.pdf)<br/>
               Game AI History [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-1.pdf) <br/><br/>
@@ -73,7 +73,7 @@
               Blood, Sweat, and Pixels [Amazon Link](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)"
   title: "Game Design"
 -
-  date: "Week 5: Sep 26"
+  date: "Week 5: Feb 20"
   materials:  
    Pathfinding [Video](https://classtranscribe.illinois.edu/video?id=1fe9cc72-35da-4c92-beaf-90dabec2d268&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-3.pdf)
    <br/>A* in Games [Video](https://classtranscribe.illinois.edu/video?id=9464b539-b000-4df0-bc81-398c9935b5ad&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-4.pdf) <br/>
@@ -85,13 +85,13 @@
     "
   title: "Game AI"
 - 
-  date: "Week 6: Oct 1"
+  date: "Week 6: Feb 25"
   materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
               Lecture [Video](https://mediaspace.illinois.edu/media/t/1_856fcxmr) <br/>
               "
   title: "Rendering"
 -
-  date: "Week 6: Oct 3"
+  date: "Week 6: Feb 27"
   materials: "Rasterization [2022 Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
               Nanite Rasterization [Video](https://classtranscribe.illinois.edu/video?id=ad3810ad-af3b-4e57-9f4c-3582a1901a00&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
               <br/> <br/>
@@ -99,7 +99,7 @@
                Real-Time Rendering Chapter 23 [PDF](https://drive.google.com/file/d/1rqzUDmTSvfhJFhAfYvcwifew7ApHp5ve/view?usp=sharing)"
   title: "Rendering"
 -
-  date: "Week 7: Oct 8"
+  date: "Week 7: Mar 4"
   materials: "Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf) [Video](https://mediaspace.illinois.edu/media/t/1_gsavl3ef)<br/>
               <br/><br/>
               **PrairieLearn HW 3 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443571)**<br/><br/>
@@ -109,18 +109,18 @@
                Real-Time Rendering Sections 5.1 - 5.3 [PDF](https://drive.google.com/file/d/1XAMsHEDDj-HqPqfvXQ5GnlDKkWg86kNo/view?usp=sharing)"
   title: "Rendering"
 - 
-  date: "Week 7: Oct 10"
+  date: "Week 7: Mar 6"
   materials: "Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf) <br/>
               UE Material Model [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-UE5Material.pdf) <br/>
               [2023 Lecture Video](https://classtranscribe.illinois.edu/video?id=35c12270-6552-440f-9c96-66d2561ec13a&from=sharedlink)"
   title: "Rendering"
 -
-  date: "Week 8: Oct 15"
+  date: "Week 8: Mar 11"
   materials: "**11am Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443567)**<br/><br/>
               **8pm Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443567)**"
   title: "**EXAM 1**" 
 -
-  date: "Week 8: Oct 17"
+  date: "Week 8: Mar 13"
   materials: "**Guest Lectures by Dan Cermak:**<br/>
                 Design Methodologies [Video](https://classtranscribe.illinois.edu/video?id=43939a1e-83eb-4e86-9922-779d58b96195&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet1%20Intro.pdf) <br/> 
                 Principles of Design [Video](https://classtranscribe.illinois.edu/video?id=2cc09042-db19-4bc3-b4c5-798ca4d4382a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet2%20Principles%20NV.pdf) <br/> 
