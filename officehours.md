@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Calendar
+title: Office Hours
 ---
 
 For Office Hours click on the link to find out if they are in-perosn, on Zoom or both.
