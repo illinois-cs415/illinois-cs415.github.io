@@ -121,25 +121,20 @@
   title: "**EXAM 1**" 
 -
   date: "Week 8: Mar 13"
-  materials: "**Guest Lectures by Dan Cermak:**<br/>
-                Design Methodologies [Video](https://classtranscribe.illinois.edu/video?id=43939a1e-83eb-4e86-9922-779d58b96195&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet1%20Intro.pdf) <br/> 
-                Principles of Design [Video](https://classtranscribe.illinois.edu/video?id=2cc09042-db19-4bc3-b4c5-798ca4d4382a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet2%20Principles%20NV.pdf) <br/> 
-                Vision Canvas [Video](https://classtranscribe.illinois.edu/video?id=210783b1-9e3c-44b0-8e77-93c1a6080462&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet3%20Canvas.pdf) <br/> 
-                MDA [Video](https://classtranscribe.illinois.edu/video?id=83272dee-ed41-421c-bbf0-c48312e91d2a&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet4%20MDA.pdf) <br/> 
-                Narrative [Video](https://classtranscribe.illinois.edu/video?id=ce809e81-941d-4b26-b571-823eb55f9b4d&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet5%20Loops%20Arcs%20World.pdf)"
-  title: "Game Design" 
--
-  date: "Week 9: Mar 18"
   materials: "Transformations [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-GeometricTransformations.pdf) <br/>
                [Video](https://mediaspace.illinois.edu/media/t/1_d94l45ub)<br/><br/>
                **Optional Reading:**<br/>
                Real-Time Rendering Section 4.1 [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Course Project and Animation Basics" 
 -
+  date: "Week 9: Mar 18"
+  materials: "**NO LECTURE**"
+  title: "**SPRING BREAK**"  
+-
   date: "Week 9: Mar 20"
-  materials: "Rules of the Game:<br/> Five Techniques from Quite Inventive Designers (2016) [YouTube](https://youtu.be/d8QAVGeEj-U?si=Fk8f2ovx1zX7_cEQ)<br/>
-              Designing Games for Game Designers (2012) [YouTube](https://youtu.be/ke_kOD2D-bs?si=FazHhxS2jCf3Q6LL)"
-  title: "GDC Talks on Design"
+  materials: "**NO LECTURE**"
+  title: "**SPRING BREAK**"  
+
 -
   date: "Week 10: Mar 25"
   materials: "[Video](https://mediaspace.illinois.edu/media/t/1_hjgz6dbj)<br/>
@@ -200,12 +195,12 @@
   title: "Graphics: Real-Time Ray Tracing" 
 -
   date: "Week 14: Apr 22"
-  materials: "**NO LECTURE**"
-  title: "**FALL BREAK**" 
+  materials: ""
+  title: "" 
 -
   date: "Week 14: Apr 24"
-  materials: "**NO LECTURE**"
-  title: "**FALL BREAK**"  
+  materials: ""
+  title: ""  
 -
   date: "Week 15: Apr 29"
   materials: ""
