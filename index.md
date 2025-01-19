@@ -16,34 +16,33 @@ This is a team and project-based course on video game design and development usi
 
 **It is your responsibility to stay engaged with the course...at a minimum this means:**
   1. **Checking CampusWire every Tuesday for weekly announcements**
-  2. **Watching the Course Calendar for assignment due dates**
+  2. **Watching the [Schedule page](https://illinois-cs415.github.io/schedule) for assignment due dates**
   3. **Engaging with your project group and contributing significantly to the project.<br/>
        Failure to do so can result in failure in the course.** 
 
   You should also attend the live discussions...but we understand that conflicts come up and will not make attendance mandatory. 
   You definitely should watch all the posted videos in order to successfully complete the Homework and Exams. 
 
-#### [CampusWire](https://campuswire.com/p/GD8317729) ####
+#### [CampusWire](https://campuswire.com/p/GB2E56D41) ####
 
 We will use CampusWire for answering questions and administering the course.
-+ Click **[this link](https://campuswire.com/p/GD8317729)** to join/view the forum.<br/> 
-+ Use the passcode **6936**. 
++ Click **[this link](https://campuswire.com/p/GB2E56D41)** to join/view the forum.<br/> 
++ Use the passcode **2134**. 
 + For any question involving a grade you should select the tag `Post to instructors and TAs`.
 
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* Janelle Domantay TA
 * Jason Situ TA
   
 ## Instructional Content ##
 
-The course will be taught using online lectures along with additional reading materials. Everything you need to attend, read or watch will be linked on the [Lectures page](https://illinois-cs415.github.io/schedule).
+The course will be taught using online lectures along with additional reading materials. Everything you need to attend, read or watch will be linked on the [Schedule page](https://illinois-cs415.github.io/schedule).
 
 #### Lectures ####
 + Live discussion on Zoom will be held **Tu at 11am Central Time**.<br/><br/>
 **[ZOOM LINK](https://illinois.zoom.us/j/89441530187?pwd=BlwTMKigRs05NCya0lnGAb3VD40SdZ.1)**<br/><br/>
-+ If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Lectures page](https://illinois-cs415.github.io/schedule).
++ If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Schedule page](https://illinois-cs415.github.io/schedule).
 
 #### Development Resources ####
 
