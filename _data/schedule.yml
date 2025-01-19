@@ -129,19 +129,19 @@
                 Narrative [Video](https://classtranscribe.illinois.edu/video?id=ce809e81-941d-4b26-b571-823eb55f9b4d&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/CS%20DesignSet5%20Loops%20Arcs%20World.pdf)"
   title: "Game Design" 
 -
-  date: "Week 9: Oct 22"
+  date: "Week 9: Mar 18"
   materials: "Transformations [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-GeometricTransformations.pdf) <br/>
                [Video](https://mediaspace.illinois.edu/media/t/1_d94l45ub)<br/><br/>
                **Optional Reading:**<br/>
                Real-Time Rendering Section 4.1 [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Course Project and Animation Basics" 
 -
-  date: "Week 9: Oct 24"
+  date: "Week 9: Mar 20"
   materials: "Rules of the Game:<br/> Five Techniques from Quite Inventive Designers (2016) [YouTube](https://youtu.be/d8QAVGeEj-U?si=Fk8f2ovx1zX7_cEQ)<br/>
               Designing Games for Game Designers (2012) [YouTube](https://youtu.be/ke_kOD2D-bs?si=FazHhxS2jCf3Q6LL)"
   title: "GDC Talks on Design"
 -
-  date: "Week 10: Oct 29"
+  date: "Week 10: Mar 25"
   materials: "[Video](https://mediaspace.illinois.edu/media/t/1_hjgz6dbj)<br/>
                Euler Angles [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-EulerAngles.pdf)<br/>
                Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf) <br/><br/>
@@ -150,11 +150,11 @@
               [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Animation"
 -
-  date: "Week 10: Oct 31"
+  date: "Week 10: Mar 27"
   materials: "GDC 2021 Talk: 2D Animation for Games: A Primer [YouTube](https://youtu.be/PKZJmHrG4Yw?si=FAHo4VYXrNQjllpa)"
   title: "Animation" 
 -
-  date: "Week 11: Nov 5"
+  date: "Week 11: Apr 1"
   materials: "Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
              Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
              [Video](https://mediaspace.illinois.edu/media/t/1_bh64avxg)<br/><br/>
@@ -166,7 +166,7 @@
               [Chapter 4](https://drive.google.com/file/d/1oVBVU13JhvpmbzU1rP2iBJ80VJOQ7jQs/view?usp=drive_link),<br/>"
   title: "Game Physics" 
 -
-  date: "Week 11: Nov 7"
+  date: "Week 11: Apr 3"
   materials: "Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>
               **Homework 4 [PL Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443573)**
                **Optional Reading:**<br/>
@@ -175,13 +175,13 @@
               [Chapter 12](https://drive.google.com/file/d/1iv8PNEcSJYzK7UvCVrunSizJUH2ZiEd_/view?usp=drive_link) <br/>"
   title: "Game Physics" 
 -
-  date: "Week 12: Nov 12"
+  date: "Week 12: Apr 8"
   materials: "Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
               Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/> 
               [Video](https://mediaspace.illinois.edu/media/t/1_gr1ys5sl)"
   title: "Game Physics" 
 -
-  date: "Week 12: Nov 14"
+  date: "Week 12: Apr 10"
   materials: " Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/>
                **PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443574)**<br/><br/>
               **Optional Reading:**<br/>
@@ -189,33 +189,33 @@
               [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Graphics: Ray Tracing" 
 -
-  date: "Week 13: Nov 19"
+  date: "Week 13: Apr 15"
   materials: "Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
                UE5 Lumen [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5 Lumen.pdf)<br/>
                [Video](https://mediaspace.illinois.edu/media/t/1_07hgvgrq)<br/>"
   title: "Graphics: UE5 Lumen" 
 -
-  date: "Week 13: Nov 21"
+  date: "Week 13: Apr 17"
   materials: "GDC/GTC 2022 NVIDIA Real-Time Path Tracing [Talk Video](https://research.nvidia.com/publication/2022-03_Research-Advances-Toward)<br/>"
   title: "Graphics: Real-Time Ray Tracing" 
 -
-  date: "Week 14: Nov 26"
+  date: "Week 14: Apr 22"
   materials: "**NO LECTURE**"
   title: "**FALL BREAK**" 
 -
-  date: "Week 14: Nov 28"
+  date: "Week 14: Apr 24"
   materials: "**NO LECTURE**"
   title: "**FALL BREAK**"  
 -
-  date: "Week 15: Dec 3"
+  date: "Week 15: Apr 29"
   materials: ""
   title: "Guest Lecture: Game Industry" 
 -
-  date: "Week 15: Dec 5"
+  date: "Week 15: May 1"
   materials: "[Creative Future with Artificial Intelligence - GDC 2023 Talk](https://youtu.be/fOqLuWml0UY?si=wXWE04Opl8HpHvVs)"
   title: "Game AI" 
 -
-  date: "Week 16: Dec 10"
+  date: "Week 16: May 6"
   materials: "**11am Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443568)**<br/><br/>
               **8pm Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443568)**"
   title: "**EXAM 2**" 
