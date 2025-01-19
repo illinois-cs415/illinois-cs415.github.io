@@ -56,7 +56,7 @@ If your computer is not capable of running Unreal, see the [Resources page](http
 
 ## Assessments ##
 
-Assigned work will include 6 homework assignments, 2 exams, 2 programming assignments, and a final project.
+Assigned work will include 6 homework assignments, 2 exams, 3 programming assignments, and a final project.
 
 #### Homework ####
 There will be 6 short homework assignments on PrairieLearn. This homework will be based on the lecture material. 
@@ -79,14 +79,14 @@ There will be two exams. They will:
   **The sanction for doing so will be failure in the course**  
 
  **The exam dates are:<br/>**
- + **Oct 15 11am to noon (conflict at Oct 15 8pm to 9pm)**
- + **Dec 10 11am to noon (conflict at Dec 10 8pm to 9pm)**
+ + **March 11 11am to noon (conflict at March 11 8pm to 9pm)**
+ + **May 6 11am to noon (conflict at May 6 8pm to 9pm)**
  
  The exams are not meant to be difficult...do the homework to prepare and you will be fine.<br/>
  There's really no need to cheat.
 
 #### Programming Assignments ####
-There will be 2 machine problems (MPs) that will serve as an introduction to Unreal. You will use Unreal 5 and Blueprints to implement the MPs.
+There will be 3 machine problems (MPs) that will serve as an introduction to Unreal. You will use Unreal 5 and Blueprints to implement the MPs.
 
 #### Project ####
 The course project will be team-based with teams of 3 to 5 people working on a project. You will have a choice of what to implement, but your proposed project is expected to be related to game development in some way...typically it should be a game. The grading citeria and development process are described on the Project page.
@@ -102,10 +102,12 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP 1 | 10% | 5% | 
+| MP0  | 1%  | 1% |
+| MP 1 | 9% | 4% | 
 | MP 2 | 15% | 10% |   
 | Homework|15%| 10%|
-| Exams | 24% | 24%|
+| Exam 1 | 12% | 12%|
+| Exam 2 | 12% | 12%|
 | Project | 36% | 36% |
 | 4 Credit MP | NA | 15% |
 
