@@ -44,7 +44,7 @@ The course will be taught using online lectures along with additional reading ma
 **[ZOOM LINK](https://illinois.zoom.us/j/89441530187?pwd=BlwTMKigRs05NCya0lnGAb3VD40SdZ.1)**<br/><br/>
 + If you do miss the occasional discussion...no worries. The lectures will be recorded and available on the [Schedule page](https://illinois-cs415.github.io/schedule).
 
-+ **There is no live lecture on Thursday.** Pre-recorded lectures and other contennt will be posted on **Thursdays**. You are expected to watch these and/or read the posted content. 
++ **There is no live lecture on Thursday.** Pre-recorded lectures and other contennt will be posted on Thursdays. You are expected to watch these and/or read the posted content. 
 
 #### Development Resources ####
 
