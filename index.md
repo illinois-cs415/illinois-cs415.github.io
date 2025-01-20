@@ -51,14 +51,6 @@ The course will be taught using online lectures along with additional reading ma
 
 + **There is no live lecture on Thursday.** Pre-recorded lectures and other contennt will be posted on Thursdays. You are expected to watch these and/or read the posted content. 
 
-#### Development Resources ####
-
-You will need to have access to a computer capable of running Unreal Engine. <br/>
-+ You can test your computer by downloading and installing Unreal vesion 5.4.3 from [here](https://www.unrealengine.com/en-US/download) <br/>
-+ You should choose the publishing license. 
-
-If your computer is not capable of running Unreal, see the [Resources page](https://illinois-cs415.github.io/resources) for ways you can find a computer on campus running Unreal Engine.
-
 ## Assessments ##
 
 Assigned work will include 6 homework assignments, 2 exams, 3 programming assignments, and a final project.
@@ -100,9 +92,14 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 For the Programming Assignments and Project we will have the following the rules:
 + **DO NOT SUBMIT SOMEONE ELSE'S GAME AS YOUR OWN** The penalty for doing so will be **failure in the course**.
+
 + If you are in a situation that makes completing the assignment difficult (e.g. health reasons, interview schedule, whatvere) **contact the course staff on campuswire at least 3 days before the due date and we can come up with a plan to complete thge work that does not involve plagiarism.**
+
 + You can use assets, even code, created by others for the project but you must tell us did and achknowledge the original author or source and **the project as a whole needs to be substantially new work by your team.**
+
+
 + You can use Gen AI tools for the project but you must tell us did and achknowledge the source and **the project as a whole needs to be substantially new work by your team.**   
+
 
 #### 4 Credit Option ####
 
