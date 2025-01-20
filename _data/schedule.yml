@@ -1,7 +1,7 @@
 - 
   date: "Week 1: Jan 21"
   materials: "Course Overview and Game Genres [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-GameGenres.pdf)<br/>
-              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_4qx12q24) <br/>"
+              Lecture [Video]() <br/>"
   title: "Course Introduction"
 - 
   date: "Week 1: Jan 23"
@@ -12,8 +12,8 @@
   date: "Week 2: Jan 28"
   materials: "Art: Assets [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-ArtOverview.pdf) <br/>
               UE5 Features [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5Overview.pdf)<br/>
-              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_gh7qtwf8) <br/><br/>
-              **MP1 Due Sep 12** [Link](https://illinois-cs415.github.io/assignments/mp1.html)<br/><br/>
+              Lecture [Video]() <br/><br/>
+              **MP1 Due Sep 12** [Link]()<br/><br/>
               **Optional Reading:**<br/>
                Fundamentals of Computer Graphics Ch 12<br/>
                [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955292160105899)<br/>
@@ -35,7 +35,7 @@
               UE5 Nanite Introduction [YouTube](https://www.youtube.com/watch?v=-50MJf7hyOw&t=19s)<br/>
               Rendering: Introduction [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rendering.pdf) <br/>
               Rendering: Perspective Projection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PerspectiveProjection.pdf)<br/>
-              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_x5szrkf6)<br/><br/>
+              Lecture [Video]()<br/><br/>
                **Optional Reading:**<br/>
               Fundamentals of Computer Graphics (4th Ed) Ch 7 [PDF](https://drive.google.com/file/d/1xzDXdAFBlrIISfhpTRMlDwAZDG1wXsrX/view?usp=drive_link) <br/>
               Real-Time Rendering Chapter 2 [PDF](https://drive.google.com/file/d/1nT2M0aXeWmp2y5_HZSAi2azcYlsgB_F2/view?usp=sharing)<br/>"
@@ -43,14 +43,14 @@
 - 
   date: "Week 3: Feb 6"
   materials: "Rendering: Rendering Pipeline [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-RenderingPipeline.pdf) [Video](https://classtranscribe.illinois.edu/video?id=11cfb825-9815-4ba3-92c9-4ab0880eb32d&from=sharedlink)<br/>
-              **PrairieLearn HW 1 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443569)**"
+              "
   title: "Rendering"
 -
   date: "Week 4: Feb 11"
   materials: " Design: Level Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf)<br/>
                Rendering: LOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-LOD-23.pdf)<br/>
                Rendering: CLOD [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-CLOD.pdf)<br/>
-               Lecture [Video](https://mediaspace.illinois.edu/media/t/1_yg23sun3)"
+               Lecture [Video]()"
   title: "Rendering"
 -
   date: "Week 4: Feb 13"
