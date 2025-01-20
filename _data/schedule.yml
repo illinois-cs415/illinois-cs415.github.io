@@ -85,13 +85,13 @@
 - 
   date: "Week 6: Feb 25"
   materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
-              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_856fcxmr) <br/>
+              Lecture [Video]() <br/>
               "
   title: "Rendering"
 -
   date: "Week 6: Feb 27"
-  materials: "Rasterization [2022 Video](https://classtranscribe.illinois.edu/video?id=36abfac0-7011-49b4-9f67-f9766b24900f&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
-              Nanite Rasterization [Video](https://classtranscribe.illinois.edu/video?id=ad3810ad-af3b-4e57-9f4c-3582a1901a00&from=sharedlink) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
+  materials: "Rasterization [Video]) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
+              Nanite Rasterization [Video]() [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
               <br/> <br/>
                **Optional Reading**<br/>
                Real-Time Rendering Chapter 23 [PDF](https://drive.google.com/file/d/1rqzUDmTSvfhJFhAfYvcwifew7ApHp5ve/view?usp=sharing)"
@@ -100,7 +100,7 @@
   date: "Week 7: Mar 4"
   materials: "Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Shading.pdf) [Video](https://mediaspace.illinois.edu/media/t/1_gsavl3ef)<br/>
               <br/><br/>
-              **PrairieLearn HW 3 Assigned [Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443571)**<br/><br/>
+    
               **Optional Reading:**<br/>
                Wikipedia Phong Reflection Model [Link](https://en.wikipedia.org/wiki/Phong_reflection_model)<br/>
                Fundamentals of Computer Graphics Ch 5 [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955292160105899)<br/>
@@ -110,17 +110,17 @@
   date: "Week 7: Mar 6"
   materials: "Deferred Shading [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-DeferredShading.pdf) <br/>
               UE Material Model [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/747648605c52cd748546748c86eec173a7dde857/img/slides/415-UE5Material.pdf) <br/>
-              [2023 Lecture Video](https://classtranscribe.illinois.edu/video?id=35c12270-6552-440f-9c96-66d2561ec13a&from=sharedlink)"
+              [Video]()"
   title: "Rendering"
 -
   date: "Week 8: Mar 11"
-  materials: "**11am Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443567)**<br/><br/>
-              **8pm Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443567)**"
+  materials: "**11am Central Time [Exam Link]()**<br/><br/>
+              **8pm Central Time [Exam Link]()**"
   title: "**EXAM 1**" 
 -
   date: "Week 8: Mar 13"
   materials: "Transformations [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/415-GeometricTransformations.pdf) <br/>
-               [Video](https://mediaspace.illinois.edu/media/t/1_d94l45ub)<br/><br/>
+               [Video]()<br/><br/>
                **Optional Reading:**<br/>
                Real-Time Rendering Section 4.1 [PDF](https://drive.google.com/file/d/13Oxmdg7sNspx7C2k2vrz_vmJvPA0bPfS/view?usp=sharing)"
   title: "Course Project and Animation Basics" 
@@ -135,7 +135,7 @@
 
 -
   date: "Week 10: Mar 25"
-  materials: "[Video](https://mediaspace.illinois.edu/media/t/1_hjgz6dbj)<br/>
+  materials: "[Video]()<br/>
                Euler Angles [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-EulerAngles.pdf)<br/>
                Quaternions [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Quaternions.pdf) <br/><br/>
                  **Optional Reading:**<br/>
@@ -150,7 +150,7 @@
   date: "Week 11: Apr 1"
   materials: "Physics Engine Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-PhysicsEngine.pdf)<br/>
              Euler Integration [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Euler1.pdf)<br/>
-             [Video](https://mediaspace.illinois.edu/media/t/1_bh64avxg)<br/><br/>
+             [Video]()<br/><br/>
                **Optional Reading:**<br/>
               <br/>
               Game Physics Engine Development <br/>
@@ -161,7 +161,6 @@
 -
   date: "Week 11: Apr 3"
   materials: "Chaos Physics in UE [YouTube](https://youtu.be/6T8LzaIq3Qs)<br/>
-              **Homework 4 [PL Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443573)**
                **Optional Reading:**<br/>
               <br/>
               Game Physics Engine Development <br/>
@@ -171,7 +170,7 @@
   date: "Week 12: Apr 8"
   materials: "Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>
               Kinematics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-IntroToAnim.pdf)<br/> 
-              [Video](https://mediaspace.illinois.edu/media/t/1_gr1ys5sl)"
+              [Video]()"
   title: "Game Physics" 
 -
   date: "Week 12: Apr 10"
@@ -185,7 +184,7 @@
   date: "Week 13: Apr 15"
   materials: "Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
                UE5 Lumen [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5 Lumen.pdf)<br/>
-               [Video](https://mediaspace.illinois.edu/media/t/1_07hgvgrq)<br/>"
+               [Video]()<br/>"
   title: "Graphics: UE5 Lumen" 
 -
   date: "Week 13: Apr 17"
@@ -209,7 +208,7 @@
   title: "Game AI" 
 -
   date: "Week 16: May 6"
-  materials: "**11am Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443568)**<br/><br/>
-              **8pm Central Time [Exam Link](https://us.prairielearn.com/pl/course_instance/161595/assessment/2443568)**"
+  materials: "**11am Central Time [Exam Link]()**<br/><br/>
+              **8pm Central Time [Exam Link]()**"
   title: "**EXAM 2**" 
 -
