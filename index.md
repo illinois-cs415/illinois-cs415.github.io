@@ -110,7 +110,7 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP0  | 1%  | 1% |
+| MP 0  | 1%  | 1% |
 | MP 1 | 9% | 4% | 
 | MP 2 | 15% | 10% |   
 | Homework|15%| 10%|
@@ -144,13 +144,6 @@ Diminished mental health, including significant stress, mood changes, excessive 
 
 Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
 McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
-
-## Statement on anti-racism and inclusivity ##
-The intent of this section is to raise student and instructor awareness of the ongoing threat of bias and racism and of the need to take personal responsibility in creating an inclusive learning environment.
-
-The Grainger College of Engineering is committed to the creation of an anti-racist, inclusive community that welcomes diversity along a number of dimensions, including, but not limited to, race, ethnicity and national origins, gender and gender identity, sexuality, disability status, class, age, or religious beliefs. The College recognizes that we are learning together in the midst of the Black Lives Matter movement, that Black, Hispanic, and Indigenous voices and contributions have largely either been excluded from, or not recognized in, science and engineering, and that both overt racism and micro-aggressions threaten the well-being of our students and our university community.
-
-The effectiveness of this course is dependent upon each of us to create a safe and encouraging learning environment that allows for the open exchange of ideas while also ensuring equitable opportunities and respect for all of us. Everyone is expected to help establish and maintain an environment where students, staff, and faculty can contribute without fear of personal ridicule, or intolerant or offensive language. If you witness or experience racism, discrimination, micro-aggressions, or other offensive behavior, you are encouraged to bring this to the attention of the course director if you feel comfortable. You can also report these behaviors to the Bias Assessment and Response Team (BART) (https://bart.illinois.edu/). Based on your report, BART members will follow up and reach out to students to make sure they have the support they need to be healthy and safe. If the reported behavior also violates university policy, staff in the Office for Student Conflict Resolution may respond as well and will take appropriate action.
 
 ## Statement on CS CARES and CS Values and Code of Conduct (Approved by CS CARES Committee, January 13, 2022) ##
 All members of the Illinois Computer Science department - faculty, staff, and students - are expected to adhere to the CS Values and Code of Conduct. The CS CARES Committee is available to serve as a resource to help people who are concerned about or experience a potential violation of the Code. If you experience such issues, please contact the CS CARES Committee. The Instructors of this course are also available for issues related to this class.
