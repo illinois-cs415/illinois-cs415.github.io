@@ -33,7 +33,12 @@ We will use CampusWire for answering questions and administering the course.
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* Jason Situ TA
+* Jason Situ (TA)
+* Shan Huang (TA)
+* Kyo Hyun Kim (TA)
+* Benhao Lu (TA)
+* Edwin Ing (TA)
+* Ben Guan (TA)
   
 ## Instructional Content ##
 
