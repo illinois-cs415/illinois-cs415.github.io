@@ -91,6 +91,14 @@ There will be 3 machine problems (MPs) that will serve as an introduction to Unr
 #### Project ####
 The course project will be team-based with teams of 3 to 5 people working on a project. You will have a choice of what to implement, but your proposed project is expected to be related to game development in some way...typically it should be a game. The grading citeria and development process are described on the Project page.
 
+#### Gen AI and Plagiarism Policy ####
+
+For the Programming Assignments and Project we will have the following the rules:
++ **DO NOT SUBMIT SOMEONE ELSE'S GAME AS YOUR OWN** The penalty for doing so will be **failure in the course**.
++ If you are in a situation that makes completing the assignment difficult (e.g. health reasons, interview schedule, whatvere) **contact the course staff on campuswire at least 3 days before the due date and we can come up with a plan to complete thge work that does not involve plagiarism.**
++ You can use assets, even code, created by others for the project but you must tell us did and achknowledge the original author or source and **the project as a whole needs to be substantially new work by your team.**
++ You can use Gen AI tools for the project but you must tell us did and achknowledge the source and **the project as a whole needs to be substantially new work by your team.**   
+
 #### 4 Credit Option ####
 
 Students taking the course for 4 credits will complete an extra programming assignment using an alternative game engine such as Unity or Godot.
