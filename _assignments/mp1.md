@@ -33,15 +33,18 @@ If you have access to a personal computer (laptop or otherwise), you will need t
 
 ### Which Version?
 
-**You should use Unreal 5.0 or above for this course.** The exact version is not terribly important. We would recommend using Unreal 5.5, the latest version, if possible.
+**You should use Unreal 5.2 or above for this course.** The exact version is not terribly important. We would recommend using Unreal 5.5, the latest version, if possible.
 
 ### Download and Install
-
-https://www.unrealengine.com/en-US
+![Unreal](/img/unreal-install.png){:width="800px"}
+You should go to the link [https://www.unrealengine.com/en-US](https://www.unrealengine.com/en-US) and follow steps 1, 2 and 3 as you see above.
 
 ### Complete the Tutorial
 
+After that try to complete the tuitorial 
 Your First Hour in UE 5.2 [Epic Link](https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2/vvdk/your-first-hour-in-unreal-engine-5-2-overview)<br/>
+
+**You do not have to be using version 5.2 to complete the titorial.** It shoudl work with newer versions as well.
 
 ### Submit the Survey 
 
