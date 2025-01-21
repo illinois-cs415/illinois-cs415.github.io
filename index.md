@@ -144,12 +144,9 @@ To earn an A+, you must earn an A numerically and do something that stands out a
 ## Mental Health ##
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
 
-Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
-McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
++ Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
+
++ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
 
 ## Statement on CS CARES and CS Values and Code of Conduct (Approved by CS CARES Committee, January 13, 2022) ##
 All members of the Illinois Computer Science department - faculty, staff, and students - are expected to adhere to the CS Values and Code of Conduct. The CS CARES Committee is available to serve as a resource to help people who are concerned about or experience a potential violation of the Code. If you experience such issues, please contact the CS CARES Committee. The Instructors of this course are also available for issues related to this class.
-
-
-
-
