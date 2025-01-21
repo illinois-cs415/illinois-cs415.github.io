@@ -11,7 +11,7 @@ You have several options on the University of Illinois campus, as detailed below
 **In all cases you need to be sure to save your code to a cloud-based repo or some other storage...do not expect that the computers will retain your work after you leave.**
 
 ## The Armory Lab
-**Location: 505 E. Armory Ave. Room 329 (After October 1 it will move to its permanent space in Armory 146)**  
+**Location: 505 E. Armory Ave. Room 146**  
 **Hours: M-Th 8:00am - 9:00pm, Friday 8:00am - 6:00pm, Su 1:00pm - 9:00pm**  
 **Equipment:**  
 18 Precision 3680 Towers  
@@ -21,20 +21,10 @@ NVIDIA GeForce RTX 4070
 ## Siebel Center for Design Lab
 **Location: 1208 S 4th St, Room 0060**  
 **Hours: 5-10pm Sunday-Thursday** 
-**10am-5pm Friday, 10am-9pm Staurday** 
 **Equipment:**  
 18 Precision 3680 Towers  
 Intel® Core™ i9 14th Gen 14900K  
 NVIDIA GeForce RTX 4070  
-
-## Immersive Computing Lab: Room 1104 NCSA
-#### Equipment 
-+ 10 Dell 5280 computers with NVIDIA RTX 3090 GPUs and Unreal Engine 4 and 5 installed.
-+ 3 Oculus Quest HMDs with link cables
-+ 3 Meta Quest 2 HMDs with link cables
-+ 8 remote access only workstations with NVIDIA RTX 2080 TI GPUs and Unreal Engine 4 and 5 installed 
-
-The 8 remote machines can be accessed through [Engineering IT LabCheck](https://answers.uillinois.edu/illinois.engineering/105329)
 
 ## Grainger Library Idea Lab
 
