@@ -39,6 +39,8 @@ If you run into problems during installation or later that you cannot solve, let
 
 ### Download and Install
 ![Unreal](/img/unreal-install.png){:width="800px"}
+
+
 You should go to the link [https://www.unrealengine.com/en-US](https://www.unrealengine.com/en-US) and follow steps 1, 2 and 3 as you see above.
 
 ### Complete the Tutorial
@@ -46,7 +48,7 @@ You should go to the link [https://www.unrealengine.com/en-US](https://www.unrea
 After that try to complete the tuitorial 
 Your First Hour in UE 5.2 [Epic Link](https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2/vvdk/your-first-hour-in-unreal-engine-5-2-overview)<br/>
 
-**You do not have to be using version 5.2 to complete the titorial.** It should work with newer versions as well.
+**You do not have to be using version 5.2 to complete the tutorial.** It should work with newer versions as well.
 
 ### Submit the Survey
 
@@ -54,4 +56,4 @@ To complete the assignment, just let us know how things went using **[this Surve
 
 ### Where is There More Documentation?
 
-If you are interested in reading more about how the use Unreal, you can find the official doumentation at [UE 5 Basics](https://dev.epicgames.com/documentation/en-us/unreal-engine/understanding-the-basics-of-unreal-engine)
+If you are interested in reading more about how to use Unreal, you can find the official documentation at [UE 5 Basics](https://dev.epicgames.com/documentation/en-us/unreal-engine/understanding-the-basics-of-unreal-engine)
