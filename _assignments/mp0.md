@@ -48,9 +48,9 @@ You should go to the link [https://www.unrealengine.com/en-US](https://www.unrea
 ### Complete the Tutorial
 
 After that try to complete the tuitorial 
-Your First Hour in UE 5.2 [Epic Link](https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2/vvdk/your-first-hour-in-unreal-engine-5-2-overview)<br/>
+**[Your First Hour in UE 5.2 Link](https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2/vvdk/your-first-hour-in-unreal-engine-5-2-overview)**<br/>
 
-**You do not have to be using version 5.2 to complete the tutorial.** It should work with newer versions as well.
+**You do not have to use version 5.2 to complete the tutorial.** It should work with newer versions as well.
 
 ### Submit the Survey
 
