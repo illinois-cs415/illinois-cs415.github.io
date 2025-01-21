@@ -25,13 +25,15 @@ Virtually all current game development relies on **game engines**. A game engine
 
 Unreal is one of the most popular game engines. It is free to use for non-commercial projects. It is also open source. Despite this, it is a state-of-the-art engine capable of creating a AAA game title. 
 
-Unreal is also very popular for commercial projects. It's licensing terms are generally considered very fair...you can find those at this [link](https://en.wikipedia.org/wiki/Unreal_Engine_5). You can a list of some commercial titles that use Unreal at this [link](https://gamerant.com/all-confirmed-unreal-engine-5-games/).
+Unreal is also very popular for commercial projects. Its licensing terms are generally considered very fair...you can find those at this [link](https://en.wikipedia.org/wiki/Unreal_Engine_5). You can find a list of some commercial titles that use Unreal at this [link](https://gamerant.com/all-confirmed-unreal-engine-5-games/).
 
 ## Your First Assignment
 
 If you have access to a personal computer (laptop or otherwise), you will need to determine if it is capable of running Unreal. To do so, you will install Unreal Engine, try to work through a tutorial that takes about one hour and then **let us know via a survey if you have a computer that can run Unreal.**
 
 If you run into problems during installation or later that you cannot solve, let us know by posting on [CampusWire](https://campuswire.com/c/GB2E56D41/feed) or joining a [Zoom office hour](https://illinois-cs415.github.io/officehours.html)
+
+**If you do not have a personal computer, just fill out the survey and let us know you do not have a machine capable of running Unreal.** After that, try going to one of the labs listed on the [Resources Page](https://illinois-cs415.github.io/resources) and completing the tutorial there. If you have trouble using those machines (e.g. Unreal is not installed) let us know by posting to [CampusWire](https://campuswire.com/c/GB2E56D41/feed).
 
 ### Which Version?
 
