@@ -146,7 +146,7 @@ Diminished mental health, including significant stress, mood changes, excessive 
 
 + Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
 
-+ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
++ McKinley Health Center: 217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
 
 ## Statement on CS CARES and CS Values and Code of Conduct (Approved by CS CARES Committee, January 13, 2022) ##
 All members of the Illinois Computer Science department - faculty, staff, and students - are expected to adhere to the CS Values and Code of Conduct. The CS CARES Committee is available to serve as a resource to help people who are concerned about or experience a potential violation of the Code. If you experience such issues, please contact the CS CARES Committee. The Instructors of this course are also available for issues related to this class.
