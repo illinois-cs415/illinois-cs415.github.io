@@ -15,7 +15,7 @@ rubric:
     points: 5
     description: Let us know if your computer can handle UE5 
 ---
-![Unreal](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/unreal-signin.png){:width="800px"}
+![Unreal](/img/unreal-signin.png){:width="800px"}
 
 ## Game Engines
 
