@@ -29,7 +29,9 @@ Unreal is also very popular for commercial projects. It's licensing terms are ge
 
 ## Your First Assignment
 
-If you have access to a personal computer (laptop or otherwise), you will need to determine if it is capable of running Unreal. To do so, you will install Unreal Engine, try to work through a tutorial that takes about one hour and then **let us know via a survey if you have a computer that can run Unreal.** 
+If you have access to a personal computer (laptop or otherwise), you will need to determine if it is capable of running Unreal. To do so, you will install Unreal Engine, try to work through a tutorial that takes about one hour and then **let us know via a survey if you have a computer that can run Unreal.**
+
+If you run into problems during installation or later that you cannot solve, let us know by posting on [CampusWire](https://campuswire.com/c/GB2E56D41/feed) or joining a [Zoom office hour](https://illinois-cs415.github.io/officehours.html)
 
 ### Which Version?
 
@@ -44,9 +46,11 @@ You should go to the link [https://www.unrealengine.com/en-US](https://www.unrea
 After that try to complete the tuitorial 
 Your First Hour in UE 5.2 [Epic Link](https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2/vvdk/your-first-hour-in-unreal-engine-5-2-overview)<br/>
 
-**You do not have to be using version 5.2 to complete the titorial.** It shoudl work with newer versions as well.
+**You do not have to be using version 5.2 to complete the titorial.** It should work with newer versions as well.
 
-### Submit the Survey 
+### Submit the Survey
+
+To complete the assignment, just let us know how things went using **[this Survey](https://docs.google.com/forms/d/e/1FAIpQLSe4DuSdMNXttHvGxd8anXKv87YbvcziNijgKsutx24pM2i9eQ/viewform?usp=sharing)**
 
 ### Where is There More Documentation?
 
