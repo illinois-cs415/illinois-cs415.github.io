@@ -59,3 +59,7 @@ To complete the assignment, just let us know how things went using **[this Surve
 ### Where is There More Documentation?
 
 If you are interested in reading more about how to use Unreal, you can find the official documentation at [UE 5 Basics](https://dev.epicgames.com/documentation/en-us/unreal-engine/understanding-the-basics-of-unreal-engine)
+
+## What Do I Hand In?
+
+**Just submit the survey...you Do Not need to make a video and submit on Canvas**
