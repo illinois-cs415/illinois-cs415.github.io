@@ -1,6 +1,6 @@
 ---
 layout: assignment
-title: "Your First Game: An Infinite Matrix"
+title: "MP 1: Your First Game: An Infinite Matrix"
 index: 2
 due: "Feb 7, 2024 @ 11:59 PM"
 material: ~
