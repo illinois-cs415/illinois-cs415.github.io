@@ -20,7 +20,7 @@ rubric:
     description: Display and track a game score
 -
     name: Health packs
-    points: 15
+    points: 10
     description: Spawn health packs that can be picked up
 -
     name: Speed increase
@@ -28,7 +28,7 @@ rubric:
     description: Gently increase player speed over time
 -
     name: Enemies
-    points: 15
+    points: 10
     description: Spawn enemies...the visual representation is up to you.
 -
     name: Player projectile attacks
@@ -38,6 +38,10 @@ rubric:
     name: Creative addition
     points: 10
     description: Modify the game aesthetic in some way
+
+-   name: Crate a video walkthrough
+    points: 10
+    description: Create and submit a short video demo of your game
 
 ---
 ![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix.PNG){:width="800px"}
