@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title: "Your First Game: An Infinite Matrix"
-index: 1
+index: 2
 due: "Feb 7, 2024 @ 11:59 PM"
 material: ~
 points: 100
