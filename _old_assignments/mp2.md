@@ -243,6 +243,12 @@ Create an enemy of your own design. It should have a similar complexity to the o
 
 You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
 
+#### Designs to avoid:
+- Combine pursuer and mortar
+- Duplicate pursuer/mortar with a different property (smaller hitbox, higher velocity, etc.)
+- Duplicate pursuer/mortar with a different visual representation (e.g import 3d model from Sketchfab) **without adding more mechanics**
+If you are concerned, feel free to make a CampusWire post of your thoughts
+
 ### Step 3: Add Player-Enemy collision behaviors
 All three enemy types should display the same behaviors upon colliding with the player character. 
 
