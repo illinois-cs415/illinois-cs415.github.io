@@ -243,6 +243,12 @@ Create an enemy of your own design. It should have a similar complexity to the o
 
 You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
 
+#### Designs to avoid:
+- Combine pursuer and mortar as a new enemy type
+- Duplicate pursuer/mortar with a different property (smaller hitbox, higher velocity, etc.)
+- Duplicate pursuer/mortar with a different visual representation (e.g import 3d model from Sketchfab) **without adding more mechanics**
+If you are concerned, feel free to make a CampusWire post of your thoughts
+
 ### Step 3: Add Player-Enemy collision behaviors
 All three enemy types should display the same behaviors upon colliding with the player character. 
 
@@ -258,6 +264,7 @@ There will be two different types of collision behaviors:
 The last step of the MP is to put it all together and make a platforming level. Your level should present some degree of challenge for the player and **take around 5 to 10 minutes to complete**. 
 
 Your final level should:
+- Have a complete level with creative and thoughtful designs (not just duplicating assets around the scene)
 - Have health packs scattered around the level that increase the player's health when collected
 - Have floating collectibles scattered around the level that are destroyed when collected and increase the player's score
 - Integrate all three enemy types into the design of the level
