@@ -3,8 +3,8 @@ layout: assignment
 title: "Level Design"
 index: 10
 due: "<br/>
-      Part 1: Sep 26 11:59PM CT<br/>
-      Part 2: Oct 9 11:59PM CT"
+      Part 1: Feb 19 11:59PM CT<br/>
+      Part 2: Feb 28 11:59PM CT"
 material: ~
 points: 100
 rubric:
@@ -53,10 +53,10 @@ MP2 is all about level design and all the important factors that go into it. In 
 **This MP is split into two parts**:<br/><br/>
 
 **Part 1** covers creating the map, health system, collectibles, and Pursuer enemy type.
-**It is due Sep 26 at 11:59pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
+**It is due Feb 19 at 11:59pm. It is worth 10% of the total MP grade and is only graded for completion...there is no partial credit. If you do not submit on time and with all the required features working, you total MP will at most be 90% of the total points obtainable.** 
 <br/><br/>
 **Part 2** covers creating the Mortar and custom enemies, as well as handling player-enemy collisions and putting the level all together.
-**It is due Oct 9 at 11:59pm. It will be graded according to the MP rubric with partial credit.** 
+**It is due Feb 28 at 11:59pm. It will be graded according to the MP rubric with partial credit.** 
 <br/><br/>
 **Please pay close attention to the guidelines about recording the video for submission:
 [Video Guidelines Link](https://docs.google.com/document/d/1QY5t2wU9_6I7t4b-jneDRa7grhtQdSITzaOXVh-YKrA/edit?usp=sharing)<br/>
@@ -67,7 +67,7 @@ To start, you should get familiar with the basics of how the level editor works 
 
 **Please read through the entire assignment spec before starting to get a better understanding of all the requirements.**
 
-## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy (Due Sep. 26)
+## Part 1: Player Character, Health System, Collectibles, and Pursuer Enemy (Due Feb. 19)
 ### Step 1: Setup the Map and Player Character
 To start, import the [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit) into your Unreal Engine. You will find that the basic player controller along with a large number of assets you may want to use are already included and preset in the kit. Construct a new platform level. Leave the map relatively blank for now, as you will gradually add components later on.
 
@@ -229,7 +229,7 @@ In addition to the instructions above, the following set of tutorials may be hel
 
 **End of Pursuer tutorial.**
 
-## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level (Due Oct. 7)
+## Part 2: Mortar Enemy, Custom Enemy, Player-Enemy Collisions, Completing the Level (Due Feb. 28)
 
 ### Step 1: Create a Mortar enemy
 The Mortar should:
