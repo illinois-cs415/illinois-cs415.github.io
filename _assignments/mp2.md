@@ -1,6 +1,6 @@
 ---
 layout: assignment
-title: "Level Design"
+title: "MP 2: Level Design"
 index: 10
 due: "<br/>
       Part 1: Feb 19 11:59PM CT<br/>
