@@ -12,7 +12,8 @@ You have several options on the University of Illinois campus, as detailed below
 
 ## The Armory Lab
 **Location: 505 E. Armory Ave. Room 146**  
-**Hours: M-Th 8:00am - 9:00pm, Friday 8:00am - 6:00pm, Su 1:00pm - 9:00pm**  
+**Hours: M-Th 8:00am - 9:00pm, Friday 8:00am - 6:00pm, Su 1:00pm - 9:00pm**
+**The [lab website](https://techservices.illinois.edu/computer-labs/#armoryrm126) has more information on availability**  
 **Equipment:**  
 18 Precision 3680 Towers  
 Intel® Core™ i9 14th Gen 14900K  
