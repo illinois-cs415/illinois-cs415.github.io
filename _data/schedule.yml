@@ -64,7 +64,7 @@
   materials: "Game Design [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture01.pdf)<br/>
               Stardew Valley [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-StardewValley.pdf)<br/>
               Game AI History [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/blob/main/img/slides/498-AI-1.pdf) <br/><br/>
-              Lecture [Video]()<br/>
+              Lecture [Video](https://mediaspace.illinois.edu/media/t/1_ani21kp3)<br/>
                **Optional Viewing:**<br/>
               Rules of the Game:<br/> Five Techniques from Quite Inventive Designers (2016) [YouTube](https://youtu.be/d8QAVGeEj-U?si=Fk8f2ovx1zX7_cEQ)<br/>
               Designing Games for Game Designers (2012) [YouTube](https://youtu.be/ke_kOD2D-bs?si=FazHhxS2jCf3Q6LL)<br/><br/>
@@ -84,14 +84,14 @@
   title: "Game AI"
 - 
   date: "Week 6: Feb 25"
-  materials: "UE5 Virtual Geometry [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteUE5.pdf)<br/>
+  materials: "AI: Tactical Waypoints [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-AI-5pptx.pdf)<br/>
+              Graphics: Rasterization [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/> 
               Lecture [Video]() <br/>
               "
   title: "Rendering"
 -
   date: "Week 6: Feb 27"
-  materials: "Rasterization [Video]) [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Rasterization.pdf)<br/>
-              Nanite Rasterization [Video]() [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
+  materials: "Nanite Rasterization [Video]() [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-NaniteRasterization.pdf)
               <br/> <br/>
                **Optional Reading**<br/>
                Real-Time Rendering Chapter 23 [PDF](https://drive.google.com/file/d/1rqzUDmTSvfhJFhAfYvcwifew7ApHp5ve/view?usp=sharing)"
