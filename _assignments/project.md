@@ -48,7 +48,16 @@ Your task is to as a team create a video game. Your grade for this project is ma
 You can find all document templates needed for the project at the [Course Google Drive folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing)
 
 
-The final project is worth a total of **100 points**. Please see the [detailed rubric](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a better understanding of which portion of these points is graded *per group* and which portion is an *individual score*. The final submission section is subject to course staff discretion based on peer evaluation results. 
+The final project is worth a total of **100 points**. Please see the [detailed rubric](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a better understanding of which portion of these points is graded *per group* and which portion is an *individual score*. **The final submission section is subject to course staff discretion based on peer evaluation results.** 
+
+# A Note About Not Letting Down Your Team
+
+**The graded item with the most significant weight is your participation with your team.** Your participation is graded based on peer evaluations at the end of the project and an evaluation done by the staff project mentor. This grading has three possible outcomes:
+ + **If you did nothing you will receive a 0 on the project.** 
+ + **If you did contribute something but did not complete the work assigned to you in the collaboration plan and failed to communicate effectively with your team (e.g. missing meetings) you will individually receive no more that 60% credit for the project.**
++ **If you worked well with your team and made a reasonable effort, you can receive full credit for the project.**   
+
+If there are issues that are preventing you from working effectively as a team member or the planned work turns out to be unreasonable, let your project mentor know as soon as possible and we will work on getting things fixed.
 
 ## Initial Check-in (2 points)
 Each student will receive an e-mail from their project mentor and must respond by March 28.
@@ -134,7 +143,6 @@ To reiterate, submission requirements for the Final Submission milestone:
 **Due date: 11:59 PM May 8**
 
 **Each team member must individually fill out the final peer evaluation form. The form will be published on CampusWire and due on May 8 by 11:59 PM CT.** 
-
 
 **See [here](https://docs.google.com/document/d/1DL8LW0lQmasXj3AwdqR42hc1X3tRWq48LYYpht-WKB8/edit?usp=sharing) for a detailed version of the rubric.** Please make sure to look through and understand this at the start of your project. 
 
