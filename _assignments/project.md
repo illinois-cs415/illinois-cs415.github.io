@@ -59,6 +59,9 @@ The final project is worth a total of **100 points**. Please see the [detailed r
 
 If there are issues that are preventing you from working effectively as a team member or the planned work turns out to be unreasonable, let your project mentor know as soon as possible and we will work on getting things fixed.
 
+# Milestones
+The project is broken down into several phases. You are responsible for knowing the submission dates and meeting them in a timely fashion. 
+
 ## Initial Check-in (2 points)
 Each student will receive an e-mail from their project mentor and must respond by March 28.
 
