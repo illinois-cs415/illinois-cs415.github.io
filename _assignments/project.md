@@ -63,10 +63,10 @@ If there are issues that are preventing you from working effectively as a team m
 The project is broken down into several phases. You are responsible for knowing the submission dates and meeting them in a timely fashion. 
 
 ## Initial Check-in (2 points)
-Each student will receive an e-mail from their project mentor and must respond by March 28.
+Each student will receive an e-mail from their project mentor and must respond by March 31.
 
 ## Discovery (10 of points)
-**Due date: 11:59 PM March 28**
+**Due date: 11:59 PM March 31**
 
 This is the first project milestone. You will need to complete the project documents contained within the [Final Project Documents Folder](https://drive.google.com/drive/folders/1G6Jt7JKCdktTcALsBy6WtPQnr2JSAeT5?usp=sharing) as a group.
 
@@ -91,7 +91,7 @@ To reiterate, submission requirements for the Discovery milestone:
 
 ## Initial Project Meeting (10 points)
 **Due date: by 11:59 PM April 10**
-Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. **The meeting is expected to last up to 30 minutes and happen the week of Nov 4-8.** It can be in person or on Zoom. Groups will be graded on:
+Before the Alpha and Final submission due dates, groups will meet with their assigned TAs **one time** to discuss their game design and feedback from the discovery submission. It can be in person or on Zoom. Groups will be graded on:
 1. **Attendance, majority of group members must attend**
 2. **Starting development...coding of basic functions should have started...be able to show the beginnings of a project**
 **Week of meetings: April 7 - April 10**
