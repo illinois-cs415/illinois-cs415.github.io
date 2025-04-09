@@ -96,14 +96,6 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 2. **Starting development...coding of basic functions should have started...be able to show the beginnings of a project**
 **Week of meetings: April 7 - April 10**
 
-To reiterate, submission requirements for the Mid-Project milestone: 
-* Schedule a Initial meeting with the course staff to discuss initial feedback. 
-* Any project code through a repository or drive/box link
-* Updated project summary (if applicable based on Discovery milestone feedback) 
-* Updated vision canvas (if applicable based on Discovery milestone feedback) 
-* Updated technical design document (if applicable based on Discovery milestone feedback) 
-* Updated collaboration plan, including details on each team member's contribution so far. 
-
 ## Alpha (30 points)
 **Due date: April 24 11:59 PM**
 
