@@ -175,8 +175,9 @@
   title: "Animation: Kinematics" 
 -
   date: "Week 12: Apr 10"
-  materials: " Collision Detection [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide1.pdf)<br/>"
-  title: "Physics: Collision Detection" 
+  materials: " FBX File Formats [Video](https://mediaspace.illinois.edu/media/t/1_4xadvjeq/369263532)&nbsp;[PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-SceneGraphs and FBX.pdf)<br/>
+               Integrating USD into Unreal Engine [YouTube](https://youtu.be/S5SwrX7fxkk?si=32AegalHcbGcBNs3)"
+  title: "Unreal Engine: File Formats!" 
 -
   date: "Week 13: Apr 15"
   materials: "Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
