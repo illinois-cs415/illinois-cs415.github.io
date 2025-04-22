@@ -181,8 +181,7 @@
 -
   date: "Week 13: Apr 15"
   materials: "Ray Tracing Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf) <br/>
-              Collision Detection Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-Collide.pdf) <br/>
-               [Video]()<br/>
+               [Video](https://mediaspace.illinois.edu/media/t/1_kravb21n/369263532)<br/>
                 Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)<br/><br/>
                **PrairieLearn HW 5 Assigned [Link](https://us.prairielearn.com/pl/course_instance/176404/assessment/2503471)**<br/><br/>
               **Optional Reading:**<br/>
@@ -195,16 +194,17 @@
   title: "Graphics: Real-Time Ray Tracing" 
 -
   date: "Week 14: Apr 22"
-  materials: " UE5 Lumen [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5 Lumen.pdf)<br/>"
-  title: "UE 5 Lumen" 
+  materials: " 
+   Collision Detection Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-Collide.pdf) <br/>"
+  title: "Game Physics: Collision Detection" 
 -
   date: "Week 14: Apr 24"
   materials: ""
-  title: "UE 5 File Formats "  
+  title: " "  
 -
   date: "Week 15: Apr 29"
-  materials: ""
-  title: "Guest Lecture: Game Industry" 
+  materials: "UE5 Lumen [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5 Lumen.pdf)<br/>"
+  title: "" 
 -
   date: "Week 15: May 1"
   materials: "[Creative Future with Artificial Intelligence - GDC 2023 Talk](https://youtu.be/fOqLuWml0UY?si=wXWE04Opl8HpHvVs)"
