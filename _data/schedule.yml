@@ -199,7 +199,10 @@
   title: "Game Physics: Collision Detection" 
 -
   date: "Week 14: Apr 24"
-  materials: ""
+  materials: "GDC 2018: Extreme SIMD: Optimized Collision Detection in Titanfall [YouTube](https://youtu.be/6BIfqfC1i7U?si=7Aks4-BcRBtkMkuD)<br/>
+             **This talk gets pretty complex. Don't worry about understanding it all.**<br/>
+              You will understand some and get to see what a core engine dev does"
+  
   title: " "  
 -
   date: "Week 15: Apr 29"
