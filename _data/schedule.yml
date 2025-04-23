@@ -195,15 +195,16 @@
 -
   date: "Week 14: Apr 22"
   materials: " 
-   Collision Detection Basics [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-Collide2025.pdf) <br/>
+   Collision Detection Basics [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-Collide2025.pdf) <br/>
    [Video](https://mediaspace.illinois.edu/media/t/1_cmg820iu/369263532)"
   title: "Game Physics: Collision Detection" 
 -
   date: "Week 14: Apr 24"
   materials: "GDC 2018: Extreme SIMD: Optimized Collision Detection in Titanfall [YouTube](https://youtu.be/6BIfqfC1i7U?si=7Aks4-BcRBtkMkuD)<br/>
-             **This talk gets pretty complex. Don't worry about understanding it all.**<br/>
-              You will understand some and get to see what a core engine dev does"
-  
+             **This talk gets pretty complex**<br/>
+              Don't worry about understanding it all<br/>
+              You will understand some<br/>
+              And get to see what a core engine dev does"
   title: "Game Physics: Collision Detection"  
 -
   date: "Week 15: Apr 29"
