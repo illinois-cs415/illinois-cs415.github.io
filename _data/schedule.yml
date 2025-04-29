@@ -208,7 +208,8 @@
   title: "Game Physics: Collision Detection"  
 -
   date: "Week 15: Apr 29"
-  materials: "UE5 Lumen [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5 Lumen.pdf)<br/>"
+  materials: "UE5 Lumen [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/415-UE5 Lumen.pdf)<br/>
+              Real-Time Sparse Distance Fields for Games [PDF](https://github.com/illinois-cs415/illinois-cs415.github.io/raw/main/img/slides/GDC-2023.pdf)"
   title: "Graphics: Global Illumination" 
 -
   date: "Week 15: May 1"
